@@ -1,0 +1,323 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2378050947708348859
+  },
+  "m_Name": "LiveOps_en",
+  "m_LocaleId": {
+    "m_Code": "en"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": 2553057028820483332
+  },
+  "m_Metadata": {
+    "m_Items": [
+      {
+        "rid": 0
+      }
+    ]
+  },
+  "m_TableData": [
+    {
+      "m_Id": 309076876582912,
+      "m_Localized": "Recruit Season",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076893360128,
+      "m_Localized": "Recruit",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076910137344,
+      "m_Localized": "Enter the Multiverse",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076910137345,
+      "m_Localized": "May 2022",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076910137346,
+      "m_Localized": "Atlantis Beach Club",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076910137347,
+      "m_Localized": "June 2022",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076943691776,
+      "m_Localized": "Love and Thunder",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076943691777,
+      "m_Localized": "July 2022",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076964663296,
+      "m_Localized": "Heroes for Hire",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076964663297,
+      "m_Localized": "August 2022",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5018110048153600,
+      "m_Localized": "Test Event",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5018110069125120,
+      "m_Localized": "Test Your Might",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5018110069125121,
+      "m_Localized": "Escape from Hel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5018110069125122,
+      "m_Localized": "Sweet Christmas",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5018110069125123,
+      "m_Localized": "Call 888-SMASH for Help",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5018710395662336,
+      "m_Localized": "{nexusEvent.Title}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 5755851976466432,
+      "m_Localized": "Sword and Shield",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5755852005826560,
+      "m_Localized": "September 2022",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6937858022563840,
+      "m_Localized": "Director's Chosen",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6937858026758144,
+      "m_Localized": "Triskrullion",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10078448800051200,
+      "m_Localized": "{season.SplashPromoDescription}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10078887369060352,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10078887369060353,
+      "m_Localized": "Every month there's a new Season of exciting missions and rewards! Enjoy this special short Season before the main ones begin!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10078887369060354,
+      "m_Localized": "Make a splash with Wave and earn exclusive rewards in this season’s Premium Season Pass!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10078887369060355,
+      "m_Localized": "Defend Asgard with Thor and earn exclusive rewards in this season’s Premium Battle Pass!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10078887369060356,
+      "m_Localized": "Lawyer up with Daredevil to win timed exclusive rewards in the new Premium Season Pass",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10078887369060357,
+      "m_Localized": "Fight alongside Nick Fury's agents in the new Premium Season Pass!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10456382651613184,
+      "m_Localized": "Symbiote Invasion",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10456382676779008,
+      "m_Localized": "October 2022",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10456382676779009,
+      "m_Localized": "Warriors of Wakanda",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10456382676779010,
+      "m_Localized": "November 2022",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10836936074715136,
+      "m_Localized": "THWIP!  Swing through the city with Miles Morales in the new Premium Season Pass",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10836936108269568,
+      "m_Localized": "Harness the power of Vibranium with Black Panther in the new Premium Season Pass",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 28603317745500160,
+      "m_Localized": "December 2022",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 28603307129716736,
+      "m_Localized": "The Power Cosmic",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 28681779454926848,
+      "m_Localized": "Wield the Power Cosmic with Silver Surfer in the new Premium Season Pass!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33032749722886144,
+      "m_Localized": "Savage Land",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33032753166409728,
+      "m_Localized": "January 2023",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33032756047896576,
+      "m_Localized": "Tame the Savage Land with Zabu in the new Premium Season Pass!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 0,
+        "type": {
+          "class": "SmartFormatTag",
+          "ns": "UnityEngine.Localization.Metadata",
+          "asm": "Unity.Localization"
+        },
+        "data": {}
+      }
+    ]
+  }
+}
