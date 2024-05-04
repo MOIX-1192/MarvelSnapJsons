@@ -1,0 +1,470 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2378050947708348859
+  },
+  "m_Name": "LiveOps_zh",
+  "m_LocaleId": {
+    "m_Code": "zh"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": 2553057028820483332
+  },
+  "m_Metadata": {
+    "m_Items": [
+      {
+        "rid": 0
+      }
+    ]
+  },
+  "m_TableData": [
+    {
+      "m_Id": 309076876582912,
+      "m_Localized": "新手历程",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076893360128,
+      "m_Localized": "新手",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076910137344,
+      "m_Localized": "进入多元宇宙",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076910137345,
+      "m_Localized": "2022年5月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076910137346,
+      "m_Localized": "<nobr>亚特兰蒂斯海滩俱乐部</nobr>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076910137347,
+      "m_Localized": "2022年6月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076943691776,
+      "m_Localized": "爱与雷霆",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076943691777,
+      "m_Localized": "2022年7月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076964663296,
+      "m_Localized": "英雄列阵",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076964663297,
+      "m_Localized": "2022年8月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5018110048153600,
+      "m_Localized": "测试活动",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5018110069125120,
+      "m_Localized": "试试你的力量",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5018110069125121,
+      "m_Localized": "逃离冥界",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5018110069125122,
+      "m_Localized": "甜蜜圣诞",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5018110069125123,
+      "m_Localized": "拨打浩克热线求助吧",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5018710395662336,
+      "m_Localized": "{nexusEvent.Title}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 5755851976466432,
+      "m_Localized": "天剑局与神盾局",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5755852005826560,
+      "m_Localized": "2022年9月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6937858022563840,
+      "m_Localized": "局长之选",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6937858026758144,
+      "m_Localized": "斯克鲁人危机",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10078448800051200,
+      "m_Localized": "{season.SplashPromoDescription}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10078887369060353,
+      "m_Localized": "每个月都会推出全新赛季，还有丰富任务和奖励！在大型赛季之前尽情享受特别版浓缩赛季吧！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10078887369060354,
+      "m_Localized": "来跟浪一起浪出天际吧！众多专属奖励尽在本赛季的高级赛季通行证！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10078887369060355,
+      "m_Localized": "与索尔一并守卫阿斯加德！众多专属奖励尽在本赛季的高级通行证！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10078887369060356,
+      "m_Localized": "与夜魔侠组成律师天团，新高级赛季通行证中的限时专属奖励等你来赢！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10078887369060357,
+      "m_Localized": "开启新高级赛季通行证，与尼克·弗瑞的特工们肩并肩战斗！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10456382651613184,
+      "m_Localized": "共生体入侵",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10456382676779008,
+      "m_Localized": "2022年10月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10456382676779009,
+      "m_Localized": "瓦坎达勇士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10456382676779010,
+      "m_Localized": "2022年11月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10078887369060352,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10836936074715136,
+      "m_Localized": "啪！开启全新的高级赛季通行证，和迈尔斯·莫拉雷斯一起在这座城市中摆荡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10836936108269568,
+      "m_Localized": "开启全新的高级赛季通行证，和黑豹一起利用振金的力量",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 28603307129716736,
+      "m_Localized": "宇宙能量",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 28603317745500160,
+      "m_Localized": "2022年12月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 28681779454926848,
+      "m_Localized": "开启全新的高级赛季通行证，和银河冲浪手一起运用宇宙能量！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33032749722886144,
+      "m_Localized": "蛮荒之地",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33032753166409728,
+      "m_Localized": "2023年1月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33032756047896576,
+      "m_Localized": "开启全新高级赛季通行证，与扎布一起征服蛮荒之地！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 45767858959933440,
+      "m_Localized": "进入量子领域",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 45767865821814784,
+      "m_Localized": "2023年2月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 45768089541795840,
+      "m_Localized": "开启全新的高级赛季通行证，探索神秘的量子领域和魔多客吧！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58241398741131264,
+      "m_Localized": "逆转未来",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58241402864132096,
+      "m_Localized": "2023年3月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58241406068580352,
+      "m_Localized": "开启全新的高级赛季通行证，和宁录一起驾驭AI的力量！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 70537253657501696,
+      "m_Localized": "动物集结",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 70537404509839360,
+      "m_Localized": "2023年4月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 70537289434914816,
+      "m_Localized": "开启全新高级赛季通行证，和杀手猴一起释放原始本能！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 80601187018072064,
+      "m_Localized": "护卫队金曲精选",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 80601191011049472,
+      "m_Localized": "2023年5月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 80601205867274240,
+      "m_Localized": "开启全新的高级赛季通行证，和星云一起守护银河系！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 90604554381418496,
+      "m_Localized": "蜘蛛宇宙对决",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 90608573296402432,
+      "m_Localized": "2023年6月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 90608623321866240,
+      "m_Localized": "在新的高级赛季通行证中，和幽灵蜘蛛一起荡入多元宇宙吧！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100775624698748928,
+      "m_Localized": "凤凰崛起",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100775703224508416,
+      "m_Localized": "2023年7月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100775761122680832,
+      "m_Localized": "开启全新的高级赛季通行证，拥抱宇宙之火、掌握凤凰之力！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 111677467926716416,
+      "m_Localized": "2023年8月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 111677513023873024,
+      "m_Localized": "开启全新的高级赛季通行证，和戴肯一起“斩”胜挑战！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112379940010188800,
+      "m_Localized": "日本风云",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 0,
+        "type": {
+          "class": "SmartFormatTag",
+          "ns": "UnityEngine.Localization.Metadata",
+          "asm": "Unity.Localization"
+        },
+        "data": {}
+      }
+    ]
+  }
+}
