@@ -1,0 +1,5794 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2378050947708348859
+  },
+  "m_Name": "UI_zh-Hant",
+  "m_LocaleId": {
+    "m_Code": "zh-Hant"
+  },
+  "m_SharedData": {
+    "m_FileID": 2,
+    "m_PathID": -8076606306090121177
+  },
+  "m_Metadata": {
+    "m_Items": [
+      {
+        "rid": 0
+      }
+    ]
+  },
+  "m_TableData": [
+    {
+      "m_Id": 20764942336,
+      "m_Localized": "將此卡牌升級至<color=#{card.NextRarity.Color}>{card.NextRarity.Name}</color>並獲得<color=#8EFF38><sprite name=\"icn_score\" color=#8EFF38>{card.NextRarity.CollectionScoreGranted}收藏等級？</color>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 14444926066688,
+      "m_Localized": "升級",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1140688375767040,
+      "m_Localized": "{card.Name}變體卡",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 5403562627555328,
+      "m_Localized": "{card.Description}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 5417279679356928,
+      "m_Localized": "{location.Name}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 5422668256894976,
+      "m_Localized": "{location.Description}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 6219671660388352,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6588931964395520,
+      "m_Localized": "{card.Name}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 7560007397662720,
+      "m_Localized": "{card.ArtVariant.VariantLabel:{card.ArtVariant.VariantLabel}變體|變體}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 7653535834431488,
+      "m_Localized": "{surfaceEffect.SurfaceName}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 8277916432457728,
+      "m_Localized": "{location.Tip}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 8359445892423680,
+      "m_Localized": "{season.DateTitle}賽季通行證",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 8360007841079296,
+      "m_Localized": "{season.Title}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 16351409201152,
+      "m_Localized": "取消",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5831944406294528,
+      "m_Localized": "<size=50%>自訂</size>頭像",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6216103545004032,
+      "m_Localized": "添加到牌組",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6216294834626560,
+      "m_Localized": "從牌組移除",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6216365064052736,
+      "m_Localized": "替換變體卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6216397880287232,
+      "m_Localized": "未選擇牌組",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6216449780604928,
+      "m_Localized": "牌組已滿",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6216699819843584,
+      "m_Localized": "可從通行證獲得",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6216910642339840,
+      "m_Localized": "可從商店獲得",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6217065256968192,
+      "m_Localized": "可從錦標賽商店獲得",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6217158290825216,
+      "m_Localized": "可在收藏分獎勵陣容解鎖",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6217246115356672,
+      "m_Localized": "即將進入收藏分獎勵陣容",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6217312565714944,
+      "m_Localized": "未獲得卡牌",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7691397665644544,
+      "m_Localized": "<color=#54BCFF>無限分離</color>\\n用特殊模組創造此卡牌的複製卡！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7694274186436608,
+      "m_Localized": "來設定\\n你的牌組吧！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7695194697752576,
+      "m_Localized": "好的",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7695315112026112,
+      "m_Localized": "下次再說",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7695649519689728,
+      "m_Localized": "返回",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7695774203764736,
+      "m_Localized": "新偏好已設定完成！是否將此偏好應用到牌組？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7962467819839488,
+      "m_Localized": "閱讀更多",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8006197096472576,
+      "m_Localized": "關注我們的社群媒體",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8006412151021568,
+      "m_Localized": "觀看更多",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8006712488353792,
+      "m_Localized": "影片",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8007121382662144,
+      "m_Localized": "新聞",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8007214303272960,
+      "m_Localized": "<nobr>漫威：瞬戰超能新聞</nobr>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8007338479837184,
+      "m_Localized": "載入中……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8009913128181760,
+      "m_Localized": "奬勵",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8010069437308928,
+      "m_Localized": "人氣",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8010155886108672,
+      "m_Localized": "全新",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8010249985318912,
+      "m_Localized": "熱門",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8020644540178432,
+      "m_Localized": "今日",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8020668300910592,
+      "m_Localized": "{amount}{amount:天|天}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 8020686755848192,
+      "m_Localized": "{amount}{amount:週|週}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 8020704631971840,
+      "m_Localized": "{amount}{amount:年|年}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 8275436214673408,
+      "m_Localized": "精選區域",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8286674252455936,
+      "m_Localized": "熱門區域！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8286797321723904,
+      "m_Localized": "出現機率增加！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8291481772089344,
+      "m_Localized": "遊戲更新！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8295386425843712,
+      "m_Localized": "每日小祕訣",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8296581131395072,
+      "m_Localized": "完成任務，獲得豐厚獎勵！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8296869884059648,
+      "m_Localized": "新手任務",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8299615722921984,
+      "m_Localized": "賽季任務",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8359720493506560,
+      "m_Localized": "解鎖高級通行證！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8360371722117120,
+      "m_Localized": "解鎖高級通行證，獲得獨家獎勵！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12696265505628160,
+      "m_Localized": "確認年齡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12700867219152896,
+      "m_Localized": "你的年齡是？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12696728972025856,
+      "m_Localized": "我們需要這項資訊，確保只有符合條件的玩家能繼續遊戲。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12686790040215552,
+      "m_Localized": "確認生日",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12687180500557824,
+      "m_Localized": "請選擇你的生日以繼續遊戲",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12692632147845120,
+      "m_Localized": "確認你的出生年份",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12692862226391040,
+      "m_Localized": "請選擇你的出生年份以繼續遊戲。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12700252107694080,
+      "m_Localized": "我已滿{ageRequirement}歲或以上",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 12699754562576384,
+      "m_Localized": "我是{ageRequirement}歲或以上",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 12700097363042304,
+      "m_Localized": "我未滿{ageRequirement}歲",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 12685424525828096,
+      "m_Localized": "日",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12693149880147968,
+      "m_Localized": "你必須滿{ageRequirement}歲或以上才能玩《漫威：瞬戰超能》。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 12693427278831616,
+      "m_Localized": "若出現錯誤，請稍後重再試。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12693054107410432,
+      "m_Localized": "<nobr>無法遊玩</nobr>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12685310801469440,
+      "m_Localized": "月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12685555039985664,
+      "m_Localized": "年",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13013093079572480,
+      "m_Localized": "以後再說",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12702924483321856,
+      "m_Localized": "停用教學",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13000391825285120,
+      "m_Localized": "由於涉及違反政策，你的帳號已經被停權。\\n\\n若你認為這是錯誤操作導致的，可以進行申訴。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13000326633218048,
+      "m_Localized": "帳號停權",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13002441636175872,
+      "m_Localized": "我們接到這個帳號的刪除申請。請問你是否希望撤銷申請？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13002266935025664,
+      "m_Localized": "取消帳號刪除？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13676939628765184,
+      "m_Localized": "若要繼續遊戲，需要下載約500MB的檔案；若想遊玩完整遊戲內容，需額外下載1.9GB的檔案。請使用Wi-Fi連線以獲得最佳體驗。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13676700247252992,
+      "m_Localized": "需要進行額外的後台下載。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13677703654793216,
+      "m_Localized": "隨時可下載並進行遊玩。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13677209842606080,
+      "m_Localized": "沒問題",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13009179345149952,
+      "m_Localized": "請重啟遊戲，來完成沙盒初始化。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13009096562171904,
+      "m_Localized": "GSDK沙盒已啟用",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13002731055734784,
+      "m_Localized": "我們正在處理你的請求。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13002699481014272,
+      "m_Localized": "請稍後……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13013444906180608,
+      "m_Localized": "連結你的帳號，確保你可以隨時儲存遊戲，避免進度和已購買內容的遺失。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13013320977080320,
+      "m_Localized": "保護你的帳號",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12998228482973696,
+      "m_Localized": "離開遊戲？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13009911184089088,
+      "m_Localized": "你的進度和已購買物品會保存，並於下次登入時自動獲取。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13009854229635072,
+      "m_Localized": "登出此帳號？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13009981497401344,
+      "m_Localized": "該帳號尚未與第三方應用程式連結。退出帳號後你的進度和已購買物品將會丟失。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13007741055393792,
+      "m_Localized": "用戶已取消登入，或該帳號無法正常連線。若問題持續發生，請聯絡客服人員。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12948669232832512,
+      "m_Localized": "噢，SNAP！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12960614975528960,
+      "m_Localized": "你的客戶端已過期，請下載最新版本以繼續遊戲。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13003532499148800,
+      "m_Localized": "抱歉，你的客戶端數據與伺服器不相符，請稍後再試。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13004052467015680,
+      "m_Localized": "連結帳號失敗，已被其他《漫威：瞬戰超能》帳號使用。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13001159810736128,
+      "m_Localized": "很抱歉，我們檢測到一個錯誤，已經進行回報！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12998834757033984,
+      "m_Localized": "很抱歉，遊戲發生錯誤，無法繼續！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13007232684777472,
+      "m_Localized": "你的《漫威：瞬戰超能》客戶端並非官方支援版本。請僅從App Store/TestFlight或Google Play安裝遊戲。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12956090697244672,
+      "m_Localized": "無效的狀態模式導致遊戲無法繼續。若問題持續發生，請聯絡客服人員。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12961867361148928,
+      "m_Localized": "無法訪問遊戲伺服器，請檢查遊戲是否需要更新或稍後重試。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12961002906705920,
+      "m_Localized": "無法獲取遊戲服務，請稍後重試。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12961384542232576,
+      "m_Localized": "無法獲取遊戲登入服務，請稍後重試。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12961542591995904,
+      "m_Localized": "無法獲取遊戲登入服務。若問題持續發生，請聯絡客服人員。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12961977214164992,
+      "m_Localized": "無法獲取遊戲配對服務，請稍後重試。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12961754999939072,
+      "m_Localized": "無法獲取遊戲驗證服務，請稍後重試。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13003918421254144,
+      "m_Localized": "你的遊戲環境尚未啟用GSDK。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13007562596147200,
+      "m_Localized": "帳號連結錯誤。若問題持續發生，請聯絡客服人員。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13003728662552576,
+      "m_Localized": "帳號退出錯誤，請稍後重試。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12683910289809408,
+      "m_Localized": "接受",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13000700828049408,
+      "m_Localized": "申訴",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10533805495410688,
+      "m_Localized": "購買",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12696170554974208,
+      "m_Localized": "確認",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12685980363382784,
+      "m_Localized": "繼續",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13677899742699520,
+      "m_Localized": "下載",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12702818447122432,
+      "m_Localized": "開始遊戲",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12985318117466112,
+      "m_Localized": "不用",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10927025932984320,
+      "m_Localized": "不必了",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12999132674252800,
+      "m_Localized": "好的",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13009598465171456,
+      "m_Localized": "重新開始",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13010034458877952,
+      "m_Localized": "登出",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12957267820273664,
+      "m_Localized": "客服人員",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13677994617856000,
+      "m_Localized": "等待",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12985293224271872,
+      "m_Localized": "是的",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13726370001629184,
+      "m_Localized": "牌組： ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13726194562281472,
+      "m_Localized": "已摧毀： ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13725999405510656,
+      "m_Localized": "已丟棄： ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13726501765689344,
+      "m_Localized": "手牌： ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13726821023526912,
+      "m_Localized": "靜音",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13727170966892544,
+      "m_Localized": "檢舉使用者",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13727042063347712,
+      "m_Localized": "設定",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12734516523216896,
+      "m_Localized": "已投降",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12733681126912000,
+      "m_Localized": "準備戰鬥？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12734355445166080,
+      "m_Localized": "已接受",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12734161081118720,
+      "m_Localized": "等待對方",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12733294529523712,
+      "m_Localized": "領取獎勵",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12732980007055360,
+      "m_Localized": "繼續",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12732845684469760,
+      "m_Localized": "結束遊戲",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12730567309176832,
+      "m_Localized": "結束回合",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12732717493956608,
+      "m_Localized": "遊戲結束",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12733141747806208,
+      "m_Localized": "主頁",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12732368523669504,
+      "m_Localized": "放置中",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12732091020128256,
+      "m_Localized": "等待中",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11183229360975872,
+      "m_Localized": "最終：<size=130%>{cubeValue}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 14094738968797184,
+      "m_Localized": "沒有比一場硬仗後收穫強化套組更棒的了。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14094974432829440,
+      "m_Localized": "我從不夠資格的人手上奪走強化套組，這是我的風格。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14094991264571392,
+      "m_Localized": "今晚我和斯克拉奇先生會徹夜狂歡。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14095008289251328,
+      "m_Localized": "感謝你的強化套組！對了，我還殺了小火花。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11182975634944000,
+      "m_Localized": "最大",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11170288955863040,
+      "m_Localized": "下一回合：<size=130%>{cubeValue}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 14095654212067328,
+      "m_Localized": "贏得對戰來收集<color=#67B9EDFF>宇宙魔方</color>。擁有更多的魔方意味著牌位越高！\\n\\n<color=#ED6F68>宇宙魔方的力量將在牌位10解鎖……</color>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13715559795437568,
+      "m_Localized": "等等看對方是否會撤退……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13050516200271872,
+      "m_Localized": "已中止",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13050343147483136,
+      "m_Localized": "投降",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13048940467367936,
+      "m_Localized": "撤退",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13050456100089856,
+      "m_Localized": "超時",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13715359043465216,
+      "m_Localized": "稍後撤退*",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13716803112972288,
+      "m_Localized": "*若對方也撤退，則平局",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13716647332327424,
+      "m_Localized": "現在撤退",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13715762652950528,
+      "m_Localized": "確認從對戰中撤退？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12686998439505920,
+      "m_Localized": "SNAP！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12689447267119104,
+      "m_Localized": "贏得對戰來收集<color=#67B9EDFF>宇宙魔方</color>。擁有更多的魔方意味著牌位越高！<color=#ED6F68>宇宙魔方的力量將在牌位10解鎖……</color>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13761559633375232,
+      "m_Localized": "你好！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13762317980315648,
+      "m_Localized": "我很有信心。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13762407759392768,
+      "m_Localized": "我不相信你。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13762185301897216,
+      "m_Localized": "感覺我要輸了！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13762087671083008,
+      "m_Localized": "SNAP！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13763058618904576,
+      "m_Localized": "啊啊啊啊啊！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13762516513501184,
+      "m_Localized": "給你按讚！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13763154722992128,
+      "m_Localized": "剛剛發生什麼事了？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13697553592737792,
+      "m_Localized": "利用Apple ID登入",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13697744639090688,
+      "m_Localized": "利用Google帳號登入",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10570511166726144,
+      "m_Localized": "你已經在遊戲中。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10570124665806848,
+      "m_Localized": "遊戲配對作弊！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10918562351800320,
+      "m_Localized": "正在連線帳號……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11033436465651712,
+      "m_Localized": "正在連線遊戲……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11041589504761856,
+      "m_Localized": "無法加入遊戲。Error:{errorMessage}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10918640600735744,
+      "m_Localized": "正在加入遊戲……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10569816090861568,
+      "m_Localized": "正在退出遊戲配對……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10570507010170880,
+      "m_Localized": "配對成功！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10570042742661120,
+      "m_Localized": "正在配對……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10918358357630976,
+      "m_Localized": "正在重新連線帳號……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11033846400147456,
+      "m_Localized": "正在重新連線遊戲……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10918844439715840,
+      "m_Localized": "正在等待對手……{remainingSeconds}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 11031385719431168,
+      "m_Localized": "正在集合……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10547052659335168,
+      "m_Localized": "對戰",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10547344108937216,
+      "m_Localized": "正在尋找對手……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12688295568859136,
+      "m_Localized": "4月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12688455803854848,
+      "m_Localized": "8月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12688533612388352,
+      "m_Localized": "12月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12688246134792192,
+      "m_Localized": "2月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12688183857766400,
+      "m_Localized": "1月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12688378620272640,
+      "m_Localized": "7月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12688349264338944,
+      "m_Localized": "6月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12688269492871168,
+      "m_Localized": "3月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12688323188350976,
+      "m_Localized": "5月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12688506471047168,
+      "m_Localized": "11月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12689688883093504,
+      "m_Localized": "10月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12688481200365568,
+      "m_Localized": "9月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10853318606708736,
+      "m_Localized": "賽季\\n通行證",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10853579496611840,
+      "m_Localized": "收藏",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10852722684190720,
+      "m_Localized": "主頁",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10853235060367360,
+      "m_Localized": "新聞",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10853935437832192,
+      "m_Localized": "商店",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13014105071628288,
+      "m_Localized": "本賽季完成10場對局，即可解鎖這些牌位獎勵！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12606608733188096,
+      "m_Localized": "{season.Title}牌位獎勵",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 13763842101207040,
+      "m_Localized": "刪除帳號",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13762009051947008,
+      "m_Localized": "下載所有資源",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13760029218824192,
+      "m_Localized": "30 FPS",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13760100152893440,
+      "m_Localized": "60 FPS",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13759934163312640,
+      "m_Localized": "自動",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13765235893592064,
+      "m_Localized": "全螢幕",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13765152502439936,
+      "m_Localized": "觸覺回饋",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13763550840348672,
+      "m_Localized": "高",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13763295088467968,
+      "m_Localized": "如何進行遊戲",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14135886349328384,
+      "m_Localized": "連結帳號",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13763686526083072,
+      "m_Localized": "低",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13763618586746880,
+      "m_Localized": "中",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13761692897894400,
+      "m_Localized": "客服支援",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13762796343779328,
+      "m_Localized": "隱私權",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13762872562671616,
+      "m_Localized": "退回桌面",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13762968696119296,
+      "m_Localized": "回報錯誤",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13763210011205632,
+      "m_Localized": "登出",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14142369183031296,
+      "m_Localized": "漫威：瞬戰超能ID：{snapId}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 14145934119133184,
+      "m_Localized": "已複製漫威：瞬戰超能ID到剪貼簿。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14145520485261312,
+      "m_Localized": "【查看漫威：瞬戰超能ID】",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13763056298352640,
+      "m_Localized": "服務條款",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13763786715422720,
+      "m_Localized": "設定",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13762091818147840,
+      "m_Localized": "切換FPS",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14142633000558592,
+      "m_Localized": "版本：{version}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 13000773842493440,
+      "m_Localized": "我想要申訴帳號停權。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12958758819848192,
+      "m_Localized": "無效的狀態模式導致遊戲無法繼續。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12984407227883520,
+      "m_Localized": "無法連結帳號。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12983741369540608,
+      "m_Localized": "無法登入。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12983487911944192,
+      "m_Localized": "無法進行遊戲。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12983996584550400,
+      "m_Localized": "無法完成購買。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12984486798024704,
+      "m_Localized": "無法登入帳號。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12685067431174144,
+      "m_Localized": "若繼續，即表示我同意《服務條款》，且確認已閱讀{publisher}與Second Dinner的隱私政策。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 12684808231575552,
+      "m_Localized": "我已閱讀並同意\\n<link=\"pubprivacy\"><color=#2785E2><u>《{publisher}隱私政策》</u></color></link>和\\n<link=\"sdprivacy\"><color=#2785E2><u>《Second Dinner隱私政策》</u></color></link>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 12684225776967680,
+      "m_Localized": "若要繼續遊戲，\\n請閱讀並確認以下事項：",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12684946291286016,
+      "m_Localized": "我同意《漫威：瞬戰超能》\\n<link=\"nvprivacy\"><color=#2785E2><u>《服務條款》</u></color></link>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12684590522032128,
+      "m_Localized": "<nobr>歡迎來到《漫威：瞬戰超能》</nobr>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13303505739395072,
+      "m_Localized": "特工",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13303505739395074,
+      "m_Localized": "青銅",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13303505739395078,
+      "m_Localized": "鑽石",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13303505739395081,
+      "m_Localized": "銀河",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13303505739395076,
+      "m_Localized": "黃金",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13303505739395082,
+      "m_Localized": "無限",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13303505739395073,
+      "m_Localized": "鋼鐵",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13303505739395080,
+      "m_Localized": "歐米伽",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13303505739395077,
+      "m_Localized": "白金",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13303505726812160,
+      "m_Localized": "新兵",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13303505739395075,
+      "m_Localized": "白銀",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13303505739395079,
+      "m_Localized": "振金",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13039604707700736,
+      "m_Localized": "{tier.Name}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10839674066034688,
+      "m_Localized": "{totalSeconds:cond:>=604800?{weeks}週{days}天|>=86400?{days}天{hours}時|>=3600?{hours}時{minutes}分|{minutes}分{seconds}秒}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10901206888079360,
+      "m_Localized": "{timeCountdown:{timeCountdown}|--時 --分}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 11052362364870656,
+      "m_Localized": "對戰1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11054265127657472,
+      "m_Localized": "對戰2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14033187603734528,
+      "m_Localized": "進行遊戲以\\n<color=yellow>視覺升級</color>你的卡牌",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11053474266472448,
+      "m_Localized": "歡迎來到",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13796817660534784,
+      "m_Localized": "領取你的獎勵！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13797269559042048,
+      "m_Localized": "持續升級卡牌以解鎖新的卡牌！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13794210309201920,
+      "m_Localized": "前往你的收藏！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13794418237628416,
+      "m_Localized": "此卡牌已\\n升級就緒。\\n準備好了！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13795342620286976,
+      "m_Localized": "來升級吧！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13796627708895232,
+      "m_Localized": "使用強化套組來升級一張卡牌！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13795868397264896,
+      "m_Localized": "輕觸",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13796157103792128,
+      "m_Localized": "升級中",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13796395931656192,
+      "m_Localized": "你的卡牌！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13797470537506816,
+      "m_Localized": "打開\\n你的牌組！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13797709281484800,
+      "m_Localized": "你的新卡牌\\n<color=yellow>很讚</color>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13797894397091840,
+      "m_Localized": "替換震動人！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13798637975887872,
+      "m_Localized": "你的牌組無敵了。\\n去主宰對戰吧！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13798089570639872,
+      "m_Localized": "加入此卡牌！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13798450498887680,
+      "m_Localized": "在這裡編輯\\n你的牌組！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13805222768926720,
+      "m_Localized": "<color=purple>哨兵機器人</color>已在你的收藏中等候",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13835765652905984,
+      "m_Localized": "從<color=yellow>鋼鐵</color>牌位開始，輸掉對戰牌位會<color=red>下降</color>。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13835452913016832,
+      "m_Localized": "恭喜獲得<color=yellow>鋼鐵</color>牌位！請享受附贈的免費牌位！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14063137929027584,
+      "m_Localized": "加入收藏",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14034228223139840,
+      "m_Localized": "加入牌組！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14064225382031360,
+      "m_Localized": "幹得不錯！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14032584647368704,
+      "m_Localized": "來吧！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14032143654051840,
+      "m_Localized": "贏得漂亮！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14025502212743168,
+      "m_Localized": "再次升級！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14025693418479616,
+      "m_Localized": "我們喜歡免費送禮",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14034051106070528,
+      "m_Localized": "另一次免費升級？\\n真是大方",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14033816292155392,
+      "m_Localized": "轉動卡牌，看看炫酷特效！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14032421707046912,
+      "m_Localized": "升級卡牌可解鎖<color=yellow>新卡牌</color>！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14032849727381504,
+      "m_Localized": "視覺升級！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14064087657865216,
+      "m_Localized": "進行另一張卡牌的<color=yellow>視覺升級</color>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14033683538239488,
+      "m_Localized": "你還有牌沒出呢！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14033472501833728,
+      "m_Localized": "輕觸以繼續",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14068732853739520,
+      "m_Localized": "你贏得的（或輸掉的）<color=#5755F3>宇宙魔方</color>會在第6回合<color=\"yellow\">翻倍</color>！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14068864768794624,
+      "m_Localized": "若你覺得你要輸了，趕緊<color=#ff1111>撤退！</color>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14068970624638976,
+      "m_Localized": "……但是你還有機會。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14068227071008768,
+      "m_Localized": "輸掉的一方會丟掉一個<color=#5755F3>宇宙魔方</color>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14068608228384768,
+      "m_Localized": "格魯特，注意點，我們還在戰鬥中呢！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14071396467466240,
+      "m_Localized": "對方很有自信，\\n剛剛<color=#ff1111>SNAP</color>了！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14071424351199232,
+      "m_Localized": "本場對戰的<color=#5755F3>宇宙魔方</color>將會<color=yellow>翻倍</color>！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14071552864673792,
+      "m_Localized": "要在丟掉<color=\"yellow\">雙倍</color>宇宙魔方前<color=#ff1111>撤退</color>嗎？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14071997578338304,
+      "m_Localized": "記住了，<color=#ff1111>撤退</color>可以減少丟掉的<color=#5755F3>宇宙魔方</color>。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14071824986923008,
+      "m_Localized": "幹得漂亮！\\n你只丟掉了\\n<color=#5755F3>1個魔方</color>，你本來要丟掉<color=#ff1111>2</color>個的！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14071914883440640,
+      "m_Localized": "幹得漂亮！\\n你只丟掉了\\n<color=#5755F3>2個魔方</color>，你本來要丟掉<color=#ff1111>4</color>個的！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14072108119220224,
+      "m_Localized": "你居然……贏了？行吧，若你快要輸掉對戰了，<color=#ff1111>撤退</color>可以讓你少丟點<color=#5755F3>宇宙魔方</color>。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14071640433352704,
+      "m_Localized": "記住了，對戰要結束時，宇宙魔方會再次<color=yellow>翻倍</color>。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14071680434429952,
+      "m_Localized": "要在損失增加前<color=#ff1111>撤退</color>嗎？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14071299528712192,
+      "m_Localized": "幸運浩克！！！哈哈哈！！！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14072458519764992,
+      "m_Localized": "對方<color=#ff1111>要輸了</color>！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14072547334152192,
+      "m_Localized": "善用你的優勢！\\n<color=yellow>輕觸即可SNAP</color>！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14072628774952960,
+      "m_Localized": "若他們不<color=#ff1111>撤退</color>，你就可以得到<color=yellow>雙倍</color>獎勵！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14034572508389376,
+      "m_Localized": "啊這……你要輸了！快把浩克移回來！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14031003226988544,
+      "m_Localized": "每一張卡牌都會增加<b><color=orange>戰鬥力</color></b>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14034456141619200,
+      "m_Localized": "點擊結束回合按鈕",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14033332143644672,
+      "m_Localized": "遊戲已儲存",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14031717198192640,
+      "m_Localized": "<alpha=#00>在3個<alpha=#ff>區域<alpha=#00>中的2個保持領先！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14021420831989760,
+      "m_Localized": "來給我熱熱身，\\n你看起來很合適。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14021638214377472,
+      "m_Localized": "介紹隊員中。蜘蛛人，你上。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14032728918843392,
+      "m_Localized": "鋼鐵人有一個超厲害的效果！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14034135092813824,
+      "m_Localized": "多數卡牌都有特殊效果！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14032004956807168,
+      "m_Localized": "輕觸一個區域，看看有什麼效果！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14025114864574464,
+      "m_Localized": "下次我可要出點汗了。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14025357765107712,
+      "m_Localized": "<alpha=#ff>贏下3個<alpha=#00>區域<alpha=#ff>中的2個！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14025251485638656,
+      "m_Localized": "<alpha=#ff>在3個<alpha=#00>區域<alpha=#ff>中的2個保持領先！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14031459663732736,
+      "m_Localized": "把蜘蛛人拖去紐約！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14031188678139904,
+      "m_Localized": "<b><color=orange>戰鬥力</color></b>最高者贏得對戰！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14032259731415040,
+      "m_Localized": "星爵有一個特殊效果！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14022533266268160,
+      "m_Localized": "給蜘蛛人派點支援。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14021714894643200,
+      "m_Localized": "Hi! 九點之前要回家哦。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14022703441764352,
+      "m_Localized": "你們這些小淘氣吵什麼呢？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14022895452807168,
+      "m_Localized": "Hi! 我是蜘蛛人！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14023825401307136,
+      "m_Localized": "跟末日博士開玩笑，後果自負。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13323792937725952,
+      "m_Localized": "納克斯活動",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14023379534209024,
+      "m_Localized": "結束之後來張合照？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14023663232737280,
+      "m_Localized": "抓到了。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13334195088470016,
+      "m_Localized": "開啟1個",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14024188716113920,
+      "m_Localized": "小隊還是有點缺人手。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14024798500806656,
+      "m_Localized": "沒時間了，快行動！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13334477549678592,
+      "m_Localized": "開啟10個",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14024605718011904,
+      "m_Localized": "哈，你看看！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14024436955996160,
+      "m_Localized": "抱歉來晚了，在做皮拉提斯。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13339103602749440,
+      "m_Localized": "每開啟10個時空裂痕，必出保底造型或更高獎勵。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14024930885623808,
+      "m_Localized": "浩克值得等待！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14025821114064896,
+      "m_Localized": "你竟敢讓末日博士等你！？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13340890355281920,
+      "m_Localized": "開啟時空裂痕，有機會獲取獨家獎勵！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14025878085296128,
+      "m_Localized": "你就呆呆看著嗎？上啊！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14025897672695808,
+      "m_Localized": "末日博士很高興能慢慢設計你的滅亡！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14031898442457088,
+      "m_Localized": "這是什麼？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14063678260240384,
+      "m_Localized": "每回合+1<color=#00ffffff>能量</color>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14063566515593216,
+      "m_Localized": "<color=#00ffffff>能量花費</color>為3\\n暫時不能放置。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14060969255755776,
+      "m_Localized": "很高興我們可以直視對方。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13685272895893504,
+      "m_Localized": "購買時空裂痕",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14061948973867008,
+      "m_Localized": "想改變戰術的話，可以把卡牌拖回來",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13685543403335680,
+      "m_Localized": "確定購買{quantity}{quantity:个時空裂痕|个時空裂痕}？",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 14059708087263232,
+      "m_Localized": "我跟孩子很合得來，學著點。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13686675504705536,
+      "m_Localized": "不必了",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14059613476347904,
+      "m_Localized": "這次他們又派誰來了？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13686844228972544,
+      "m_Localized": "{goldCost}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 14060529139048448,
+      "m_Localized": "別糾結那個女巫了。\\n你打不敗她，自會有別人來收拾她。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13745252789465088,
+      "m_Localized": "購買失敗",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14060455264772096,
+      "m_Localized": "都是阿嘉莎在一直輸。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13745476454920192,
+      "m_Localized": "活動未開放。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14059858952183808,
+      "m_Localized": "都一萬年了，贏家還是我。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13745705019322368,
+      "m_Localized": "已達購買上限。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14060057170796544,
+      "m_Localized": "抱歉，伸的有點長。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13745892932530176,
+      "m_Localized": "金塊不足。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14060161181147136,
+      "m_Localized": "小心點，我剛把裝備擦乾淨。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13746043327688704,
+      "m_Localized": "好的",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14060262066741248,
+      "m_Localized": "先幹掉你，然後喝杯下午茶。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13746187200704512,
+      "m_Localized": "發生錯誤，請稍後再試。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14060364088991744,
+      "m_Localized": "瞪眼比賽，等你加入。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14063832015036416,
+      "m_Localized": "未花費的<color=#00ffffff>能量</color>\\n被浪費了。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14064608821108736,
+      "m_Localized": "未花費的<color=#00ffffff>能量</color>被浪費了。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14060713323520000,
+      "m_Localized": "忘了你叫什麼了……是叫慢吞吞嗎？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14060804562214912,
+      "m_Localized": "我剛施放了一個昏睡咒嗎？哦可能是吧，記不起來了。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14065469534232576,
+      "m_Localized": "開始對戰時，你有1點<color=#00ffffff>能量</color>。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13836262308831232,
+      "m_Localized": "<color=yellow>練習</color>模式！精煉牌技，測試牌組！你的牌位不會有調整。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13836388850982912,
+      "m_Localized": "<color=yellow>單人模式</color>！挑戰電腦對手！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10544906664665088,
+      "m_Localized": "對戰",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14152559571755008,
+      "m_Localized": "*未設定*",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14153334595248128,
+      "m_Localized": "<alpha=#00>贏下3個<alpha=#ff>區域<alpha=#00>中的2個！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15200921070854144,
+      "m_Localized": "卡牌已達最高品質！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18447688444928000,
+      "m_Localized": "卡牌",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18447607494860800,
+      "m_Localized": "造型",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18444114025504768,
+      "m_Localized": "卡背",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18445103658950656,
+      "m_Localized": "牌組名稱",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18444800435937280,
+      "m_Localized": "貼上",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18444210863595520,
+      "m_Localized": "分享",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18432116059529216,
+      "m_Localized": "所有變體卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18435096234156032,
+      "m_Localized": "清除篩選條件",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18430312596889600,
+      "m_Localized": "特殊效果",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18434514991702016,
+      "m_Localized": "自訂關鍵字搜尋",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18431650277875712,
+      "m_Localized": "能量花費值",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18435284164141056,
+      "m_Localized": "搜尋與篩選",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18435167474409472,
+      "m_Localized": "完成",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18432716885188608,
+      "m_Localized": "無最近搜尋結果",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18432574262075392,
+      "m_Localized": "搜尋……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18431906373689344,
+      "m_Localized": "展示",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18431995569758208,
+      "m_Localized": "未獲得",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18426810629873664,
+      "m_Localized": "目錄",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18426581021089792,
+      "m_Localized": "關閉",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18427042486804480,
+      "m_Localized": "能量",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18426671685165056,
+      "m_Localized": "卡牌排序",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18426985897254912,
+      "m_Localized": "名稱",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18427102654095360,
+      "m_Localized": "戰鬥力",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18427300038041600,
+      "m_Localized": "品質",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18427217615773696,
+      "m_Localized": "新牌",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18427387506057216,
+      "m_Localized": "可升級",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13361092620181504,
+      "m_Localized": "好的",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13337288950931456,
+      "m_Localized": "升級卡牌並獲取變體卡，以提升你的<b><color=#90FE38>收藏等級<sprite=7 tint=1></color></b>：",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13358673131724800,
+      "m_Localized": "提升你的<b><color=#90FE38>收藏等級<sprite=7 tint=1></color></b>來獲取豐富獎勵和新卡牌！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13107181804052480,
+      "m_Localized": "<sprite name=\"icn_score\">{collectionLevel:#,0}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 13106514075049984,
+      "m_Localized": "收藏等級",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14160233734594560,
+      "m_Localized": "升級至<color=#{rarity.Color}>{rarity.Name}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 18454124784771072,
+      "m_Localized": "無法分享空牌組。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18453999207309312,
+      "m_Localized": "牌組已複製到剪貼簿。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18453797557755904,
+      "m_Localized": "取消",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18453710916018176,
+      "m_Localized": "好的",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18453869729144832,
+      "m_Localized": "刪除牌組？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18453485396680704,
+      "m_Localized": "無法添加卡牌到牌組。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15997188361412608,
+      "m_Localized": "抱歉！自動登入帳號失敗。請重新登入來開啟遊戲。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15996568736882688,
+      "m_Localized": "請重新登入",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18511635361554432,
+      "m_Localized": "請下載最新版本以繼續遊戲。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18511513173090304,
+      "m_Localized": "你的客戶端已過期。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16198415548407808,
+      "m_Localized": "帳號連結錯誤，請重啟並重新登入。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18475180295708672,
+      "m_Localized": "在區域放置卡牌會消耗<color=#{cardRenderData._CostLabelColor}>能量</color>。\\n\\n<color=#{cardRenderData._CostLabelColor}>能量</color>會在每回合開始時重新注滿，\\n且可用能量值加1。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 18475008421519360,
+      "m_Localized": "能量",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18474848022945792,
+      "m_Localized": "取消所有操作",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18491207960223744,
+      "m_Localized": "戰鬥落敗",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18491369751306240,
+      "m_Localized": "戰鬥平局……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18491469529604096,
+      "m_Localized": "戰鬥勝利！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18482469123645440,
+      "m_Localized": "每日卡牌強化套組獲取次數已滿！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18492055314489344,
+      "m_Localized": "落敗",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18492130371559424,
+      "m_Localized": "撤退！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18482669535879168,
+      "m_Localized": "輕觸以繼續",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18491956245028864,
+      "m_Localized": "平局……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18484400764215296,
+      "m_Localized": "勝利！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19142651814076416,
+      "m_Localized": "{credits}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 13352771464978432,
+      "m_Localized": "+{collectionLevel:#,0}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 14165534911225856,
+      "m_Localized": "+{rarity.CollectionScoreGranted}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 18508238986141696,
+      "m_Localized": "更新",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18425588652957696,
+      "m_Localized": "不錯！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17722993953202176,
+      "m_Localized": "等等！你叫什麼名字！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17723233552818176,
+      "m_Localized": "確認",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17723120302415872,
+      "m_Localized": "隨機",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17724341515968512,
+      "m_Localized": "取名成功！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17722780500877312,
+      "m_Localized": "輸入名字",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17693084140691456,
+      "m_Localized": "賽季通行證",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17695335915708416,
+      "m_Localized": "任務",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17708182880116736,
+      "m_Localized": "全新",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17708368540983296,
+      "m_Localized": "全新",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17716179341664256,
+      "m_Localized": "載入中……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17716557462364160,
+      "m_Localized": "開戰",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17697199512084480,
+      "m_Localized": "重新連線遊戲",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450481520041984,
+      "m_Localized": "稍後貼上",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450355686727680,
+      "m_Localized": "確認覆蓋此牌組？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18454540343828480,
+      "m_Localized": "剪貼簿中無法找到有效牌組。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18454416968376320,
+      "m_Localized": "剪貼簿中含有一個無效的牌組。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450544803700736,
+      "m_Localized": "現在貼上",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450224707002368,
+      "m_Localized": "貼上牌組編號",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18445557671387136,
+      "m_Localized": "你尚未擁有所有\\n該牌組編號中的卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18851721567526912,
+      "m_Localized": "已升級",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18859472309968896,
+      "m_Localized": "購買剩餘的強化套組並立刻升級你的卡牌！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18859412406919168,
+      "m_Localized": "快速升級",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18781959055466496,
+      "m_Localized": "商店",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15526756491452416,
+      "m_Localized": "<color=#{cardRenderData._CostLabelColor}>能量</color>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 15522646845284352,
+      "m_Localized": "<color=#{cardRenderData._PowerLabelColor}>戰鬥力</color>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 18133838620078080,
+      "m_Localized": "免費",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18134401206267904,
+      "m_Localized": "已領取！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18139933946228736,
+      "m_Localized": "高級通行證",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18140077508866048,
+      "m_Localized": "解鎖高級通行證以獲取上面的專屬獎勵！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18140266529370112,
+      "m_Localized": "高級通行證+",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18140364910964736,
+      "m_Localized": "解鎖高級通行證內容，並將賽季通行證等級提升至10級！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18140718092333056,
+      "m_Localized": "購買高級通行證",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18141240979435520,
+      "m_Localized": "購買高級通行證+",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18146187418611712,
+      "m_Localized": "解鎖高級通行證，獲得獨家獎勵！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18149490277822464,
+      "m_Localized": "最高可獲得<sprite=0>{totalCreditReward}和<sprite=1>{totalGoldReward}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 18379231773667328,
+      "m_Localized": "金塊不足。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18379939918983168,
+      "m_Localized": "購買失敗",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18381111300009984,
+      "m_Localized": "好的",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18405120293023744,
+      "m_Localized": "不容錯過！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18405385171709952,
+      "m_Localized": "以後再說",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18445044824223744,
+      "m_Localized": "賽季通行證達到{level}級時解鎖",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 18445316397019136,
+      "m_Localized": "高級賽季通行證達到{level}級時解鎖",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 18758965145710592,
+      "m_Localized": "解鎖高級通行證來兌換這個獎勵",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18761304409714688,
+      "m_Localized": "解鎖{levels}個等級",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 18762245628309504,
+      "m_Localized": "<sprite=1>{cost}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 18766632794796032,
+      "m_Localized": "提升等級\\n以解鎖獎勵！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18766916136808448,
+      "m_Localized": "奬勵一覽",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18778625916350464,
+      "m_Localized": "解鎖等級：",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19152566620250112,
+      "m_Localized": "點數",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19152720685424640,
+      "m_Localized": "購買點數以升級更多卡牌。每天購買次數有限。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19153545063292928,
+      "m_Localized": "{goldCost}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 19155039867101184,
+      "m_Localized": "免費",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19159634186067968,
+      "m_Localized": "重置倒數",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19257361897086976,
+      "m_Localized": "黃金",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19257460656168960,
+      "m_Localized": "用金塊來購買遊戲中的各種道具",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19263341183623168,
+      "m_Localized": "今日推薦",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19263402768588800,
+      "m_Localized": "每日更新販售適用於你收藏卡牌的造型和變體卡！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19264160561881088,
+      "m_Localized": "已出售！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20226875753226240,
+      "m_Localized": "自動升級卡牌",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20227305136709632,
+      "m_Localized": "每8小時，從你的收藏中隨機選擇3張卡牌。\n\n僅需要使用<b><color=#B7E9FE>點數<sprite=0 tint=1>就能購買所需要的<b><color=#B3FAA5>強化套組<sprite=6 tint=1></color></b>來升級卡牌！</color></b>\n\n獲得更多這些卡牌的<b><color=#B3FAA5>強化套組<sprite=6 tint=1></color></b>可以降低升級所需的費用，比例為<color=#B3FAA5><sprite=6 tint=1>1</color> = <color=#B7E9FE><sprite=0 tint=1>5</color>。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20227507620929536,
+      "m_Localized": "好的",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20275746424479744,
+      "m_Localized": "購買點數",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20276029070237696,
+      "m_Localized": "購買{credits}點數？",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20276428149874688,
+      "m_Localized": "不必了",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20276527500353536,
+      "m_Localized": "{goldCost}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20277638458236928,
+      "m_Localized": "沒有足夠的金塊！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20283449754509312,
+      "m_Localized": "購買點數",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20311002846322688,
+      "m_Localized": "購買金塊",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20311077274247168,
+      "m_Localized": "確定購買金塊？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20311242215251968,
+      "m_Localized": "不必了",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20315407045877760,
+      "m_Localized": "完成購買時出錯。若問題持續發生，請聯絡客服人員。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20306308161855488,
+      "m_Localized": "檢舉使用者",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20306530971672576,
+      "m_Localized": "靜音",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20362335922151424,
+      "m_Localized": "確定更換你的頭像？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20362650352345088,
+      "m_Localized": "是的",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20362762138935296,
+      "m_Localized": "取消",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20346062794383360,
+      "m_Localized": "裝備",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20346286531141632,
+      "m_Localized": "取消",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20346679642284032,
+      "m_Localized": "卡背",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20348667977261056,
+      "m_Localized": "{cardBack.Name}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20349276914704384,
+      "m_Localized": "卡背",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20373200923832320,
+      "m_Localized": "牌組為空！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20567097276936192,
+      "m_Localized": "手牌已滿！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20571018162647040,
+      "m_Localized": "手牌已滿！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20571678488702976,
+      "m_Localized": "無法摧毀！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20572044592721920,
+      "m_Localized": "沒有恩巴庫的位置！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20572439599689728,
+      "m_Localized": "手牌已滿！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20572787278131200,
+      "m_Localized": "牌組為空！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20573074038501376,
+      "m_Localized": "無法摧毀！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20573522447347712,
+      "m_Localized": "牌組為空！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20574062635954176,
+      "m_Localized": "手牌已滿！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20574484717154304,
+      "m_Localized": "沒有地方可移動！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20574871541035008,
+      "m_Localized": "區域已滿！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20575298802200576,
+      "m_Localized": "區域已滿！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20575620366905344,
+      "m_Localized": "沒有卡牌可以摧毀！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20576019417182208,
+      "m_Localized": "沒有區域可放置！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20576613699727360,
+      "m_Localized": "沒有目標！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20577478758150144,
+      "m_Localized": "沒有可移動的目標！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20577813492969472,
+      "m_Localized": "能量不足！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20578118511144960,
+      "m_Localized": "你無法放置這張牌！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20593921879957504,
+      "m_Localized": "取消",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20596710383280128,
+      "m_Localized": "正在連線……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20597184016670720,
+      "m_Localized": "正在同步……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20613878576623616,
+      "m_Localized": "勝利！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20614419398569984,
+      "m_Localized": "落敗",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20614904918618112,
+      "m_Localized": "平局！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20647173754499072,
+      "m_Localized": "撤退！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20655042461741056,
+      "m_Localized": "結束遊戲？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20655260720738304,
+      "m_Localized": "最終回合！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20655368224944128,
+      "m_Localized": "回合<size=147%>{currentTurn}</size>/<size=105%>{totalTurns}</size>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20666179857199104,
+      "m_Localized": "全新卡牌！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20666373688569856,
+      "m_Localized": "計時器：{timeLeft}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20705990957641728,
+      "m_Localized": "最終回合",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20706105529249792,
+      "m_Localized": "<size=490>{currentTurn}</size><size=350>/ {totalTurns}</size>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20704365202366464,
+      "m_Localized": "對方已撤退！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20609410840649728,
+      "m_Localized": "x{value}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20614706023620608,
+      "m_Localized": "{value}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20655763499245568,
+      "m_Localized": "{value:cond:>=0?+|}{value}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20655959960444928,
+      "m_Localized": "={value}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20679794768207872,
+      "m_Localized": "效果來源於",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20679797863604224,
+      "m_Localized": "來自於",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20685190023077888,
+      "m_Localized": "第{turn}回合",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20688586457210880,
+      "m_Localized": "基礎",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20332879845253120,
+      "m_Localized": "新頭像！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20332969980846080,
+      "m_Localized": "在你的個人資訊中試試。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20333078411993088,
+      "m_Localized": "新卡背！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20333291755266048,
+      "m_Localized": "試著設定為偏好牌組的卡背。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20333523524116480,
+      "m_Localized": "{credits}{credits:點數|點數}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20333776629391360,
+      "m_Localized": "可於收藏或商店中升級卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20334228754391040,
+      "m_Localized": "{gold}金塊",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20334499991642112,
+      "m_Localized": "用金塊從商店購買道具！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20334735506006016,
+      "m_Localized": "{boosterQuantity}個{card.Name}強化套組",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20334916544749568,
+      "m_Localized": "使用{boosterQuantity}個強化套組來升級你的{card.Name}卡牌！",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20334941815431168,
+      "m_Localized": "{boosterQuantity}個{boosterQuantity:強化套組|強化套組}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20335026083192832,
+      "m_Localized": "使用強化套組來升級你的卡牌！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20335349023629312,
+      "m_Localized": "8入一般頭像組",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20335415880835072,
+      "m_Localized": "前往個人資訊頁面，輕觸你的頭像即可更換！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20335540418109440,
+      "m_Localized": "神祕禮盒",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20336067629539328,
+      "m_Localized": "可能包含一種特殊獎勵！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20336306503540736,
+      "m_Localized": "{battlePassXpQuantity}賽季通行證經驗",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20336380876939264,
+      "m_Localized": "獲取經驗值以提升等級，並解鎖賽季通行證中的獎勵。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20336419238043648,
+      "m_Localized": "高級通行證",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20336535877443584,
+      "m_Localized": "解鎖本賽季的高級獎勵！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20336782884200448,
+      "m_Localized": "高級通行證+",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20338416808878080,
+      "m_Localized": "解鎖賽季獎勵以及{levelsGranted}個{levelsGranted:等級|等級}！",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20338511168135168,
+      "m_Localized": "收藏等級需達到{collectionLevel}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20339213860855808,
+      "m_Localized": "最大{credits:點數|點數}+{credits}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20339301265956864,
+      "m_Localized": "增加你能擁有的最大點數上限。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20339639633043456,
+      "m_Localized": "解鎖等級：{rankLevel}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20346017202298880,
+      "m_Localized": "解鎖{rarity.Name}品質！",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20346060596568064,
+      "m_Localized": "現在你可以升級卡牌至{rarity.Name}品質",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20453328725991424,
+      "m_Localized": "神祕變體卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20453810081095680,
+      "m_Localized": "包含你收藏中的一張卡牌的模組變體卡。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20453897314230272,
+      "m_Localized": "卡牌美術變體卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20454011210555392,
+      "m_Localized": "包含你收藏中的一張卡牌的可替換美術變體卡。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20454282749796352,
+      "m_Localized": "收藏者至寶",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20454406699868160,
+      "m_Localized": "含有一個獎勵！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20454648455356416,
+      "m_Localized": "黃金神祕變體卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20454779133091840,
+      "m_Localized": "包含你收藏中的一張卡牌的金箔變體卡。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20454834191720448,
+      "m_Localized": "神祕變體卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20455009215832064,
+      "m_Localized": "包含你收藏中的一張卡牌的模組變體卡。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20455065029435392,
+      "m_Localized": "神祕卡牌",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20455606342115328,
+      "m_Localized": "包含一個隨機角色",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20455713397530624,
+      "m_Localized": "神祕卡牌",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20455836303220736,
+      "m_Localized": "包含一個隨機角色",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20455997301579776,
+      "m_Localized": "神祕卡牌",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20456056051195904,
+      "m_Localized": "包含一個隨機角色",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20456156257312768,
+      "m_Localized": "神祕卡牌",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20456281037856768,
+      "m_Localized": "包含一個隨機角色",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20458274397609984,
+      "m_Localized": "單挑模式",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20473337623863296,
+      "m_Localized": "通行證",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20473394465071104,
+      "m_Localized": "錦標賽",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20473468838469632,
+      "m_Localized": "今日推薦",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20473514615103488,
+      "m_Localized": "每天商店都會販售全新的高級卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20473620026351616,
+      "m_Localized": "特別供應",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20473682060107776,
+      "m_Localized": "新手頭像組合",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20473754235691008,
+      "m_Localized": "練習",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20473816072314880,
+      "m_Localized": "排位模式",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20473867314126848,
+      "m_Localized": "獲取卡背",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20473915129192448,
+      "m_Localized": "特工牌位已解鎖",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20473967973228544,
+      "m_Localized": "本地化選擇",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20474325885771776,
+      "m_Localized": "在主頁選擇你的頭像！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20583485663076352,
+      "m_Localized": "收藏者祕寶",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20583630190403584,
+      "m_Localized": "包含神祕卡牌或代幣。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20583764450074624,
+      "m_Localized": "收藏者至寶",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20584047037112320,
+      "m_Localized": "包含神祕卡牌、造型或代幣。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20584082835496960,
+      "m_Localized": "賽季祕寶",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20584188397740032,
+      "m_Localized": "包含造型或代幣。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20586399748055040,
+      "m_Localized": "牌位獎勵\\n{rewardTitle}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20586721614749696,
+      "m_Localized": "{rewardDescription}\\n\\n努力提升牌位來獲得更多獎勵！",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20586868960649216,
+      "m_Localized": "{rankTier}牌位獎勵\\n{rewardTitle}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20672687683657728,
+      "m_Localized": "領取",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20752301567238144,
+      "m_Localized": "揭示",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20752638600536064,
+      "m_Localized": "持續",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20752679817961472,
+      "m_Localized": "無特殊效果",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20752729897951232,
+      "m_Localized": "丟棄",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20752816665518080,
+      "m_Localized": "移動",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20752839931322368,
+      "m_Localized": "摧毀",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 25408284809748480,
+      "m_Localized": "確認",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 25411081043173376,
+      "m_Localized": "年齢確認",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 25413162567196672,
+      "m_Localized": "１か月/{purchaseLimit:N0}円まで",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 28935952301809664,
+      "m_Localized": "<sprite=3 tint=1>{battlePassXpQuantity}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 21083834471669760,
+      "m_Localized": "下一個",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23971854690541568,
+      "m_Localized": "品質提升",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23972070353264640,
+      "m_Localized": "新邊框！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23973023483682816,
+      "m_Localized": "不凡！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23977978307272704,
+      "m_Localized": "傳說！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23978370403393536,
+      "m_Localized": "閃亮Logo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23979301136228352,
+      "m_Localized": "終極！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23979444216520704,
+      "m_Localized": "動畫邊框！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23979888720470016,
+      "m_Localized": "史詩！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23979970396151808,
+      "m_Localized": "動畫！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23980470805979136,
+      "m_Localized": "最高品質",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23980569816719360,
+      "m_Localized": "無限！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23980969609388032,
+      "m_Localized": "3D！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23981146063757312,
+      "m_Localized": "稀有！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23981362435317760,
+      "m_Localized": "不錯！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 25402847829942272,
+      "m_Localized": "無法確認購買上限，若此問題持續發生，請聯絡客服人員。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 25404469192679424,
+      "m_Localized": "您已達每月購買上限，無法完成這次購買。若您認為系統發生錯誤，請聯絡客服人員。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 25743411234463744,
+      "m_Localized": "無法確認購買上限。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 25748782757961728,
+      "m_Localized": "{year}年",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 25757820333842432,
+      "m_Localized": "{day}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 26125049139290112,
+      "m_Localized": "無法設定購買上限，若此問題持續發生，請聯絡客服人員。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26125135202213888,
+      "m_Localized": "無法設定購買上限。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26146821909766144,
+      "m_Localized": "金塊餘額",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26146929363640320,
+      "m_Localized": "付費金塊：{paidGold:N0}\\n免費金塊：{freeGold:N0}\\n總餘額：{totalGold:N0}\\n\\n使用金塊進行購買時，會優先使用免費金塊。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 28988914579529728,
+      "m_Localized": "牌組{number}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 28264032255389696,
+      "m_Localized": "<nobr>時間到！</nobr>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 28891500766027776,
+      "m_Localized": "發生錯誤，請過幾分鐘後再試一次。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29051638059622400,
+      "m_Localized": "正在同步帳號……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 30439811943751680,
+      "m_Localized": "不錯！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 30818559012626432,
+      "m_Localized": "基礎卡牌",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 25412094185693184,
+      "m_Localized": "{age}歳未満",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 25411394101829632,
+      "m_Localized": "あなたの年齢によって\\n1か月に購入できる金額が決まっています。\\n正しい生年月を入力してください。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 25412359831937024,
+      "m_Localized": "{age}歳～{endAge}歳",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 25412604334694400,
+      "m_Localized": "{age}歳以上",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 25412803169869824,
+      "m_Localized": "年齢は誕⽣⽉の翌⽉1⽇に1歳加算されます。\\n未成年の⽅は購⼊に法定代理⼈ (両親等)\\nの同意が必要です。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 25412916588044288,
+      "m_Localized": "! ⽣年⽉は後から変更することはできません ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 25413494730907648,
+      "m_Localized": "制限なし",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 25740182224363520,
+      "m_Localized": "特定商取引法に基づく表記",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 25740704285188096,
+      "m_Localized": "資金決済法に関する情報提供",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26087005531136000,
+      "m_Localized": "この設定でよろしいでしょうか？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26094675025715200,
+      "m_Localized": "■ご注意■\\nこのアプリは基本無料で遊べますが、\\n一部有料アイテムがございます。\\n\\n■未成年（18歳未満）の方へ■\\nお客様が未成年（18歳未満）の場合、\\nあらかじめ法定代理人（ご両親等）の同意を\\n得てから、このアプリをご利用ください。\\n\\nまた、有料でアイテムを購入する際は、\\n必ず法定代理人（ご両親等）に許可をもらうか、\\n一緒に購入するようにしてください。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20275968244441088,
+      "m_Localized": "新稱號！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 30498844738314240,
+      "m_Localized": "新挑戰者正等著你！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18427451871846400,
+      "m_Localized": "好的",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18428573521010688,
+      "m_Localized": "算了",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18428790173589504,
+      "m_Localized": "選擇稱號",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18429173767856128,
+      "m_Localized": "稱號",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18429361181941760,
+      "m_Localized": "名稱",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20313776900268032,
+      "m_Localized": "{title.Text}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 30168531491348480,
+      "m_Localized": "在個人資訊頁面裝備稱號，對戰時稱號會顯示在名稱下方！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33713256561754112,
+      "m_Localized": "音樂音量",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33713498761838592,
+      "m_Localized": "畫面品質",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33713597680304128,
+      "m_Localized": "音效音量",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33713923867131904,
+      "m_Localized": "主音量",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33626455278608384,
+      "m_Localized": "取消資源下載",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33626874281189376,
+      "m_Localized": "重新下載所有資源",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33350923139932160,
+      "m_Localized": "請輸入資訊，描述你遇到的問題……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33352000509829120,
+      "m_Localized": "提交",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33352100548173824,
+      "m_Localized": "取消",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33352472750710784,
+      "m_Localized": "需要輸入內容！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33352577469898752,
+      "m_Localized": "請輸入訊息，提供錯誤回報的相關資料。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33352741748203520,
+      "m_Localized": "關閉",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33352875898822656,
+      "m_Localized": "已儲存錯誤回報！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33353007683854336,
+      "m_Localized": "這是你的回報指紋：",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33353617128808448,
+      "m_Localized": "複製並關閉",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33622863452823552,
+      "m_Localized": "錯誤回報",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33750897786871808,
+      "m_Localized": "重試",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33742651281891328,
+      "m_Localized": "點數已滿",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33743096985411584,
+      "m_Localized": "你的點數已滿，無法再繼續收集。\\n\\n升級卡牌即可花費點數。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33733723378671616,
+      "m_Localized": "無效名稱",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33733834393509888,
+      "m_Localized": "你的名稱超過{maxLength}字元的長度上限。請嘗試不同的名稱。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 33734112488448000,
+      "m_Localized": "你的名稱不可用。請嘗試不同的名稱。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33734220420472832,
+      "m_Localized": "無法儲存你的名稱。請嘗試不同的名稱。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 30375458229968896,
+      "m_Localized": "{month}/{day}/{year}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 30384162677448704,
+      "m_Localized": "{timeString}前",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 30390490707779584,
+      "m_Localized": "期限：",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 30417113746235392,
+      "m_Localized": "來自：",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 31100660358307840,
+      "m_Localized": "全部領取",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 31102121989365760,
+      "m_Localized": "已領取",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 31496458833223680,
+      "m_Localized": "收件匣",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 31847665472888832,
+      "m_Localized": "禮物",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 34449689427304448,
+      "m_Localized": "搶先體驗",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36252839742267392,
+      "m_Localized": "點數",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36889770993901568,
+      "m_Localized": "取消靜音",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36957865859080192,
+      "m_Localized": "有可進行的新每日挑戰！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36958012588417024,
+      "m_Localized": "完成任務即可獲得獎勵。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36958383566217216,
+      "m_Localized": "有可進行的新通行證章節！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36959359308128256,
+      "m_Localized": "完成任務即可獲得獎勵。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36960007785275392,
+      "m_Localized": "有可進行的新任務！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36960100089323520,
+      "m_Localized": "完成任務即可獲得獎勵。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36965194847477760,
+      "m_Localized": "通行證",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36965329803403264,
+      "m_Localized": "通行證更新時通知你",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36965599069331456,
+      "m_Localized": "新每日挑戰",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36965724684541952,
+      "m_Localized": "解鎖新的每日挑戰時通知你",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36965854108180480,
+      "m_Localized": "新任務通知",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36965914216751104,
+      "m_Localized": "解鎖新的任務時通知你",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37027991987937280,
+      "m_Localized": "開啟通行證",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36979056795705344,
+      "m_Localized": "下一個",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 34039600247644160,
+      "m_Localized": "歡迎大禮包",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36694481024573440,
+      "m_Localized": "{bundleTitle}奬勵：",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 30167407459819520,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 41346822139011072,
+      "m_Localized": "Nuverse",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 41347033771008000,
+      "m_Localized": "艾瑞爾",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39118505772179456,
+      "m_Localized": "Steam初始化好像出了點問題，請嘗試透過Steam啟動遊戲！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40907115294875648,
+      "m_Localized": "從遊戲伺服器中接收到未處理的異常通知。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40916268620963840,
+      "m_Localized": "無法完成您上一筆的訂單，若問題持續存在，請聯絡客服人員。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40917602199920640,
+      "m_Localized": "新賽季！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40917782563381248,
+      "m_Localized": "新賽季開啟後，所有玩家的初始牌位為上賽季最終牌位下降三個段位。\\n（不會低於鋼鐵牌位）",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40919497895305216,
+      "m_Localized": "新兵通行證完成！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40920611516571648,
+      "m_Localized": "您已解鎖新賽季通行證！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40925223518724096,
+      "m_Localized": "本階段禁卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40925581712285696,
+      "m_Localized": "所選牌組中含有\\n現階段禁止的卡牌:\\n\\n{0:list:{Name}|, }\\n\\n請先將牌組中被禁的卡牌移除\\n再繼續操作。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 40928697618784256,
+      "m_Localized": "比賽配對中斷。請稍後再次嘗試。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40928870952591360,
+      "m_Localized": "牌組無效，請檢查後再次嘗試。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40930414104141824,
+      "m_Localized": "你的聯盟選擇無效，請再次嘗試。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40932048775405568,
+      "m_Localized": "無法載入遊戲內容，請確認網路連接是否暢通。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 41621170886189056,
+      "m_Localized": "8倍超值！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 0,
+        "type": {
+          "class": "SmartFormatTag",
+          "ns": "UnityEngine.Localization.Metadata",
+          "asm": "Unity.Localization"
+        },
+        "data": {}
+      }
+    ]
+  }
+}
