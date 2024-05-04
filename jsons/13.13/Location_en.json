@@ -1,0 +1,3953 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2378050947708348859
+  },
+  "m_Name": "Location_en",
+  "m_LocaleId": {
+    "m_Code": "en"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": 6779185549797550918
+  },
+  "m_Metadata": {
+    "m_Items": [
+      {
+        "rid": 928418349955940360
+      }
+    ]
+  },
+  "m_TableData": [
+    {
+      "m_Id": 10884947632128,
+      "m_Localized": "Avengers Compound",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020736,
+      "m_Localized": "Baxter Building",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020737,
+      "m_Localized": "Central Park",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020738,
+      "m_Localized": "Cloning Vats",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020739,
+      "m_Localized": "Crimson Cosmos",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020740,
+      "m_Localized": "Danger Room",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020741,
+      "m_Localized": "Death's Domain",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020742,
+      "m_Localized": "District X",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020743,
+      "m_Localized": "Dream Dimension",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020744,
+      "m_Localized": "Ego",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020745,
+      "m_Localized": "Elysium",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020746,
+      "m_Localized": "Fogwell's Gym",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020747,
+      "m_Localized": "Grand Central",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020748,
+      "m_Localized": "Hala",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020749,
+      "m_Localized": "Hellfire Club",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020750,
+      "m_Localized": "Kamar-Taj",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020751,
+      "m_Localized": "Klyntar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020752,
+      "m_Localized": "Knowhere",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020753,
+      "m_Localized": "Kyln",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020754,
+      "m_Localized": "Lechuguilla",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215040,
+      "m_Localized": "Limbo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215041,
+      "m_Localized": "Los Diablos Base",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215042,
+      "m_Localized": "Mindscape",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215043,
+      "m_Localized": "Miniaturized Lab",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215044,
+      "m_Localized": "Mirror Dimension",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215045,
+      "m_Localized": "Mojoworld",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215046,
+      "m_Localized": "Monster Metropolis",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215047,
+      "m_Localized": "Murderworld",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215048,
+      "m_Localized": "Negative Zone",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215049,
+      "m_Localized": "New York",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215050,
+      "m_Localized": "Nova Roma",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215051,
+      "m_Localized": "Olympia",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215052,
+      "m_Localized": "Onslaught's Citadel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215053,
+      "m_Localized": "Ruins",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215054,
+      "m_Localized": "Sakaar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215055,
+      "m_Localized": "Savage Land",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215056,
+      "m_Localized": "Sewer System",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215057,
+      "m_Localized": "Shadowland",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215058,
+      "m_Localized": "Sinister London",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215059,
+      "m_Localized": "Sokovia",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215060,
+      "m_Localized": "The Space Throne",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884960215061,
+      "m_Localized": "Stark Tower",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215062,
+      "m_Localized": "Starlight Citadel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215063,
+      "m_Localized": "Strange Academy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215064,
+      "m_Localized": "Subterranea",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215065,
+      "m_Localized": "The Superflow",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 1
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884960215066,
+      "m_Localized": "The Big House",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215067,
+      "m_Localized": "The Hub",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215068,
+      "m_Localized": "Tinkerer's Workshop",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215069,
+      "m_Localized": "Titan",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215070,
+      "m_Localized": "The Vault",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884960215071,
+      "m_Localized": "Wakanda",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215072,
+      "m_Localized": "Wakandan Embassy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215073,
+      "m_Localized": "Washington D.C.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215074,
+      "m_Localized": "Weirdworld",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215075,
+      "m_Localized": "Westview",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215076,
+      "m_Localized": "Worldship",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215077,
+      "m_Localized": "X-Mansion",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215078,
+      "m_Localized": "Xandar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215079,
+      "m_Localized": "Attilan",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409344,
+      "m_Localized": "Bar With No Name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409345,
+      "m_Localized": "Dark Dimension",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409346,
+      "m_Localized": "K'un-Lun",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409347,
+      "m_Localized": "The Ice Box",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409348,
+      "m_Localized": "TVA",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409349,
+      "m_Localized": "Sanctum Sanctorum",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409350,
+      "m_Localized": "Atlantis",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409351,
+      "m_Localized": "Lemuria",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409352,
+      "m_Localized": "Monster Island",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409353,
+      "m_Localized": "Muir Island",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409354,
+      "m_Localized": "Asgard",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409355,
+      "m_Localized": "Isle of Silence",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409356,
+      "m_Localized": "Jotunheim",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409357,
+      "m_Localized": "Nidavellir",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409358,
+      "m_Localized": "The Bifrost",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409359,
+      "m_Localized": "Fisk Tower",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409360,
+      "m_Localized": "Gamma Lab",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409361,
+      "m_Localized": "Hell's Kitchen",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409362,
+      "m_Localized": "Luke's Bar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409363,
+      "m_Localized": "Project Pegasus",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409364,
+      "m_Localized": "The Raft",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409365,
+      "m_Localized": "The Triskelion",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409367,
+      "m_Localized": "Bar Sinister",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409368,
+      "m_Localized": "Daily Bugle",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409369,
+      "m_Localized": "Oscorp Tower",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409370,
+      "m_Localized": "The Nexus",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409371,
+      "m_Localized": "Warrior Falls",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409372,
+      "m_Localized": "Asteroid M",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409373,
+      "m_Localized": "Cell Block X",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409374,
+      "m_Localized": "Citadel at the End of Time",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409375,
+      "m_Localized": "Counter-Earth",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409376,
+      "m_Localized": "Deep Space",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409377,
+      "m_Localized": "Doomstadt",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409378,
+      "m_Localized": "Genosha",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409379,
+      "m_Localized": "Krakoa",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409380,
+      "m_Localized": "Lamentis-1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409381,
+      "m_Localized": "Machineworld",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409382,
+      "m_Localized": "Madripoor",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409383,
+      "m_Localized": "Morag",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409384,
+      "m_Localized": "Mt. Wundagore",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409385,
+      "m_Localized": "Necrosha",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603648,
+      "m_Localized": "Pleasant Hill",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603649,
+      "m_Localized": "Quantum Realm",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603650,
+      "m_Localized": "The Red Room",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603651,
+      "m_Localized": "Sacred Timeline",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603652,
+      "m_Localized": "Utopia",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603653,
+      "m_Localized": "Crystal Towers",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603654,
+      "m_Localized": "Flooded",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603655,
+      "m_Localized": "Flooding",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 3
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884968603656,
+      "m_Localized": "Transia",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603657,
+      "m_Localized": "New York",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 4
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884968603658,
+      "m_Localized": "Sakaar",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 5
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884968603659,
+      "m_Localized": "Subterranea",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884968603660,
+      "m_Localized": "Mothermold",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603661,
+      "m_Localized": "T.A.H.I.T.I.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603662,
+      "m_Localized": "Four Freedoms Plaza",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603663,
+      "m_Localized": "Alkali Lake",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603664,
+      "m_Localized": "Symkaria",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603665,
+      "m_Localized": "Roxxon Plaza",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603666,
+      "m_Localized": "Warp World",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603667,
+      "m_Localized": "Otherworld",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603668,
+      "m_Localized": "Midtown High School",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603669,
+      "m_Localized": "Duck World",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603670,
+      "m_Localized": "Vormir",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603671,
+      "m_Localized": "Skrullos",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603672,
+      "m_Localized": "Hotel Inferno",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603673,
+      "m_Localized": "Latveria",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603674,
+      "m_Localized": "Darkmoor",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603675,
+      "m_Localized": "<vfx=alert>On turn {location.TurnNumber}, all cards must be played here.</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884968603676,
+      "m_Localized": "Whoever is winning this location gets +{location.AddedPower} Power at the others.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884968603677,
+      "m_Localized": "Add a {location.Card_Token.Name} to each location.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884968603678,
+      "m_Localized": "After you play a card here, add a copy to your hand.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603679,
+      "m_Localized": "Cards that cost {location.TargetCardCost_1}, {location.TargetCardCost_2}, or {location.TargetCardCost_3} can't be played here.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884968603680,
+      "m_Localized": "Cards played here have a {location.PercentChance}% chance to be destroyed.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884968603681,
+      "m_Localized": "After you play a card here, <vfx=alert>destroy</vfx> it.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603682,
+      "m_Localized": "Replace both decks with {location.TokenCount} random cards.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884968603683,
+      "m_Localized": "<vfx=alert>On turn {location.TurnNumber}, cards cost {location.AddedCost} more.</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884968603684,
+      "m_Localized": "Ego takes over and plays your cards for you.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603685,
+      "m_Localized": "Cards cost {location.ReducedCost} less.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797952,
+      "m_Localized": "Both players get double Card XP this game.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 7
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797953,
+      "m_Localized": "<vfx=alert>After turn {location.TurnNumber}, put a card from each player's hand here.</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 8
+          },
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797954,
+      "m_Localized": "<vfx=alert>After turn {location.TurnNumber}, destroy all cards controlled by the player losing here.</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 9
+          },
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797955,
+      "m_Localized": "Cards that cost {location.TargetCardCost} can't be played here.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797956,
+      "m_Localized": "<b>On Reveal</b> effects happen twice at this location.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884972797957,
+      "m_Localized": "After turn {location.TurnNumber}, merge your cards here into a {location.Card_Token.Name}.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 10
+          },
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797958,
+      "m_Localized": "<vfx=alert>On Reveal effects do not happen at this location.</vfx>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884972797959,
+      "m_Localized": "<vfx=alert>You can't play cards here after turn {location.TurnNumber}</vfx>.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797960,
+      "m_Localized": "After you play a card here, shuffle {location.TokenCount} rocks into your deck.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797961,
+      "m_Localized": "There is a turn {location.TurnNumber} this game.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797962,
+      "m_Localized": "<vfx=alert>After turn {location.TurnNumber}, ruin a random location.</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 11
+          },
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797963,
+      "m_Localized": "At the start of turn {location.TurnNumber}, swap hands.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797964,
+      "m_Localized": "<vfx=alert>On turns {location.TurnNumber_1}, {location.TurnNumber_2}, and {location.TurnNumber_3}, no cards can be added here.</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797965,
+      "m_Localized": "On turn {location.TurnNumber}, transform into one of the other locations.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 12
+          },
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797966,
+      "m_Localized": "Whoever has more cards here gets +{location.AddedPower} Power.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797967,
+      "m_Localized": "The card(s) with the highest Power here get +{location.AddedPower} Power.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 13
+          },
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797968,
+      "m_Localized": "<vfx=alert>After turn {location.TurnNumber}, destroy all cards here.</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 14
+          },
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797969,
+      "m_Localized": "Cards here have\n-{location.ReducedPower} Power.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 15
+          },
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797970,
+      "m_Localized": "<vfx=alert>On turn {location.TurnNumber}, you can move cards to this location.</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797971,
+      "m_Localized": "Draw a card.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884972797972,
+      "m_Localized": "Draw {location.DrawCount} cards.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797973,
+      "m_Localized": "<b>Ongoing</b> effects here are doubled.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884972797974,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 16
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797975,
+      "m_Localized": "After this turn, put a card from each player's hand here.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884972797976,
+      "m_Localized": "Add two Raptors on each side of this location.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884976992256,
+      "m_Localized": "Cards here have\n-{location.ReducedPower} Power.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 17
+          },
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992257,
+      "m_Localized": "Add a {location.Card_Token.Name} to each side with {location.Card_Token.Power} Power.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992258,
+      "m_Localized": "After you play a card here, add a copy to another location.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884976992259,
+      "m_Localized": "Discard a card from each player's hand.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884976992260,
+      "m_Localized": "<vfx=alert>Only one card</vfx> can be here for each player.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884976992261,
+      "m_Localized": "<vfx=alert>After turn {location.TurnNumber}, give all cards here +{location.AddedPower} Power.</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 18
+          },
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992262,
+      "m_Localized": "After turn {location.TurnNumber}, swap the position of each location.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 19
+          },
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992263,
+      "m_Localized": "<vfx=alert>After turn {location.TurnNumber}, move all cards here to other random locations.</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992264,
+      "m_Localized": "Shuffle {location.TokenCount} rocks into each deck.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992265,
+      "m_Localized": "If you have no cards here, +{location.AddedEnergy} energy each turn.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992266,
+      "m_Localized": "Cards that cost {location.TargetCardCost_1}, {location.TargetCardCost_2}, or {location.TargetCardCost_3} can't be played here.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992267,
+      "m_Localized": "Add a random card to each player's hand.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884976992268,
+      "m_Localized": "+{location.AddedEnergy} Energy this turn.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992269,
+      "m_Localized": "{location.TargetCardCost}-Cost cards cost {location.ReducedCost} less.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992270,
+      "m_Localized": "<vfx=alert>On turn {location.TurnNumber}, cards can't be played here.</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992271,
+      "m_Localized": "Cards here can't be destroyed.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884976992272,
+      "m_Localized": "Give +{location.AddedPower} Power to cards in players' hands.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992273,
+      "m_Localized": "Cards here with no abilities have +{location.AddedPower} Power.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992274,
+      "m_Localized": "Both players draw from their opponent's decks.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884976992275,
+      "m_Localized": "Turns into a new location on turn {location.TurnNumber}.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992276,
+      "m_Localized": "Destroy the other locations.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884976992277,
+      "m_Localized": "<vfx=alert>After turn {location.TurnNumber}, add a random card here for each player.</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 20
+          },
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992278,
+      "m_Localized": "Cards here have\n+{location.AddedPower} Power.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 21
+          },
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992279,
+      "m_Localized": "<vfx=alert>After turn {location.TurnNumber}, shuffle your hand into your deck. Draw {location.DrawCount} cards.</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992280,
+      "m_Localized": "Whoever has the least Power here wins.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884976992281,
+      "m_Localized": "Cards here are not revealed until the game ends.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 22
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992282,
+      "m_Localized": "When a card moves here, give it +{location.AddedPower} Power.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992283,
+      "m_Localized": "Give a card in each player’s hand +{location.AddedCost} Cost.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 23
+          },
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992284,
+      "m_Localized": "At the end of turn 4, end the game.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884976992285,
+      "m_Localized": "Cards can't be played here.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884976992286,
+      "m_Localized": "If you only have one card here, it has +{location.AddedPower} Power.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 24
+          },
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992287,
+      "m_Localized": "No cards are revealed this turn.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 25
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992288,
+      "m_Localized": "Add a {location.Card_Token.Power}-Power {location.Card_Token.Name} here for each player.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 26
+          },
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186560,
+      "m_Localized": "After each turn, give cards here +{location.AddedPower} Power.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186561,
+      "m_Localized": "<vfx=alert>After turn {location.TurnNumber}, whoever is winning here draws {location.DrawCount} {location.DrawCount:card|cards}.</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 27
+          },
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186562,
+      "m_Localized": "When you play an Ongoing card here, remove its abilities.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884981186563,
+      "m_Localized": "After each turn, cards here lose {location.ReducedPower} Power.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186564,
+      "m_Localized": "<vfx=alert>Cards here have\n+{location.AddedPower} Power.</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 28
+          },
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186565,
+      "m_Localized": "<vfx=alert>After turn {location.TurnNumber}, move all cards one location to the right.</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 29
+          },
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186566,
+      "m_Localized": "When a card moves here, <vfx=alert>destroy it</vfx>.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884981186567,
+      "m_Localized": "<vfx=alert>After turn {location.TurnNumber}, transform all cards here into the {location.Card_Token.Name}.</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186568,
+      "m_Localized": "Draw a {location.TargetCardCost}-Cost card from your deck.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186569,
+      "m_Localized": "<vfx=alert>After you play a card here, return it to your hand.</vfx>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884981186570,
+      "m_Localized": "+{location.AddedEnergy} Energy this turn.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186571,
+      "m_Localized": "First to fill this breaks out a {location.TargetCardCost_1}-Cost card. It costs {location.TargetCardCost_2}.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186572,
+      "m_Localized": "Fill each player's hand with random cards.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884981186574,
+      "m_Localized": "After you play a card here, fill this location with copies of it.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884981186575,
+      "m_Localized": "Get a copy of a card in your opponent's hand.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884981186576,
+      "m_Localized": "<vfx=alert>After turn {location.TurnNumber}, all cards here swap sides.</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 30
+          },
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186577,
+      "m_Localized": "Your Power here is granted to other locations as well.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884981186578,
+      "m_Localized": "After each turn, cards here FIGHT! Destroy the weakest one(s).",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884981186579,
+      "m_Localized": "After you play a {location.TargetCardCost_1} or {location.TargetCardCost_2}-Cost card, move it here.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186580,
+      "m_Localized": "You can only play 1 card here a turn.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884981186581,
+      "m_Localized": "If both players retreat this turn, both players win the game.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884981186582,
+      "m_Localized": "After you play a card here, create a copy at this location.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 31
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186584,
+      "m_Localized": "You can't play cards here if you're winning.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884981186585,
+      "m_Localized": "You can move cards to this location.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884981186586,
+      "m_Localized": "On turn {location.TurnNumber}, takes over and plays both players' cards for them.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 32
+          },
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186587,
+      "m_Localized": "Draw {location.DrawCount} cards. Destroy both decks.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186588,
+      "m_Localized": "After you play a card here, add a copy to the opponent's hand.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380864,
+      "m_Localized": "You can move cards from this location.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380865,
+      "m_Localized": "You can't play your first card here each turn.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380866,
+      "m_Localized": "After you play a card here, discard a card.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 33
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884985380867,
+      "m_Localized": "Cards here have\n-{location.ReducedPower} Power.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884985380868,
+      "m_Localized": "After you play a card here, draw a card.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380869,
+      "m_Localized": "<vfx=alert>After you play a card here, set its base Power to {location.AssignedPower}.</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 34
+          },
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884985380870,
+      "m_Localized": "You must play your first card here each turn, if possible.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380871,
+      "m_Localized": "First to fill this gets a copy of their opening hand.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380872,
+      "m_Localized": "On turn {location.TurnNumber}, cards here can move.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884985380873,
+      "m_Localized": "Shuffle your hand into your deck. Draw {location.DrawCount} cards.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884985380874,
+      "m_Localized": "Cards can't be played here.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380875,
+      "m_Localized": "This is the last turn cards can be played here.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380876,
+      "m_Localized": "Swap the positions of each location.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 35
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884985380877,
+      "m_Localized": "<i></i>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 36
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884985380878,
+      "m_Localized": "Put a card from each player's hand here.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380879,
+      "m_Localized": "Shuffle {location.TokenCount} rocks into each deck.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884985380880,
+      "m_Localized": "When you play a card here, add a Sentinel to your hand.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 37
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884985380881,
+      "m_Localized": "When a card is discarded or destroyed, add a copy here.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 38
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884985380883,
+      "m_Localized": "It costs 1 more to play a card here.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380884,
+      "m_Localized": "It costs 1 less to play a card here.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380885,
+      "m_Localized": "You can move any of your cards for 1 Energy.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380886,
+      "m_Localized": "When you draw a card, reduce its Cost by 2.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380887,
+      "m_Localized": "When you draw a card, reduce its Cost by 3 for this turn only.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380888,
+      "m_Localized": "When you draw a card, give it +1 Power.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380889,
+      "m_Localized": "At the start of the turn, whoever is winning here gains 1 energy.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380890,
+      "m_Localized": "<vfx=alert>The first card you play here is destroyed.</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 39
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884985380891,
+      "m_Localized": "At the end of turn 4, all cards here transform into random ones.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380892,
+      "m_Localized": "<Megadouble>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380893,
+      "m_Localized": "Skip turn 2.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380894,
+      "m_Localized": "6-Cost cards can't be played this game.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1359370179829760,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1359370179829761,
+      "m_Localized": "Will be revealed first.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 40
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 1359370179829763,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1359370179829764,
+      "m_Localized": "Will be revealed next turn.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 41
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 1359370179829766,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1359370179829767,
+      "m_Localized": "Will be revealed in 2 turns.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 42
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 1359370179829769,
+      "m_Localized": "Whoever has the <vfx=alert>least Power here wins.</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 43
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 1359370179829774,
+      "m_Localized": "Mother Mold",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 44
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 1359370179829775,
+      "m_Localized": "When you play a card here, add a {location.Card_Token.Name} to your hand.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186583,
+      "m_Localized": "Card text is disabled here.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 45
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 1359370179829777,
+      "m_Localized": "Isle of Silence",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1359370179829778,
+      "m_Localized": "<b>Ongoing</b> effects are disabled here.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 46
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 1359370179829781,
+      "m_Localized": "TVA",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1359370179829782,
+      "m_Localized": "<vfx=alert>After turn {location.TurnNumber}, end the game</vfx>.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 47
+          },
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 1359370179829785,
+      "m_Localized": "The Peak",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 48
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 1359370179829786,
+      "m_Localized": "Each card in your hand swaps its Power and Cost.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 49
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 8236942213767168,
+      "m_Localized": "Protect cards like Attuma here!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544384,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544385,
+      "m_Localized": "School's out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544386,
+      "m_Localized": "Take Control!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544387,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544388,
+      "m_Localized": "Bring some higher Cost cards!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544389,
+      "m_Localized": "Why not give a creative gift?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544390,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544391,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544392,
+      "m_Localized": "How will you Power through here?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544393,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544394,
+      "m_Localized": "A perfect spot for Namor!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544395,
+      "m_Localized": "Draw your important 1-Costs!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544396,
+      "m_Localized": "Make the biggest crowd!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544397,
+      "m_Localized": "Get the scoop on your opponent!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544398,
+      "m_Localized": "Dispose of opposing cards here!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544399,
+      "m_Localized": "An undeniable attraction!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544400,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544401,
+      "m_Localized": "Make room for reinforcements!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544402,
+      "m_Localized": "How will you get power here?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544403,
+      "m_Localized": "Take control to reap the rewards!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544404,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544405,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544406,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544407,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544408,
+      "m_Localized": "Play here early!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544409,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544410,
+      "m_Localized": "Play a 6-Cost card early, or two!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544411,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544412,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544413,
+      "m_Localized": "Cards like Iron Man boost the monster!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544414,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544415,
+      "m_Localized": "Take control early, or wait to strike?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544416,
+      "m_Localized": "Make a break before your opponent!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544417,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544418,
+      "m_Localized": "Some cards don’t mind being discarded…",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544419,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544420,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738688,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738689,
+      "m_Localized": "Pick a card to claim the throne!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738690,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738691,
+      "m_Localized": "Mind what you give your opponent!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738692,
+      "m_Localized": "Those Raptors take up lots of space!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738693,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738694,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738695,
+      "m_Localized": "Claim the Vault by turn 5!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738696,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738697,
+      "m_Localized": "Plan ahead for the move!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738698,
+      "m_Localized": "Fight someone your own size!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738699,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738700,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738701,
+      "m_Localized": "Quantity over quality!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738702,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738703,
+      "m_Localized": "Odin's vacation home!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738704,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738705,
+      "m_Localized": "Stack low Cost cards here!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738706,
+      "m_Localized": "Use it or lose it!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738707,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738708,
+      "m_Localized": "Don't play here too early!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738709,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738710,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738711,
+      "m_Localized": "Sacrifices must be made...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738712,
+      "m_Localized": "Moving here gives a nice boost!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738713,
+      "m_Localized": "The most powerful card gets a bonus!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738714,
+      "m_Localized": "Feed me!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738715,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738716,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738717,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738718,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738719,
+      "m_Localized": "When in Roma...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738720,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738721,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738722,
+      "m_Localized": "Get a massive boost on Iron Man!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738723,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738724,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738725,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738726,
+      "m_Localized": "Sharing is caring!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738727,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738728,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738729,
+      "m_Localized": "Double the cards, double the fun!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738730,
+      "m_Localized": "Perfect for some sneaky plays!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738731,
+      "m_Localized": "Don't block the flow!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738732,
+      "m_Localized": "Play it again!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738733,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738734,
+      "m_Localized": "Set up for the takeover!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238932992,
+      "m_Localized": "Locks down after turn 4!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238932993,
+      "m_Localized": "Only the strong survive!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238932994,
+      "m_Localized": "Multiply!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238932995,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238932996,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238932997,
+      "m_Localized": "Hide plays or delay On Reveals!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238932998,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238932999,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933000,
+      "m_Localized": "Stack your Power here!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933001,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933002,
+      "m_Localized": "Cards will leave after graduating turn 5!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933003,
+      "m_Localized": "Replace your hand after turn 3!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933004,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933005,
+      "m_Localized": "Manage your hand for a strong arrival!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933006,
+      "m_Localized": "Pay the toll!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933007,
+      "m_Localized": "Use the discount to play more cards!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933008,
+      "m_Localized": "In space, no one can read your text.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933009,
+      "m_Localized": "Some cards use this more effectively...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933010,
+      "m_Localized": "Ongoing cards won't work here!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933011,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933012,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933013,
+      "m_Localized": "Back to basics!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933014,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933015,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933016,
+      "m_Localized": "What can survive in Death’s Domain?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933017,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933018,
+      "m_Localized": "Play and replay On Reveal effects!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933019,
+      "m_Localized": "Fill this up for a massive Hulk Smash!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933020,
+      "m_Localized": "Pack low Power and high Cost!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9323243499413504,
+      "m_Localized": "Vibranium Mines",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9323243499413505,
+      "m_Localized": "After you play here, shuffle {location.TokenCount} {location.Card_Token.Name} into your deck.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 9323243499413506,
+      "m_Localized": "Mine early or late?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13742778066288640,
+      "m_Localized": "Shuri's Lab",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13742778095648768,
+      "m_Localized": "After you play a card here, double its Power.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13742778095648769,
+      "m_Localized": "Double the Power, double the fun!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12359320349851648,
+      "m_Localized": "Throne Room",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12359320375017472,
+      "m_Localized": "Card(s) here with the highest Power have their Power doubled.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12359320375017473,
+      "m_Localized": "There can be only one!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11277274814758912,
+      "m_Localized": "Make use of what's left!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26473593145540608,
+      "m_Localized": "Rickety Bridge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26473593162317824,
+      "m_Localized": "After each turn, if there is more than one card here, destroy them.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26473593162317825,
+      "m_Localized": "Don't rock the bridge!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27941492976664576,
+      "m_Localized": "Altar of Death",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27941492993441792,
+      "m_Localized": "After you play a card here, destroy it to get +{location.AddedEnergy} Energy next turn.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 27941492993441793,
+      "m_Localized": "What will you sacrifice?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27933006477803520,
+      "m_Localized": "Eternity Range",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27933006494580736,
+      "m_Localized": "After turn {location.TurnNumber}, add a Rock to the losing player's side.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 27933006494580737,
+      "m_Localized": "Rock incoming!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27939120166617088,
+      "m_Localized": "Collapsed Mine",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27939120183394304,
+      "m_Localized": "Fill this location with Rocks. Skip a turn to destroy your Rocks.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27939120183394305,
+      "m_Localized": "Clear the way or let them stay?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27944333623574528,
+      "m_Localized": "Plunder Castle",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27944333640351744,
+      "m_Localized": "Only cards that cost 6 can be played here.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27944333640351745,
+      "m_Localized": "Claim the castle!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40504288218071040,
+      "m_Localized": "Follow the Sacred Timeline!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40504288239042560,
+      "m_Localized": "Quantum Tunnel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40504288239042561,
+      "m_Localized": "After you play a card here, swap it with a card in your deck.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40504288239042562,
+      "m_Localized": "Explore the tunnel!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40504288239042563,
+      "m_Localized": "Camp Lehigh",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40504288239042564,
+      "m_Localized": "Add a random 3-Cost card to each player's hand.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40504288239042565,
+      "m_Localized": "A new recruit!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 50310215599276032,
+      "m_Localized": "Orchis Forge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 50310215616053248,
+      "m_Localized": "After you play a card here, add a {location.Card_Token.Name} to your hand.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 50310215620247552,
+      "m_Localized": "S3nt1nel Pr1nt3r",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39787390094426120,
+      "m_Localized": "Pet Mansion",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39787390094426121,
+      "m_Localized": "This turn, all cards must be played here.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39787390094426122,
+      "m_Localized": "The pets demand pets!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39787390094426123,
+      "m_Localized": "The Sandbar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39787390094426124,
+      "m_Localized": "Cards with abilities can’t be played here.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39787390094426125,
+      "m_Localized": "No abilities on the sand!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53093396975075328,
+      "m_Localized": "Milano",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53093396991852544,
+      "m_Localized": "Turn {location.TurnNumber} is the only turn cards can be played here.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 53093396996046848,
+      "m_Localized": "Catch your ride on turn {location.TurnNumber}!",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 928418349955940360
+          }
+        ]
+      }
+    }
+  ],
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 0,
+        "type": {
+          "class": "Comment",
+          "ns": "UnityEngine.Localization.Metadata",
+          "asm": "Unity.Localization"
+        },
+        "data": {}
+      },
+      {
+        "rid": 7306074725837439015,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 7953753191867577185,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 4298013036,
+        "type": {
+          "class": "",
+          "ns": "Comment",
+          "asm": "UnityEngine.Localization.Metadata"
+        },
+        "data": {}
+      },
+      {
+        "rid": 8388357092305534994,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 167503752815,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 2334398844012089376,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 13081355427408228,
+        "type": {
+          "class": "\u0000\u0000",
+          "ns": "Comment",
+          "asm": "UnityEngine.Localization.Metadata"
+        },
+        "data": {}
+      },
+      {
+        "rid": 8388357092305534994,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 167503752815,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 2334398844012089376,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 13081355427408228,
+        "type": {
+          "class": "\u0000\u0000\u0000",
+          "ns": "Comment",
+          "asm": "UnityEngine.Localization.Metadata"
+        },
+        "data": {}
+      },
+      {
+        "rid": 8388357092305534994,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 98784276079,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 7306087019850376992,
+        "type": {
+          "class": "",
+          "ns": "\u0000\u0000\u0000\u0000",
+          "asm": "Comment"
+        },
+        "data": {}
+      },
+      {
+        "rid": 8388357092305535009,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 7957695015159490924,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": "\u0012\u0000\u0000\u0000Unity.Localization\u0000\u0000;\u0000\u0000\u0000Removed 'Tutorial'. Please change accordingly if necessary.\u0000\u0005\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0007"
+        },
+        "data": {}
+      },
+      {
+        "rid": 32772479205076803,
+        "type": {
+          "class": "UnityEngine.Localization.Metadata",
+          "ns": "Unity.Localization",
+          "asm": "Removed 'Tutorial'. Please change accordingly if necessary."
+        },
+        "data": {}
+      },
+      {
+        "rid": 6,
+        "type": {
+          "class": "Comment",
+          "ns": "UnityEngine.Localization.Metadata",
+          "asm": "Unity.Localization"
+        },
+        "data": {}
+      },
+      {
+        "rid": 8029185113533186107,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 7018134685719865196,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 7811333477633257315,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 30067816818,
+        "type": {
+          "class": "",
+          "ns": "Comment",
+          "asm": "UnityEngine.Localization.Metadata"
+        },
+        "data": {}
+      },
+      {
+        "rid": 8388357092305534994,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 390842052207,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 7738140083766715756,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 7021147172294369380,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 7453001533773979694,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 7885647255500705880,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 8,
+        "type": {
+          "class": "Comment",
+          "ns": "UnityEngine.Localization.Metadata",
+          "asm": "Unity.Localization"
+        },
+        "data": {}
+      },
+      {
+        "rid": 7953753053885104243,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 3828181121138696306,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 2320796841718141984,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 7020094910173115508,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 7142820555239287888,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 7379465170305117801,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 9,
+        "type": {
+          "class": "Comment",
+          "ns": "UnityEngine.Localization.Metadata",
+          "asm": "Unity.Localization"
+        },
+        "data": {}
+      },
+      {
+        "rid": 7953753053885104243,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 3756123527100768370,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 2320515366741431328,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 7020094910173115508,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 7142820555239287888,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 7379465170305117801,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 10,
+        "type": {
+          "class": "Comment",
+          "ns": "UnityEngine.Localization.Metadata",
+          "asm": "Unity.Localization"
+        },
+        "data": {}
+      },
+      {
+        "rid": 7308895020407324751,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 7306930285074129011,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 7521891422621037935,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 7307218078049181811,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 47247681390,
+        "type": {
+          "class": "",
+          "ns": "Comment",
+          "asm": "UnityEngine.Localization.Metadata"
+        },
+        "data": {}
+      },
+      {
+        "rid": 8388357092305534994,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 493921267311,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      }
+    ]
+  }
+}
