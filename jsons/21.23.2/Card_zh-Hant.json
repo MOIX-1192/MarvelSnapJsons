@@ -1,0 +1,8427 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2378050947708348859
+  },
+  "m_Name": "Card_zh-Hant",
+  "m_LocaleId": {
+    "m_Code": "zh-Hant"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": -6720115050186859534
+  },
+  "m_Metadata": {
+    "m_Items": [
+      {
+        "rid": 0
+      }
+    ]
+  },
+  "m_TableData": [
+    {
+      "m_Id": 361556336640,
+      "m_Localized": "快銀",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361568919552,
+      "m_Localized": "迷霧騎士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361568919553,
+      "m_Localized": "鷹眼",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361568919554,
+      "m_Localized": "震動人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361568919555,
+      "m_Localized": "美杜莎",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361568919556,
+      "m_Localized": "星爵",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361568919557,
+      "m_Localized": "獨眼龍",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361568919558,
+      "m_Localized": "制裁者",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361568919559,
+      "m_Localized": "石頭人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113856,
+      "m_Localized": "惡型怪",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113857,
+      "m_Localized": "鋼鐵人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113858,
+      "m_Localized": "浩克",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113859,
+      "m_Localized": "松鼠女孩",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113860,
+      "m_Localized": "松鼠",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113861,
+      "m_Localized": "蟻人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113862,
+      "m_Localized": "蜥蜴",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113863,
+      "m_Localized": "畢曉普",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113864,
+      "m_Localized": "格魯特",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113865,
+      "m_Localized": "娜奇雅",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113866,
+      "m_Localized": "納摩",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113867,
+      "m_Localized": "安吉拉",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113868,
+      "m_Localized": "塞拉",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113869,
+      "m_Localized": "白虎",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113870,
+      "m_Localized": "靈虎",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113871,
+      "m_Localized": "亞美莉嘉·莎薇絲",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113872,
+      "m_Localized": "光譜",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113873,
+      "m_Localized": "藍驚奇",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113874,
+      "m_Localized": "黃蜂女",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113875,
+      "m_Localized": "艾麗卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113876,
+      "m_Localized": "寇格",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113877,
+      "m_Localized": "火箭浣熊",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113878,
+      "m_Localized": "刀鋒戰士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113879,
+      "m_Localized": "鍛造者",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113880,
+      "m_Localized": "靈蝶",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113881,
+      "m_Localized": "邪惡先生",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113882,
+      "m_Localized": "邪惡克隆體",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113883,
+      "m_Localized": "驚奇先生",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113884,
+      "m_Localized": "鋼鐵心",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361573113885,
+      "m_Localized": "犀牛人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308160,
+      "m_Localized": "格羅",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308161,
+      "m_Localized": "潔西卡·瓊斯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308162,
+      "m_Localized": "幻視",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308163,
+      "m_Localized": "獵鷹",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308164,
+      "m_Localized": "冰人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308165,
+      "m_Localized": "鐵拳俠",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308166,
+      "m_Localized": "曼蒂斯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308167,
+      "m_Localized": "卡耐基",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308168,
+      "m_Localized": "恩巴庫",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308169,
+      "m_Localized": "分身人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308170,
+      "m_Localized": "布魯德蟲族",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308171,
+      "m_Localized": "布魯德蟲",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308172,
+      "m_Localized": "美國隊長",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308173,
+      "m_Localized": "狼毒",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308174,
+      "m_Localized": "卡扎",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308175,
+      "m_Localized": "奧丁",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308176,
+      "m_Localized": "觀察者奧圖",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308177,
+      "m_Localized": "機堡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308178,
+      "m_Localized": "收藏者",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308179,
+      "m_Localized": "猩紅女巫",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308180,
+      "m_Localized": "多米諾",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308181,
+      "m_Localized": "北極星",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308182,
+      "m_Localized": "科斯莫",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308183,
+      "m_Localized": "惡魔恐龍",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308184,
+      "m_Localized": "猛毒",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308185,
+      "m_Localized": "禿鷹",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308186,
+      "m_Localized": "月亮女孩",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308187,
+      "m_Localized": "德克斯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308188,
+      "m_Localized": "金霸王",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308189,
+      "m_Localized": "女蜘蛛人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308190,
+      "m_Localized": "劍仙",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308191,
+      "m_Localized": "末日博士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308192,
+      "m_Localized": "毀滅機器人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308193,
+      "m_Localized": "奧創",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308194,
+      "m_Localized": "無人機",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308195,
+      "m_Localized": "萬磁王",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308196,
+      "m_Localized": "勇度",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308197,
+      "m_Localized": "斗篷",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308198,
+      "m_Localized": "匕首",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308199,
+      "m_Localized": "壯漢",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308200,
+      "m_Localized": "蜂群",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308201,
+      "m_Localized": "克拉文",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308202,
+      "m_Localized": "莫卓",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308203,
+      "m_Localized": "奧科耶",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308204,
+      "m_Localized": "愛國者",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308205,
+      "m_Localized": "小淘氣",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308206,
+      "m_Localized": "死亡戰士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308207,
+      "m_Localized": "綠惡魔",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308208,
+      "m_Localized": "反浩克裝甲",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308209,
+      "m_Localized": "紅色歐米伽",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361577308210,
+      "m_Localized": "鎖齒狗",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502464,
+      "m_Localized": "尚氣",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502465,
+      "m_Localized": "死亡女神",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502466,
+      "m_Localized": "黃蜂俠",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502467,
+      "m_Localized": "13號特工",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502468,
+      "m_Localized": "天使",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502469,
+      "m_Localized": "巴奇·巴恩斯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502470,
+      "m_Localized": "酷寒戰士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502471,
+      "m_Localized": "呆頭鵝",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502472,
+      "m_Localized": "震盪",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502473,
+      "m_Localized": "黛波麗",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502474,
+      "m_Localized": "金牌手",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502475,
+      "m_Localized": "惡靈戰警",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502476,
+      "m_Localized": "黑貓",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502477,
+      "m_Localized": "馬克西穆斯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502478,
+      "m_Localized": "魔形女",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502479,
+      "m_Localized": "吸收人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502480,
+      "m_Localized": "控訴者羅南",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502481,
+      "m_Localized": "模仿大師",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502482,
+      "m_Localized": "黑寡婦",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502483,
+      "m_Localized": "寡婦之囓",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502484,
+      "m_Localized": "科琳·溫",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502485,
+      "m_Localized": "魔比斯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502486,
+      "m_Localized": "盧克·凱奇",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502487,
+      "m_Localized": "生化女",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502488,
+      "m_Localized": "腦波增幅器",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502489,
+      "m_Localized": "劍齒虎",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502490,
+      "m_Localized": "白光花火",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502491,
+      "m_Localized": "沙人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502492,
+      "m_Localized": "蜘蛛人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502493,
+      "m_Localized": "傷寒瑪莉",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502494,
+      "m_Localized": "黑霹雷",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502495,
+      "m_Localized": "巨鯨獸",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502496,
+      "m_Localized": "阿尼姆·佐拉",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502497,
+      "m_Localized": "霹靂火",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502498,
+      "m_Localized": "零號",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502499,
+      "m_Localized": "新星",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502500,
+      "m_Localized": "紅坦克",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502501,
+      "m_Localized": "隨機人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502502,
+      "m_Localized": "毒蠍人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502503,
+      "m_Localized": "暴風女",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502504,
+      "m_Localized": "惡鬼",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502505,
+      "m_Localized": "首腦",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502506,
+      "m_Localized": "電光人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502507,
+      "m_Localized": "紅兜帽",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502508,
+      "m_Localized": "惡魔",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502509,
+      "m_Localized": "毒蛇",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502510,
+      "m_Localized": "齊爾蒙格",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502511,
+      "m_Localized": "希芙女士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361581502512,
+      "m_Localized": "德古拉",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696768,
+      "m_Localized": "負先生",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696769,
+      "m_Localized": "黑舌謀士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696770,
+      "m_Localized": "昆式戰鬥機",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696771,
+      "m_Localized": "迷境魔",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696772,
+      "m_Localized": "迷境魔？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696773,
+      "m_Localized": "幻覺！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696774,
+      "m_Localized": "天啟",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696775,
+      "m_Localized": "蛛絲女",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696776,
+      "m_Localized": "康",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696777,
+      "m_Localized": "氣旋",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696778,
+      "m_Localized": "八爪博士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696779,
+      "m_Localized": "海姆達爾",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696780,
+      "m_Localized": "生命法庭",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696781,
+      "m_Localized": "吸血鬼牛",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696782,
+      "m_Localized": "隱形女",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696783,
+      "m_Localized": "王",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696784,
+      "m_Localized": "毀滅者",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696785,
+      "m_Localized": "哨兵機器人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696786,
+      "m_Localized": "岩崩",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696787,
+      "m_Localized": "鋼人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696788,
+      "m_Localized": "救援",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696789,
+      "m_Localized": "葛摩菈",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696790,
+      "m_Localized": "金鋼狼",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696791,
+      "m_Localized": "X教授",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696792,
+      "m_Localized": "狂攻",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696793,
+      "m_Localized": "戰跡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696794,
+      "m_Localized": "女巫師",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696795,
+      "m_Localized": "千面人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696796,
+      "m_Localized": "鎧",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696797,
+      "m_Localized": "太陽黑子",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696798,
+      "m_Localized": "宇宙術士亞當",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696799,
+      "m_Localized": "阿嘉莎·哈克尼斯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696800,
+      "m_Localized": "死侍",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696801,
+      "m_Localized": "水蛭",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696802,
+      "m_Localized": "次元行者",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696803,
+      "m_Localized": "海拉",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696804,
+      "m_Localized": "十字骨",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696805,
+      "m_Localized": "驚奇隊長",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696806,
+      "m_Localized": "紅骷髏",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696807,
+      "m_Localized": "魔劍客",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696808,
+      "m_Localized": "舒莉",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696809,
+      "m_Localized": "吞星",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696810,
+      "m_Localized": "薩諾斯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696811,
+      "m_Localized": "力量原石",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696812,
+      "m_Localized": "現實原石",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696813,
+      "m_Localized": "心靈原石",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696814,
+      "m_Localized": "時間原石",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696815,
+      "m_Localized": "靈魂原石",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696816,
+      "m_Localized": "空間原石",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361585696817,
+      "m_Localized": "怪物",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361589891072,
+      "m_Localized": "石塊",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361589891073,
+      "m_Localized": "迅猛龍",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361589891074,
+      "m_Localized": "忍者",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361589891075,
+      "m_Localized": "夜行者",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361589891076,
+      "m_Localized": "月光騎士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361589891077,
+      "m_Localized": "白皇后",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361589891078,
+      "m_Localized": "奇異博士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361589891079,
+      "m_Localized": "莫度男爵",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361589891080,
+      "m_Localized": "水晶",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361589891081,
+      "m_Localized": "野獸",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361589891082,
+      "m_Localized": "必出現於起始手牌中。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361589891083,
+      "m_Localized": "<i>「我們必須拯救這座城市。」</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361589891084,
+      "m_Localized": "<b>揭示：</b>若你下回合在此區域放置卡牌，則此牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361589891085,
+      "m_Localized": "<i>「我要震爆你們！」</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361589891086,
+      "m_Localized": "<b>揭示：</b>若此卡牌在中間區域，則+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361594085376,
+      "m_Localized": "<b>揭示：</b>若對方本回合在此區域放置過卡牌，則此牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361594085377,
+      "m_Localized": "<i>「X戰警，上吧！」</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361594085378,
+      "m_Localized": "<b>持續：</b>對方在此區域每放置1張卡牌，就+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361594085379,
+      "m_Localized": "<i>「海扁時間到！」</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361594085380,
+      "m_Localized": "<i>「愚蠢的賤民！你們不是我的對手！」</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361594085381,
+      "m_Localized": "<b>持續：</b>你在此區域的總戰鬥力翻倍。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361594085382,
+      "m_Localized": "<i>「浩克猛砸！」</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361594085383,
+      "m_Localized": "<b>揭示：</b>將1張戰鬥力為{card.Card_Token.Power}的{card.Card_Token.Name}分別添加到你的其他區域。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361594085384,
+      "m_Localized": "<i>「吱吱吱！」</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361594085385,
+      "m_Localized": "<b>持續：</b>若我方填滿此區域，則此卡牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361594085386,
+      "m_Localized": "<b>持續：</b>若對方在此區域有{card.LocationCardCount}張卡牌，則-{card.ReducedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361594085387,
+      "m_Localized": "你每放置1張卡牌，此牌就+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361594085388,
+      "m_Localized": "<b>揭示：</b>若對方本回合在此區域放置過卡牌，則此牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361594085389,
+      "m_Localized": "<b>揭示：</b>使你手牌中的所有卡牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361594085390,
+      "m_Localized": "<b>持續：</b>若我方在此區域僅有此張卡牌，則+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361594085391,
+      "m_Localized": "你每在此區域放置1張卡牌，此牌就+{card.AddedPower}戰鬥力",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361594085392,
+      "m_Localized": "<b>持續：</b>我方手牌的能量花費-{card.ReducedCost}。<i>（最低須為1）</i>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361594085393,
+      "m_Localized": "<b>揭示：</b>將1張戰鬥力為{card.Card_Token.Power}的靈虎添加到另一區域。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361594085394,
+      "m_Localized": "<i>「血債血償！」</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361594085395,
+      "m_Localized": "對戰開始時，會出現於我方牌組最底端。必定可在第{card.TurnNumber}回合抽到此卡牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361594085396,
+      "m_Localized": "<b>揭示：</b>我方<b>持續</b>卡牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361594085397,
+      "m_Localized": "<b>持續：</b>我方其他卡牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361594085398,
+      "m_Localized": "<i>「我的超能力是解決問題。」</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361594085399,
+      "m_Localized": "<b>揭示：</b>隨機摧毀此區域對方的1張{card.TargetCardCost}費牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361594085400,
+      "m_Localized": "<b>揭示：</b>將1張{card.Card_Token.Name}洗進對方牌組。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361594085401,
+      "m_Localized": "<b>揭示：</b>若對方本回合在此區域放置過卡牌，則此牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361594085402,
+      "m_Localized": "<b>揭示：</b>丟棄我方手牌最右邊的卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361594085403,
+      "m_Localized": "<b>揭示：</b>你打出的下張卡牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361594085404,
+      "m_Localized": "<b>揭示：</b>下回合，你獲得+{card.AddedEnergy}能量。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361594085405,
+      "m_Localized": "<b>揭示：</b>將1張戰鬥力相同的{card.Card_Token.Name}添加到此區域。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361594085406,
+      "m_Localized": "<i>「邪惡是一個系統、一個物種。邪惡即萬物。」</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361594085407,
+      "m_Localized": "<b>持續：</b>相鄰區域+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361598279680,
+      "m_Localized": "<b>揭示：</b>我方其他{card.ModifiedCardCount}張卡牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361598279681,
+      "m_Localized": "<b>揭示：</b>把此區域炸成廢墟（移除此區域效果）。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361598279682,
+      "m_Localized": "<b>持續：</b>所在區域的右側區域+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361598279683,
+      "m_Localized": "<b>揭示：</b>若你下回合不在此區域放置卡牌，則此牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361598279684,
+      "m_Localized": "你每個回合均可移動此卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361598279685,
+      "m_Localized": "<b>揭示：</b>將我方所有{card.TargetCardCost}費牌退回手牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361598279686,
+      "m_Localized": "<b>揭示：</b>對方隨機1張手牌的能量花費+{card.AddedCost}。<i>（最大至{card.MaximumCost}）</i>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361598279687,
+      "m_Localized": "<b>揭示：</b>你放置下張卡牌後，該卡牌向左移動1個區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361598279688,
+      "m_Localized": "<b>揭示：</b>若對方本回合在此區域放置過卡牌，則從<i>其牌組</i>抽1張卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361598279689,
+      "m_Localized": "<b>揭示：</b>摧毀我方在此區域的其他卡牌，每摧毀1張，就+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361598279690,
+      "m_Localized": "在本局對戰結束時，若此卡牌仍在牌組中，則會從牌組跳出至隨機區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361598279691,
+      "m_Localized": "此卡牌移動後，將1張複製牌添加到原本區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361598279692,
+      "m_Localized": "<b>揭示：</b>將{card.TokenCount}張戰鬥力相同的布魯德蟲添加到此區域。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361598279693,
+      "m_Localized": "<i>「我們是布魯德蟲族，從布魯德世界而來。而你，是我們的午餐。」</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361598279694,
+      "m_Localized": "持續：你沒有特殊效果的卡牌+2戰鬥力。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361598279695,
+      "m_Localized": "<b>揭示：</b>此區域我方每有1張其他卡牌，則此卡牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361598279696,
+      "m_Localized": "<b>持續：</b>我方所有{card.TargetCardCost}費牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361598279697,
+      "m_Localized": "<b>揭示：</b>觸發此區域你其他卡牌的<b>揭示</b>效果。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361598279698,
+      "m_Localized": "對戰開始時，向你顯示右側區域的效果。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361598279699,
+      "m_Localized": "<b>揭示：</b>抽取對方牌組最頂端的1張卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361598279700,
+      "m_Localized": "每有卡牌加入至我方手牌<i>（從牌組中加入除外）</i>，此牌就+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361598279701,
+      "m_Localized": "<b>揭示：</b>將此區域替換為隨機一個新區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361598279702,
+      "m_Localized": "你僅能在第{card.TurnNumber}回合抽到此卡牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361598279703,
+      "m_Localized": "<b>揭示：</b>將對方的1張{card.TargetCardCost_1}費牌或{card.TargetCardCost_2}費牌移動至此區域。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361598279704,
+      "m_Localized": "<b>持續：</b>此區域所有<b>揭示</b>效果無效。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361598279705,
+      "m_Localized": "<b>持續：</b>我方每有1張手牌，就+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361598279706,
+      "m_Localized": "<b>揭示：</b>摧毀我方在此區域的其他卡牌，並繼承被摧毀卡牌的戰鬥力。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361598279707,
+      "m_Localized": "每當此卡牌移動，就+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361598279708,
+      "m_Localized": "<b>揭示：</b>複製你的手牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361598279709,
+      "m_Localized": "<b>揭示：</b>若對方本回合在此區域放置過卡牌，則此牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361598279710,
+      "m_Localized": "第{card.TurnNumber}回合時，每有1張卡牌移動至此區域，就摧毀該牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361598279711,
+      "m_Localized": "<b>揭示：</b>此區域所有對方卡牌-{card.ReducedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361598279712,
+      "m_Localized": "<b>揭示：</b>從你手牌中丟棄1張卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361598279713,
+      "m_Localized": "<b>揭示：</b>將1張戰鬥力為{card.Card_Token.Power}的{card.Card_Token.Name}分別添加到你的其他區域。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361598279714,
+      "m_Localized": "「末日博士至高無上！」",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361598279715,
+      "m_Localized": "<b>揭示：</b>在其他區域各生成4張戰鬥力為{card.Card_Token.Power}的無人機。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361598279716,
+      "m_Localized": "<i>「滋滋滋……啪！」</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361598279717,
+      "m_Localized": "<b>揭示：</b>將對方所有的{card.TargetCardCost_1}費牌和{card.TargetCardCost_2}費牌移動至此區域。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361602473984,
+      "m_Localized": "<b>揭示：</b>摧毀對方牌組最頂端的1張卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361602473985,
+      "m_Localized": "<b>揭示：</b>下回合，雙方均可將卡牌移動至此區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361602473986,
+      "m_Localized": "此卡牌移動後，對方在目標區域每有1張卡牌，就+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361602473987,
+      "m_Localized": "<b>持續：</b>若我方沒有手牌，則+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361602473988,
+      "m_Localized": "此卡牌從手牌丟棄後，將2張複製牌加入我方手牌中，這2張牌的能量花費為{card.TokenEnergyCost}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361602473989,
+      "m_Localized": "每有1張卡牌移動至此區域，此牌就+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361602473990,
+      "m_Localized": "<b>持續：</b>若雙方均將此區域填滿，則此牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361602473991,
+      "m_Localized": "<b>揭示：</b>我方牌組中所有卡牌均+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361602473992,
+      "m_Localized": "<b>持續：</b>我方沒有特殊效果的卡牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361602473993,
+      "m_Localized": "<b>揭示：</b>偷取此區域隨機1張敵方<b>持續</b>卡牌的效果文字。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361602473994,
+      "m_Localized": "<b>揭示：</b>摧毀此區域你的其他卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361602473995,
+      "m_Localized": "<b>揭示：</b>此牌對調敵我位置。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361602473996,
+      "m_Localized": "<b>揭示：</b>將此卡牌隨機與你1張同區域的卡牌合併。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361602473997,
+      "m_Localized": "<b>持續：</b>若你在此區域領先大於或等於{card.PowerDifference}點戰鬥力，則我方其他區域各+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361602473998,
+      "m_Localized": "你在此區域放置1張卡牌後，將其換成牌組中任一卡牌。<i>（每回合限1次）</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361602473999,
+      "m_Localized": "<b>揭示：</b>摧毀此區域所有戰鬥力大於或等於{card.TargetCardCost}的對方卡牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361602474000,
+      "m_Localized": "本局對戰中，每有1張卡牌被摧毀，能量花費-{card.ReducedCost}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361602474001,
+      "m_Localized": "<b>揭示：</b>此區域你的其他卡牌-{card.ReducedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361602474002,
+      "m_Localized": "<b>揭示：</b>將隨機1張卡牌加入我方手牌中。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361602474003,
+      "m_Localized": "每當你的1張卡牌被摧毀，此卡牌會飛出你的牌組替換該牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361602474004,
+      "m_Localized": "此卡牌被摧毀後，會替換成{card.Card_Token.Name}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361602474005,
+      "m_Localized": "<i>「是時候面對過往了。」</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361602474006,
+      "m_Localized": "<b>持續：</b>雙方均不可將能量花費為{card.TargetCardCost_1}、{card.TargetCardCost_2}、{card.TargetCardCost_3}的卡牌放置在此區域。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361602474007,
+      "m_Localized": "<b>揭示：</b>若此卡牌被放置在中間區域，則調換所有區域的位置。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361602474008,
+      "m_Localized": "<b>揭示：</b>在雙方其他區域各添加1張{card.Card_Token.Name}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361602474009,
+      "m_Localized": "<b>揭示：</b>從你手牌中丟棄1張卡牌。隨機摧毀1張對方卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361602474010,
+      "m_Localized": "<b>揭示：</b>找回1張你丟棄的卡牌，並添加到此區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361602474011,
+      "m_Localized": "回合結束後，此卡牌若仍在你的手牌中，則丟棄此卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361602474012,
+      "m_Localized": "<b>揭示：</b>對方抽{card.DrawCount}張卡牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361602474013,
+      "m_Localized": "<b>揭示：</b>若你打出的上張卡牌有<b>持續</b>效果，則此卡牌將複製其卡牌文字。<i>（該卡牌須已揭示並在場上）</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361602474014,
+      "m_Localized": "<b>揭示：</b>若你打出的上張卡牌有<b>揭示</b>效果，則此卡牌將複製其卡牌文字。<i>（該卡牌須已揭示並在場上）</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361602474015,
+      "m_Localized": "<b>持續：</b>對方每有1張手牌，則此卡牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361602474016,
+      "m_Localized": "<b>揭示：</b>將此卡牌戰鬥力設定為你放置的上張卡牌戰鬥力。<i>（該卡牌須已揭示並在場上）</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361602474017,
+      "m_Localized": "<b>揭示：</b>將1張{card.Card_Token.Name}加入對方手牌中。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361602474018,
+      "m_Localized": "此卡牌在你的手牌中時，你不能抽牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361602474019,
+      "m_Localized": "<b>揭示：</b>丟棄手牌中能量花費最低的卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361602474020,
+      "m_Localized": "<b>持續：</b>本局對戰中，你每丟棄1張卡牌，就+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361602474021,
+      "m_Localized": "<b>持續：</b>你的卡牌戰鬥力無法被降低。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361606668288,
+      "m_Localized": "<b>揭示：</b>所有其他卡牌-{card.ReducedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361606668289,
+      "m_Localized": "<b>持續：</b>我方戰鬥力最高的所有卡牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361606668290,
+      "m_Localized": "此卡牌被摧毀後會返回我方手牌，且能量花費變為{card.AssignedCost}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361606668291,
+      "m_Localized": "<b>揭示：</b>將我方牌組最頂端的卡牌添加到此區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361606668292,
+      "m_Localized": "<b>持續：</b>雙方每回合只能打出{card.StageCardsLimit}張卡牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361606668293,
+      "m_Localized": "揭示：對方下回合無法在此區域放置卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361606668294,
+      "m_Localized": "<b>持續：</b>你的其他卡牌-{card.ReducedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361606668295,
+      "m_Localized": "<b>揭示：</b>丟棄對方手牌中能量花費最低的1張隨機卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361606668296,
+      "m_Localized": "此卡牌只能被放置在左側區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361606668297,
+      "m_Localized": "<b>揭示：</b>隨機摧毀我方在此區域的1張其他卡牌，並將其1張複製牌添加到其他各個區域中。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361606668298,
+      "m_Localized": "此卡牌移動後戰鬥力翻倍。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361606668299,
+      "m_Localized": "<b>揭示：</b>移除你打出的下張卡牌的特殊效果。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361606668300,
+      "m_Localized": "當此卡牌被摧毀後，我方卡牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361606668301,
+      "m_Localized": "<b>揭示：</b>若本回合對方將卡牌放置於此區域，則將該卡牌隨機移動至其他區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361606668302,
+      "m_Localized": "<b>揭示：</b>將牌組內隨機卡牌的戰鬥力值設定為此卡牌的戰鬥力。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361606668303,
+      "m_Localized": "<b>揭示：</b>對方手牌-{card.ReducedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361606668304,
+      "m_Localized": "<b>揭示：</b>沖毀此區域。下回合過後，雙方不可在此區域放置卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361606668305,
+      "m_Localized": "<b>揭示：</b>此牌對調敵我位置。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361606668306,
+      "m_Localized": "<b>揭示：</b>複製本回合敵方放置戰鬥力最高的所有卡牌，並複製到我方的相同區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361606668307,
+      "m_Localized": "<b>揭示：</b>最大能量值+{card.AddedMaxEnergy}。<b>持續：</b>你每回合只能放置{card.StageCardsLimit}張卡牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361606668308,
+      "m_Localized": "<b>揭示：</b>將1張{card.Card_Token.Name}加入我方手牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361606668309,
+      "m_Localized": "<i>「約定既成，萬勿反悔。」</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361606668310,
+      "m_Localized": "<b>揭示：</b>將我方此區域另1張卡牌對調敵我位置。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361606668311,
+      "m_Localized": "<b>揭示：</b>摧毀所有{card.TargetCardCost}費牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361606668312,
+      "m_Localized": "<b>揭示：</b>丟棄你手牌中能量花費最高的卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361606668313,
+      "m_Localized": "在本局對戰結束時，從你手牌中丟棄1張卡牌，此卡牌獲得其戰鬥力。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361606668314,
+      "m_Localized": "<b>揭示：</b>將牌組中所有卡牌的能量花費和戰鬥力互換。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361606668315,
+      "m_Localized": "第{card.TurnNumber}回合結束後不可打出此卡牌。<b>持續：</b>不可再放置卡牌至此區域。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361606668316,
+      "m_Localized": "<b>持續：</b>初始之時不在我方牌組的卡牌能量花費-{card.ReducedCost}。<i>（最低須為1）</i>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361606668317,
+      "m_Localized": "當你放置此卡牌時，會同時在其他區域放置「幻覺」，此牌也將偽裝成幻覺，直到對戰結束。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361606668318,
+      "m_Localized": "哪個迷境魔是真身？<i>真身具有{card.Card_Source.Power}戰鬥力。</i>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361606668319,
+      "m_Localized": "這不是迷境魔的真身！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361606668320,
+      "m_Localized": "當你從手牌丟棄此卡牌，此卡牌+{card.AddedPower}戰鬥力，並返回手牌中。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361606668321,
+      "m_Localized": "任1張卡牌被放置於此區域後，此卡牌移動至另一區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361606668322,
+      "m_Localized": "<b>揭示：</b>檢視對方在本回合中的操作，並重新開始回合。<i>（康會消失）</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361606668323,
+      "m_Localized": "<b>揭示：</b>將本回合對方打出的最後一張卡牌移動至此區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361606668324,
+      "m_Localized": "<b>揭示：</b>從對方手牌中隨機抽{card.SummonCount}張卡牌，並添加到對方的此區域。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361610862592,
+      "m_Localized": "<b>揭示：</b>將你的其他卡牌向左移動1個區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361610862593,
+      "m_Localized": "<b>持續：</b>將你的總戰鬥力平分給所有區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361610862594,
+      "m_Localized": "<b>揭示：</b>從你手牌中丟棄{card.DiscardCount}張手牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361610862595,
+      "m_Localized": "<b>持續：</b>你在此區域放置的卡牌直到對戰結束才會揭示。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361610862596,
+      "m_Localized": "<b>持續：</b>你此區域內卡牌的<b>揭示</b>效果觸發2次。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361610862597,
+      "m_Localized": "<b>揭示：</b>摧毀我方所有區域的卡牌（此張除外）。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361610862598,
+      "m_Localized": "<b>揭示：</b>將另1張哨兵機器人加入我方手牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361610862599,
+      "m_Localized": "<b>揭示：</b>將{card.TokenCount}張石塊洗進對方牌組。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361610862600,
+      "m_Localized": "<b>持續：</b>不能被摧毀、移動，或減少戰鬥力。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361610862601,
+      "m_Localized": "<b>揭示：</b>若你下回合在此區域放置卡牌，則此牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361610862602,
+      "m_Localized": "<b>揭示：</b>若對方本回合在此區域放置過卡牌，則此牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361610862603,
+      "m_Localized": "此卡牌被丟棄或摧毀後，會隨機在一個區域重生並+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361610862604,
+      "m_Localized": "<b>持續：</b>鎖定此區域。<i>（此區域卡牌不可被添加、移除等。）</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361610862605,
+      "m_Localized": "<b>持續：</b>此區域你其他卡牌的<b>持續</b>效果翻倍。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361610862606,
+      "m_Localized": "<b>持續：</b>若我方有其他區域未放置卡牌，則+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361610862607,
+      "m_Localized": "<b>揭示：</b>移除此區域內所有<b>持續</b>卡牌的特殊效果。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361610862608,
+      "m_Localized": "<b>揭示：</b>變成對方手牌中隨機1張卡牌的複製牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361610862609,
+      "m_Localized": "<b>持續：</b>此區域的卡牌不能被摧毀。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361610862610,
+      "m_Localized": "每回合結束後，每有1點未消耗的能量，就+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361610862611,
+      "m_Localized": "每回合結束後，若你在此區域領先，就抽1張卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361610862612,
+      "m_Localized": "阿嘉莎會在你的起始手牌中，並幫你出牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361610862613,
+      "m_Localized": "此卡牌被摧毀後會返回你的手牌，且戰鬥力翻倍。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361610862614,
+      "m_Localized": "第{card.TurnNumber}回合開始時，移除對方手牌的所有特殊效果。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361610862615,
+      "m_Localized": "若你上回合放置過卡牌，則無法放置此牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361610862616,
+      "m_Localized": "<b>揭示：</b>讓所有從你手牌中丟棄的卡牌在隨機區域重生。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361610862617,
+      "m_Localized": "僅可在領先區域放置此卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361610862618,
+      "m_Localized": "在本局對戰結束時，此卡牌會移動至能為你贏下對戰的區域。（若能贏的話）",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361610862619,
+      "m_Localized": "<b>持續：</b>此區域對方卡牌均+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361610862620,
+      "m_Localized": "<b>揭示：</b>將此區域替換成「{card.Location_Morphed.Name}」\n此技能於第{card.TurnNumber}回合後無效。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361610862621,
+      "m_Localized": "<b>揭示：</b>若你在此區域放置下張卡牌，則該卡牌戰鬥力翻倍。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361610862622,
+      "m_Localized": "<b>揭示：</b>此牌揭示時，若我方在此區域領先且僅有此牌，則摧毀其他區域及雙方在摧毀區域的所有卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361610862623,
+      "m_Localized": "對戰開始時，將6張無限原石洗進你的牌組。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361610862624,
+      "m_Localized": "<b>持續：</b>若你已經打出全部6張無限寶石，則{card.Card_Modified.Name}+{card.AddedPower}戰鬥力。<i>（無論該卡牌位在何處）</i>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361610862625,
+      "m_Localized": "<b>揭示：</b>將此區域轉變成新區域，抽1張卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361610862626,
+      "m_Localized": "<b>揭示：</b>從你的牌組中抽{card.DrawCount}張無限原石。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361610862627,
+      "m_Localized": "<b>揭示：</b>抽1張卡牌，下回合你獲得+{card.AddedEnergy}能量。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361610862628,
+      "m_Localized": "<b>持續：</b>此區域所有敵方卡牌均-{card.ReducedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361615056896,
+      "m_Localized": "<b>揭示：</b>下回合你能將1張卡牌移動至此區域。抽1張卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056897,
+      "m_Localized": "<i>小心點……他很喜歡砸東西。</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056898,
+      "m_Localized": "<i>呃，這沒什麼用……</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056900,
+      "m_Localized": "<i>「我侍奉手合會。」</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056901,
+      "m_Localized": "你可移動此卡牌1次。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056902,
+      "m_Localized": "<b>揭示：</b>雙方均丟棄1張手牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056903,
+      "m_Localized": "<b>揭示：</b>複製對方手牌中能量花費最高的卡牌，並放入你的手牌中。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056904,
+      "m_Localized": "<b>揭示：</b>將你戰鬥力最高的所有卡牌移動到此區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056905,
+      "m_Localized": "<b>揭示：</b>對方抽1張卡牌，將該牌的能量花費設定為{card.AssignedCost}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361615056906,
+      "m_Localized": "<b>揭示：</b>雙方玩家各抽1張卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056907,
+      "m_Localized": "<b>揭示：</b>將此區域我方其他卡牌退回手牌。這些牌的能量花費-{card.ReducedCost}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361615056908,
+      "m_Localized": "班伯伯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056909,
+      "m_Localized": "蘇爾特",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056910,
+      "m_Localized": "梅菲斯特",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056911,
+      "m_Localized": "J·約拿·詹姆森",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056912,
+      "m_Localized": "閃爍",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056913,
+      "m_Localized": "3D人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056914,
+      "m_Localized": "此卡牌被摧毀後，將1張{card.Card_Token.Name}加入我方手牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361615056915,
+      "m_Localized": "若你將霹靂火移動至此區域，則此卡牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361615056916,
+      "m_Localized": "若你贏得本場對戰，你獲得的獎勵將翻倍。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056917,
+      "m_Localized": "<b>持續：</b>你發送的表情會更有挑釁意味。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056918,
+      "m_Localized": "你每回合都可移動此卡牌。每移動1次，+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361615056919,
+      "m_Localized": "持續：所有卡牌都將獲得3D效果。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056920,
+      "m_Localized": "浪",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056921,
+      "m_Localized": "歐卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056922,
+      "m_Localized": "驚奇少女",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056923,
+      "m_Localized": "索爾",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056924,
+      "m_Localized": "雷神之鎚",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056925,
+      "m_Localized": "「神威索爾」珍·佛斯特",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056926,
+      "m_Localized": "瓦爾基麗",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056927,
+      "m_Localized": "女浩克",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056928,
+      "m_Localized": "夜魔俠",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056929,
+      "m_Localized": "泰坦妮亞",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056930,
+      "m_Localized": "尼克·福瑞",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056931,
+      "m_Localized": "瑪利亞·希爾",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056932,
+      "m_Localized": "考森探員",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056933,
+      "m_Localized": "天空母艦",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056934,
+      "m_Localized": "超級史克魯爾人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056935,
+      "m_Localized": "麥爾斯·摩拉斯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056936,
+      "m_Localized": "幽靈蜘蛛",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056937,
+      "m_Localized": "銀貂",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056938,
+      "m_Localized": "黑豹",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056939,
+      "m_Localized": "<b>揭示：</b>下回合結束前，所有卡牌的最大能量花費均為{card.AssignedCost}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361619251200,
+      "m_Localized": "<b>持續：</b>若我方在此區域僅有此張卡牌，則+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361619251201,
+      "m_Localized": "<b>持續：</b>相鄰區域的我方卡牌若原始能量花費均不相同，則我方該區域+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361619251202,
+      "m_Localized": "<b>揭示：</b>將雷神之鎚洗進你的牌組。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251203,
+      "m_Localized": "<b>揭示：</b>{card.Card_Modified.Name}+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361619251204,
+      "m_Localized": "<b>揭示：</b>抽取牌組中所有能量花費為{card.TargetCardCost}的卡牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361619251205,
+      "m_Localized": "<b>揭示：</b>將此區域所有卡牌的戰鬥力設定為{card.AssignedPower}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361619251206,
+      "m_Localized": "上回合結束時，每有1點未消耗的能量，則能量花費-{card.ReducedCost}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361619251207,
+      "m_Localized": "在第5回合，你可以在出牌之前，先看見對方的操作。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251208,
+      "m_Localized": "任1張卡牌被放置於此區域後，此卡牌即切換敵我位置。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251209,
+      "m_Localized": "<b>揭示：</b>隨機將{card.TokenCount}張{card.TokenEnergyCost}費牌加入手牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361619251210,
+      "m_Localized": "<b>揭示：</b>隨機將1張{card.TokenEnergyCost}費牌加入我方手牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361619251211,
+      "m_Localized": "<b>揭示：</b>隨機將1張{card.TokenEnergyCost_1}費牌和1張{card.TokenEnergyCost_2}費牌加入手牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361619251212,
+      "m_Localized": "當你從手牌丟棄此卡牌，將{card.TokenCount}張隨機卡牌加入手牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361619251213,
+      "m_Localized": "<b>持續：</b>獲得所有對方卡牌的<b>持續</b>效果。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251214,
+      "m_Localized": "若上回合有卡牌移動過，則此牌的能量花費為{card.AssignedCost}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361619251215,
+      "m_Localized": "<b>揭示：</b>將你放置的上張卡牌移動至此區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251216,
+      "m_Localized": "你只能在總戰鬥力為{card.LocationPower}或以上的區域放置此卡牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361619251217,
+      "m_Localized": "<b>揭示：</b>此卡牌戰鬥力翻倍。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251218,
+      "m_Localized": "戰爭機器",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251219,
+      "m_Localized": "凱蒂·普萊德",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251220,
+      "m_Localized": "勿忘我",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251221,
+      "m_Localized": "脫殼女",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251222,
+      "m_Localized": "大塊頭",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251223,
+      "m_Localized": "大群",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251224,
+      "m_Localized": "蟾蜍",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251225,
+      "m_Localized": "青少女彈頭",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251226,
+      "m_Localized": "黑影王",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251227,
+      "m_Localized": "炫音",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251228,
+      "m_Localized": "幻境",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251229,
+      "m_Localized": "松拿士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251230,
+      "m_Localized": "珊娜",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251231,
+      "m_Localized": "沙寶",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251232,
+      "m_Localized": "翼龍人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251233,
+      "m_Localized": "黑鷹",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251234,
+      "m_Localized": "哨兵",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251235,
+      "m_Localized": "虛無",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251236,
+      "m_Localized": "銀河衝浪手",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251237,
+      "m_Localized": "屠神者戈爾",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251238,
+      "m_Localized": "努爾",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251239,
+      "m_Localized": "涅布拉",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251240,
+      "m_Localized": "鳳凰之力",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361619251241,
+      "m_Localized": "琴·葛雷",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445504,
+      "m_Localized": "奪命女郎",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445505,
+      "m_Localized": "X-23",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445506,
+      "m_Localized": "薇薇·幻視",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445507,
+      "m_Localized": "雪守衛",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445508,
+      "m_Localized": "雪守衛（鷹）",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445509,
+      "m_Localized": "雪守衛（熊）",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445510,
+      "m_Localized": "黑騎士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445511,
+      "m_Localized": "艾爾莎·血石",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445512,
+      "m_Localized": "主體模組",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445513,
+      "m_Localized": "寧錄",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445514,
+      "m_Localized": "母體模組",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445515,
+      "m_Localized": "紛爭",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445516,
+      "m_Localized": "塔洛斯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445517,
+      "m_Localized": "維蘭柯女王",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445518,
+      "m_Localized": "洛基",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445519,
+      "m_Localized": "馬卡里",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445520,
+      "m_Localized": "伊格瑞斯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445521,
+      "m_Localized": "艾賈克",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445522,
+      "m_Localized": "瑟西",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445523,
+      "m_Localized": "霍華鴨",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445524,
+      "m_Localized": "殺手猿猴",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445525,
+      "m_Localized": "靶眼",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445526,
+      "m_Localized": "魔多客",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445527,
+      "m_Localized": "紅色守衛者",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445528,
+      "m_Localized": "扁人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445529,
+      "m_Localized": "溜溜球",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445530,
+      "m_Localized": "銀武士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445531,
+      "m_Localized": "王者之劍",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445532,
+      "m_Localized": "<b>持續：</b>我方所有{card.TargetCardCost}費牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361623445533,
+      "m_Localized": "你可以將此卡牌收回手牌中，並獲得+1戰鬥力。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445534,
+      "m_Localized": "此回合結束後，此卡牌消失，但戰鬥力仍保留在場上。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445536,
+      "m_Localized": "<b>揭示：</b>將我方牌組合併至此牌，並獲得牌組剩餘卡牌的總戰鬥力。\n<b>持續：</b>不能被移動。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445537,
+      "m_Localized": "<b>揭示：</b>將其他各區域均替換為此區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445538,
+      "m_Localized": "<b>揭示：</b>將你打出的上張卡牌移動至此區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445539,
+      "m_Localized": "當1張敵方卡牌被放置於此牌所在區域，就摧毀該卡牌。<i>（每局限1次）</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445540,
+      "m_Localized": "<b>揭示：</b>將此區域所有卡牌戰鬥力設定為原始基礎戰鬥力。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445541,
+      "m_Localized": "<b>持續：</b>我方每填滿一個區域，此卡牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361623445542,
+      "m_Localized": "<b>揭示：</b>複製對方手牌中能量花費最低的卡牌，並放入你的手牌。使該牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361623445543,
+      "m_Localized": "揭示：對方下回合獲得+2能量。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445544,
+      "m_Localized": "<b>揭示：</b>隨機向我方每個區域添加1張{card.TokenEnergyCost}費牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361623445545,
+      "m_Localized": "<b>持續：</b>我方{card.TargetCardCost}費牌的能量花費-{card.ReducedCost}。<i>（最低須為1）</i>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361623445546,
+      "m_Localized": "<b>揭示：</b>移除你手牌和牌組中所有<b>持續</b>卡牌的效果。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361623445547,
+      "m_Localized": "<b>持續：</b>對方牌組中每有1張卡牌，則此卡牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361627639808,
+      "m_Localized": "此卡牌不可放置在右側區域。\n<b>揭示：</b>將1張戰鬥力為{card.Card_Token.Power}的虛無添加到右側區域。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361627639810,
+      "m_Localized": "<b>揭示：</b>我方其他{card.TargetCardCost}費牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361627639811,
+      "m_Localized": "揭示：摧毀所有6費牌，不論這些卡牌在何處。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361627639813,
+      "m_Localized": "每回合只要對方在此區域未放置卡牌，此牌就+{card.AddedPower}戰鬥力<i>（放置此牌的回合除外）</i>。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361627639814,
+      "m_Localized": "<b>揭示：</b>復活1張被摧毀的我方卡牌，並將此卡牌與該牌合併。合併的牌每回合均可移動。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361627639815,
+      "m_Localized": "<b>持續：</b>若有可能，雙方玩家每回合均須將第1張卡牌放置在此區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361627639816,
+      "m_Localized": "<b>揭示：</b>摧毀此區域每1張戰鬥力小於此牌的卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361627639817,
+      "m_Localized": "此卡牌被丟棄或摧毀後，將隨機在任一區域重生，並在下回合提供你+{card.AddedEnergy}能量。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361627639818,
+      "m_Localized": "你每移動1張卡牌，此牌也移動至目標區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361627639819,
+      "m_Localized": "<b>揭示：</b>將1張雪守衛（鷹）和1張雪守衛（熊）加入我方手牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361627639820,
+      "m_Localized": "<b>揭示：</b>無視所有區域的特殊效果，直到下回合或對戰<i>結束</i>為止。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361627639821,
+      "m_Localized": "<b>揭示：</b>觸發此區域的效果。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361627639822,
+      "m_Localized": "當你丟棄1張牌，就將1張戰鬥力等同該牌的{card.Card_Token.Name}加入我方手牌。<i>（每局限1次）</i>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361627639823,
+      "m_Localized": "若你放置的任一卡牌可填滿一個區域，使該牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361627639824,
+      "m_Localized": "<b>揭示：</b>將{card.TokenCount}張{card.Card_Token.Name}加入對方手牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361627639827,
+      "m_Localized": "若任意回合結束時，對方在此區域有{card.LocationPower}點或以上戰鬥力，摧毀此卡牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361627639828,
+      "m_Localized": "若此卡牌在你的手牌中，則會每回合隨機變身為區域中的1張卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361627639829,
+      "m_Localized": "若此卡牌在你的手牌中，則會每回合隨機變身為1張卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361627639830,
+      "m_Localized": "<b>揭示：</b>將你的手牌替換成相同張數的敵方起始牌組卡牌且能量花費-{card.ReducedCost}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361627639831,
+      "m_Localized": "當你抽到此卡牌，將其放置在隨機區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361627639832,
+      "m_Localized": "當你抽到此卡牌，本回合你不能打出任何卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361627639833,
+      "m_Localized": "當你抽到此卡牌，丟棄並獲得+1能量。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361627639835,
+      "m_Localized": "<b>持續：</b>輕按此卡牌，即可查看我方牌組最頂端的卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361627639836,
+      "m_Localized": "<b>揭示：</b>本回合你每放置1張其他卡牌，就+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361627639837,
+      "m_Localized": "<b>揭示：</b>你抽的下張卡牌會是1張{card.TokenEnergyCost}費牌。<i>（若牌組裡還有的話）</i>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361627639838,
+      "m_Localized": "<b>揭示：</b>丟棄你的手牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361627639839,
+      "m_Localized": "<b>揭示：</b>下回合你必須在此區域放置1張卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361627639840,
+      "m_Localized": "<b>持續：</b>相鄰區域+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361627639841,
+      "m_Localized": "當此卡牌移動後，將其移回原位，並+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 361627639842,
+      "m_Localized": "<b>揭示：</b>雙方玩家皆丟棄手牌中戰鬥力最低的隨機1張卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361627639843,
+      "m_Localized": "揭示：將你上回合丟棄、摧毀的所有卡牌加入我方手牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1345850314842112,
+      "m_Localized": "毀滅機器人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1345850314842113,
+      "m_Localized": "<i>「末日博士至高無上！」</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1345850319036422,
+      "m_Localized": "蜘蛛人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1345850319036423,
+      "m_Localized": "<b>揭示：</b>移動至另一區域，並把隨機1張敵方卡牌從此區域移動至該區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361615056899,
+      "m_Localized": "<i>嘶吼</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361627639809,
+      "m_Localized": "<i>又見面了……</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 955194027270144,
+      "m_Localized": "普通",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 955289787424768,
+      "m_Localized": "不凡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 955340689498112,
+      "m_Localized": "稀有",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 955607770193920,
+      "m_Localized": "史詩",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 955660349988864,
+      "m_Localized": "傳說",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 955722731872256,
+      "m_Localized": "終極",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 955785516408832,
+      "m_Localized": "無限",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1345850302259200,
+      "m_Localized": "<b>持續：</b>我方在此區域的其他卡牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 1345850314842114,
+      "m_Localized": "艾麗卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1345850314842115,
+      "m_Localized": "<i>「你的目光觸及我，我的刀刃鎖定你。」</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1345850314842116,
+      "m_Localized": "妖精皇后",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1345850314842117,
+      "m_Localized": "<b>揭示：</b>其他卡牌本回合無法揭示。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1345850314842118,
+      "m_Localized": "關死侍",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1345850314842119,
+      "m_Localized": "<b>揭示：</b>此卡牌戰鬥力翻倍。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1345850314842120,
+      "m_Localized": "伊特里王",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1345850314842121,
+      "m_Localized": "<b>揭示：</b>你打出的下張卡牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 1345850314842122,
+      "m_Localized": "凱蒂·普萊德",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1345850314842123,
+      "m_Localized": "當此卡牌回到手牌時，獲得+{card.AddedPower}戰鬥力。在每回合開始時收回。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 1345850314842124,
+      "m_Localized": "午夜護士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1345850314842125,
+      "m_Localized": "<b>揭示：</b>將你上回合丟棄、摧毀的所有卡牌加入我方手牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1345850319036416,
+      "m_Localized": "小淘氣",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1345850319036417,
+      "m_Localized": "<i>「給你最後一次機會投降，寶貝兒。」</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1345850319036418,
+      "m_Localized": "哨兵機器人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1345850319036419,
+      "m_Localized": "<b>揭示：</b>將另1張哨兵機器人加入我方手牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1345850319036420,
+      "m_Localized": "雪守衛",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1345850319036421,
+      "m_Localized": "<b>持續：</b>你每在此區域有1張其他卡牌，就-{card.ReducedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 1345850319036424,
+      "m_Localized": "蜘蛛人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1345850319036425,
+      "m_Localized": "<i>「友好鄰居蜘蛛人報到！」</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1345850319036426,
+      "m_Localized": "測試卡牌",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1345850319036427,
+      "m_Localized": "錯誤",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1345850319036428,
+      "m_Localized": "巫火",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1345850319036429,
+      "m_Localized": "<b>揭示：</b>對方抽1張卡牌，該卡牌的能量花費+{card.AddedCost}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 7540066896306176,
+      "m_Localized": "巴斯特",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7540066913083392,
+      "m_Localized": "<b>揭示：</b>將你所有手牌的戰鬥力設定為{card.AssignedPower}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 7540066913083393,
+      "m_Localized": "海煞",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7540066913083394,
+      "m_Localized": "每回合結束後，若你在此區域有其他卡牌，則摧毀此卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7540066917277696,
+      "m_Localized": "無",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7540066929860608,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7540066929860609,
+      "m_Localized": "閃箔裝飾",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7540066929860610,
+      "m_Localized": "彩箔裝飾",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7540066929860611,
+      "m_Localized": "金箔裝飾",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7540066929860612,
+      "m_Localized": "墨色裝飾",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7540066934054912,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7540066934054913,
+      "m_Localized": "閃亮Logo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20291651422380032,
+      "m_Localized": "SNAP",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20291651434962944,
+      "m_Localized": "SNAP",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20291651434962945,
+      "m_Localized": "SNAP",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20291651434962946,
+      "m_Localized": "SNAP",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20291651434962947,
+      "m_Localized": "SNAP",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20291651434962948,
+      "m_Localized": "SNAP",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20291651434962949,
+      "m_Localized": "SNAP魔方",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20291651434962950,
+      "m_Localized": "漫威",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20291651434962951,
+      "m_Localized": "FUD",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20291651434962952,
+      "m_Localized": "亞特蘭提斯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20291651434962953,
+      "m_Localized": "納摩的三叉戟",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20291651434962954,
+      "m_Localized": "阿斯嘉",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20291651434962955,
+      "m_Localized": "雷神之鎚",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20291651434962956,
+      "m_Localized": "夜魔俠",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20291651434962957,
+      "m_Localized": "制裁者",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20291651434962958,
+      "m_Localized": "神盾局",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20291651434962959,
+      "m_Localized": "九頭蛇",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20291651434962960,
+      "m_Localized": "蜘蛛人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20291651434962961,
+      "m_Localized": "猛毒",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20291651434962962,
+      "m_Localized": "皇家侍衛隊",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20291651434962963,
+      "m_Localized": "黑豹",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361627639812,
+      "m_Localized": "<b>持續：</b>獲得本局對戰中所有被摧毀卡牌的戰鬥力總和。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409196072960,
+      "m_Localized": "汎金屬",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409204461568,
+      "m_Localized": "<b>持續：</b>不可被摧毀。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238785,
+      "m_Localized": "像素",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238786,
+      "m_Localized": "冬日假期",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238787,
+      "m_Localized": "未來缺陷",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238788,
+      "m_Localized": "恐懼本質",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238789,
+      "m_Localized": "運動休閒",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238790,
+      "m_Localized": "可愛萌物",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238791,
+      "m_Localized": "純粹暗黑",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238792,
+      "m_Localized": "永恆經典",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238793,
+      "m_Localized": "中土之戰",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238794,
+      "m_Localized": "幼兒",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238795,
+      "m_Localized": "猛毒化",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238796,
+      "m_Localized": "夏日假期",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238797,
+      "m_Localized": "終極",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238798,
+      "m_Localized": "瓦干達萬歲",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238799,
+      "m_Localized": "3099",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238800,
+      "m_Localized": "嶄新面貌",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238801,
+      "m_Localized": "沉靜霧灰",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238802,
+      "m_Localized": "時間錯位",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238803,
+      "m_Localized": "掠奪者",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238804,
+      "m_Localized": "鋼鐵貓",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238805,
+      "m_Localized": "祖先",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238806,
+      "m_Localized": "復仇者",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238807,
+      "m_Localized": "類孩體",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238808,
+      "m_Localized": "饑荒",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238809,
+      "m_Localized": "中立區",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238810,
+      "m_Localized": "終極",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238811,
+      "m_Localized": "布魯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238812,
+      "m_Localized": "1602",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238813,
+      "m_Localized": "側車",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238814,
+      "m_Localized": "年輕",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238815,
+      "m_Localized": "鳳凰之力",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238816,
+      "m_Localized": "瓦干達盾牌",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238817,
+      "m_Localized": "驚奇少女",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238818,
+      "m_Localized": "感知",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238819,
+      "m_Localized": "藍圖",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238820,
+      "m_Localized": "半身像",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238821,
+      "m_Localized": "九頭蛇",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433088,
+      "m_Localized": "金黃衣",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433089,
+      "m_Localized": "努爾化",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433090,
+      "m_Localized": "初始型態",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433091,
+      "m_Localized": "索爾之魂",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433092,
+      "m_Localized": "蒸汽龐克",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433093,
+      "m_Localized": "蠻荒之地",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433094,
+      "m_Localized": "至尊究極",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433095,
+      "m_Localized": "摔角手",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433096,
+      "m_Localized": "邪惡六人組",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433097,
+      "m_Localized": "美國隊長",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433098,
+      "m_Localized": "X特攻隊",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433099,
+      "m_Localized": "機械",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433100,
+      "m_Localized": "生命使者",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433101,
+      "m_Localized": "安魂曲",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433102,
+      "m_Localized": "羅比·雷耶斯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433103,
+      "m_Localized": "幻想",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433104,
+      "m_Localized": "女猛毒關",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433105,
+      "m_Localized": "史前百萬年",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433106,
+      "m_Localized": "驚奇隊長套裝",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433107,
+      "m_Localized": "紅惡魔",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433108,
+      "m_Localized": "老人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433109,
+      "m_Localized": "末日之後",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433110,
+      "m_Localized": "飛翔之翼",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433111,
+      "m_Localized": "武器H",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433112,
+      "m_Localized": "瓦干達破壞者",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433113,
+      "m_Localized": "汎金屬鎧甲",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433114,
+      "m_Localized": "樂團",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433115,
+      "m_Localized": "婚禮",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433116,
+      "m_Localized": "嘉年華",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433117,
+      "m_Localized": "惡靈獵人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433118,
+      "m_Localized": "X武器特攻隊",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433119,
+      "m_Localized": "未來基金會",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433120,
+      "m_Localized": "鳳凰五人組",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433121,
+      "m_Localized": "異帝國",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433122,
+      "m_Localized": "小子",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433123,
+      "m_Localized": "隊長",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433124,
+      "m_Localized": "流亡者",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409225433125,
+      "m_Localized": "惡魔型態",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409229627392,
+      "m_Localized": "X因子",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409229627393,
+      "m_Localized": "斯雷普尼爾",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409229627394,
+      "m_Localized": "鋼鐵眾神之父",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409229627395,
+      "m_Localized": "日本幕府",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409229627396,
+      "m_Localized": "瘟疫",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409229627397,
+      "m_Localized": "X皇室",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409229627398,
+      "m_Localized": "惡靈戰警",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409229627399,
+      "m_Localized": "地獄邊境",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409229627400,
+      "m_Localized": "變體卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409229627401,
+      "m_Localized": "野性戰團",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409229627402,
+      "m_Localized": "M氏家族",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409229627403,
+      "m_Localized": "小汽車",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409229627404,
+      "m_Localized": "黑豹",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409229627405,
+      "m_Localized": "共生體",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409229627406,
+      "m_Localized": "卡耐基化",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409229627407,
+      "m_Localized": "地獄之王",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409229627408,
+      "m_Localized": "恐蜂群",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409229627409,
+      "m_Localized": "零號變種人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409229627410,
+      "m_Localized": "祕密戰爭",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409229627411,
+      "m_Localized": "朱利歐",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409229627412,
+      "m_Localized": "變身",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 28607777074987008,
+      "m_Localized": "邪惡倫敦",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 28607777125318656,
+      "m_Localized": "鳳凰",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29252359613726720,
+      "m_Localized": "共生體",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29252359643086848,
+      "m_Localized": "<i>美味！！！</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36949330005843968,
+      "m_Localized": "銀河系",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36949330005843969,
+      "m_Localized": "衝浪板",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 45984532556406784,
+      "m_Localized": "蠻荒之地",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 45984532556406785,
+      "m_Localized": "利爪",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 45984532560601088,
+      "m_Localized": "2099",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 45984532560601090,
+      "m_Localized": "Penny Arcade",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 45984532564795392,
+      "m_Localized": "塔可餅",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 45984532573184001,
+      "m_Localized": "動漫",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47009733120245760,
+      "m_Localized": "易身女",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47009733149605888,
+      "m_Localized": "若對方在本局對戰從手牌丟棄過卡牌，則此牌的能量花費為{card.AssignedCost}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 47009733149605889,
+      "m_Localized": "惡靈",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47009733149605890,
+      "m_Localized": "<b>持續：</b>你的卡牌永遠會後手揭示。<i>（卡牌的<b>揭示</b>效果會後觸發。）</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47009733170577408,
+      "m_Localized": "Flaviano",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47009733170577409,
+      "m_Localized": "Dan Hipp",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47009733170577410,
+      "m_Localized": "Artgerm",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47009733170577411,
+      "m_Localized": "Rian Gonzales",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47009733170577412,
+      "m_Localized": "教授",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47009733170577413,
+      "m_Localized": "Luca Claretti",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47009733170577414,
+      "m_Localized": "Jim Lee",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47009733170577415,
+      "m_Localized": "Kim Jacinto",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47009733170577416,
+      "m_Localized": "內戰",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47009733170577417,
+      "m_Localized": "西洋棋",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47009733170577418,
+      "m_Localized": "噓！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47009733170577419,
+      "m_Localized": "Jeff Dekal",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47009733170577420,
+      "m_Localized": "Max Grecke",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47009733170577421,
+      "m_Localized": "Giulio Rincione",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47009733170577422,
+      "m_Localized": "Kael",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47009733170577423,
+      "m_Localized": "Alex Ross",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47009733174771712,
+      "m_Localized": "桃桃子",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47009733174771713,
+      "m_Localized": "Alex Horley",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47009733174771714,
+      "m_Localized": "Ivan Shavrin",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47009733174771715,
+      "m_Localized": "機甲",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47009733174771716,
+      "m_Localized": "Ryan Brown",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47009733174771717,
+      "m_Localized": "簽名",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47009733178966016,
+      "m_Localized": "武器X",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48791548794494976,
+      "m_Localized": "系列1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48791548798689280,
+      "m_Localized": "系列2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48791548798689281,
+      "m_Localized": "系列3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48791548798689282,
+      "m_Localized": "系列4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48791548798689283,
+      "m_Localized": "系列5",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48847870273511424,
+      "m_Localized": "系列X",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 51395603585146880,
+      "m_Localized": "90年代",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 51395603610312704,
+      "m_Localized": "生化人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 51395603610312705,
+      "m_Localized": "新X戰警",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26021409221238784,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54257603989987334,
+      "m_Localized": "終極",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56870959682936832,
+      "m_Localized": "英雄",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56870959691325440,
+      "m_Localized": "最危險的女殺手",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 361627639825,
+      "m_Localized": "此卡牌被摧毀後，將1張複製牌添加到其他各個區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56429255767089152,
+      "m_Localized": "蟻人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56429255771283456,
+      "m_Localized": "征服者康",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56513081356836864,
+      "m_Localized": "傑夫寶寶陸行鯊",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56513081365225472,
+      "m_Localized": "你可以移動此卡牌1次，不受任何限制地將此牌移動或放置到任何區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59404775584686080,
+      "m_Localized": "刺客",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59404775601463296,
+      "m_Localized": "廬山真面目",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688448,
+      "m_Localized": "七彩微光閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688449,
+      "m_Localized": "七彩光暈閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688450,
+      "m_Localized": "七彩爆裂閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688451,
+      "m_Localized": "七彩星塵閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688452,
+      "m_Localized": "白色微光閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688453,
+      "m_Localized": "黑色微光閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688454,
+      "m_Localized": "紅色微光閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688455,
+      "m_Localized": "綠色微光閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688456,
+      "m_Localized": "藍色微光閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688457,
+      "m_Localized": "金色微光閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688458,
+      "m_Localized": "紫色微光閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688459,
+      "m_Localized": "白色光暈閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688460,
+      "m_Localized": "黑色光暈閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688461,
+      "m_Localized": "紅色光暈閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688462,
+      "m_Localized": "綠色光暈閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688463,
+      "m_Localized": "藍色光暈閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688464,
+      "m_Localized": "金色光暈閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688465,
+      "m_Localized": "紫色光暈閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688466,
+      "m_Localized": "白色爆裂閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688467,
+      "m_Localized": "黑色爆裂閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688468,
+      "m_Localized": "紅色爆裂閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688469,
+      "m_Localized": "綠色爆裂閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688470,
+      "m_Localized": "藍色爆裂閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688471,
+      "m_Localized": "金色爆裂閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688472,
+      "m_Localized": "紫色爆裂閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688473,
+      "m_Localized": "白色星塵閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688474,
+      "m_Localized": "黑色星塵閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688475,
+      "m_Localized": "紅色星塵閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688476,
+      "m_Localized": "綠色星塵閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688477,
+      "m_Localized": "藍色星塵閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688478,
+      "m_Localized": "金色星塵閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60890735459688479,
+      "m_Localized": "紫色星塵閃卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61229363809476608,
+      "m_Localized": "農曆新年",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63737111197884416,
+      "m_Localized": "Fiona Hsieh",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63737111223050240,
+      "m_Localized": "休閒",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63737111223050241,
+      "m_Localized": "園藝",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63737111223050242,
+      "m_Localized": "拉瑪-圖",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63737111231438848,
+      "m_Localized": "看門狗",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 68423559788470272,
+      "m_Localized": "哨兵機器人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 68423559809441792,
+      "m_Localized": "X戰警",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 68423559809441793,
+      "m_Localized": "無限X戰警",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 68423559809441794,
+      "m_Localized": "無限利爪",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 68423559809441795,
+      "m_Localized": "無限征服者康",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 68423559813636096,
+      "m_Localized": "地球1610",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 68423559817830400,
+      "m_Localized": "虛無哨兵",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 69584413363527680,
+      "m_Localized": "遊戲大獎",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 71021793147502592,
+      "m_Localized": "水彩",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 71021793172668416,
+      "m_Localized": "Skottie Young",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 71021793172668417,
+      "m_Localized": "R1c0",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 71021793176862720,
+      "m_Localized": "幻視回歸",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77526498330796032,
+      "m_Localized": "超級蟻",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77526498343378944,
+      "m_Localized": "黑鯰魚",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77526498343378945,
+      "m_Localized": "美貓隊長",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77526498347573248,
+      "m_Localized": "死亡咕咕",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77526498347573249,
+      "m_Localized": "Combo Break",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77526498347573250,
+      "m_Localized": "影蜘蛛",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77526498351767552,
+      "m_Localized": "驚奇麋鹿",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77526498351767553,
+      "m_Localized": "毛毛尼克",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77526498351767554,
+      "m_Localized": "西裝革履",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78847671501430784,
+      "m_Localized": "狗派人士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78847671526596608,
+      "m_Localized": "貓派人士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78847671526596609,
+      "m_Localized": "無限貓派人士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 79600292730347520,
+      "m_Localized": "劍龍人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 79600292751319040,
+      "m_Localized": "<b>揭示：</b>把對方1張卡牌從此區域移動至另一區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 87230769526620160,
+      "m_Localized": "至高進化",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 87230769560174592,
+      "m_Localized": "對戰開始時，解鎖我方所有無特殊效果卡牌的潛在效果。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 87230769560174593,
+      "m_Localized": "黃蜂女",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 87230769560174594,
+      "m_Localized": "<b>揭示：</b>此區域隨機2張對方卡牌-{card.ReducedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 87230769564368896,
+      "m_Localized": "迷霧騎士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 87230769564368897,
+      "m_Localized": "每回合結束時，我方若有未消耗的能量，我方另1張卡牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 87230769564368898,
+      "m_Localized": "震動人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 87230769564368899,
+      "m_Localized": "<b>揭示：</b>使我方手牌中最左邊的卡牌能量花費-{card.ReducedCost}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 87230769564368900,
+      "m_Localized": "獨眼龍",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 87230769564368901,
+      "m_Localized": "每回合結束時，我方若有未消耗的能量，此區域隨機1張對方卡牌-{card.ReducedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 87230769564368902,
+      "m_Localized": "石頭人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 87230769564368903,
+      "m_Localized": "<b>揭示：</b>此區域隨機1張對方卡牌-{card.ReducedPower}戰鬥力，此效果重複觸發2次。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 87230769564368904,
+      "m_Localized": "惡型怪",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 87230769564368905,
+      "m_Localized": "你每使1張對方卡牌-{card.ReducedPower}戰鬥力，則能量花費-{card.ReducedCost}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 87230769564368906,
+      "m_Localized": "浩克",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 87230769564368907,
+      "m_Localized": "<b>持續</b>：每回合結束時，我方若有未消耗的能量，則+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 87302076252921856,
+      "m_Localized": "混音帶",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 87302076273893376,
+      "m_Localized": "無限混音帶",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 87302076273893377,
+      "m_Localized": "太空時代的愛情",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 76911991584604160,
+      "m_Localized": "鋼鐵小子",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 76911991613964288,
+      "m_Localized": "<b>揭示：</b>複製我方牌組最頂端1張卡牌的文字。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 87692997207932928,
+      "m_Localized": "黃蜂女",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 87692997237293056,
+      "m_Localized": "<color=#fad728><b>揭示：</b>此區域隨機1張敵方卡牌-{card.ReducedPower}戰鬥力。</color>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 87692997241487360,
+      "m_Localized": "迷霧騎士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 87692997241487361,
+      "m_Localized": "<color=#fad728>每回合結束時，我方若有未消耗的能量，我方另1張卡牌+{card.AddedPower}戰鬥力。</color>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 87692997241487362,
+      "m_Localized": "震動人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 87692997241487363,
+      "m_Localized": "<color=#fad728><b>揭示：</b>使我方手牌中最左邊的卡牌能量花費-{card.ReducedCost}。</color>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 87692997241487364,
+      "m_Localized": "獨眼龍",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 87692997241487365,
+      "m_Localized": "<color=#fad728>每回合結束時，我方若有未消耗的能量，此區域隨機{card.ModifiedCardCount}張敵方卡牌-{card.ReducedPower}戰鬥力。</color>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 87692997241487366,
+      "m_Localized": "石頭人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 87692997241487367,
+      "m_Localized": "<color=#fad728><b>揭示：</b>此區域隨機{card.ModifiedCardCount}張敵方卡牌-{card.ReducedPower}戰鬥力。</color>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 87692997241487368,
+      "m_Localized": "惡型怪",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 87692997241487369,
+      "m_Localized": "<color=#fad728>每有1張敵方卡牌（須已揭示並在場上）受戰鬥力減少效果影響，則能量花費-{card.ReducedCost}。</color>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 87692997241487370,
+      "m_Localized": "浩克",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 87692997241487371,
+      "m_Localized": "<color=#fad728>每回合結束時，我方若有未消耗的能量，則此牌+2戰鬥力（此牌須在手牌中或已揭示並在場上）。<i></i></color>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89089096537186304,
+      "m_Localized": "救贖騎士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89089096570740736,
+      "m_Localized": "異攻隊",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89089096570740737,
+      "m_Localized": "外星綁架",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89089096570740738,
+      "m_Localized": "蜘蛛",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89089096570740739,
+      "m_Localized": "Volmi",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89089096570740740,
+      "m_Localized": "音響",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89089096570740741,
+      "m_Localized": "Bartel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89089096570740742,
+      "m_Localized": "Granov",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89089096574935040,
+      "m_Localized": "殲滅戰：征服",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89089096574935041,
+      "m_Localized": "鋼鐵雷神",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89089096574935042,
+      "m_Localized": "雙打賽",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96259995531059200,
+      "m_Localized": "Faye",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96259995556225024,
+      "m_Localized": "蜘蛛裝",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96259995556225025,
+      "m_Localized": "征服者",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96259995556225026,
+      "m_Localized": "美國獨立日",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96259995556225027,
+      "m_Localized": "浪人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96259995560419328,
+      "m_Localized": "Stormbreakers",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96259995560419329,
+      "m_Localized": "好狗狗",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96259995560419330,
+      "m_Localized": "Marco",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96259995560419331,
+      "m_Localized": "灑沙寶貝",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96259995560419332,
+      "m_Localized": "冠軍小隊",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96259995560419333,
+      "m_Localized": "青蛙索爾",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96259995560419334,
+      "m_Localized": "大餐時間",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96259995560419335,
+      "m_Localized": "Finch",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97496662639894528,
+      "m_Localized": "麥爾斯·摩拉斯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97496662644088832,
+      "m_Localized": "幽靈蜘蛛",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97496662644088833,
+      "m_Localized": "蜘蛛人 2099",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97496662644088834,
+      "m_Localized": "無限蜘蛛人 2099",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99301979622096896,
+      "m_Localized": "豬豬人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99301979680817152,
+      "m_Localized": "<b>揭示：</b>把對方手牌最左邊的卡牌變成{card.Card_Token.Name}，其戰鬥力與能量花費維持不變。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 99301979685011456,
+      "m_Localized": "豬仔",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99301979685011457,
+      "m_Localized": "<i>「嚄嚄！」</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99267487633129472,
+      "m_Localized": "蜘蛛人 2099",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99267487666683904,
+      "m_Localized": "在整場對戰中，此卡牌首次移動至任一區域後，摧毀對方在該區域已揭示的1張隨機卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100256379485659136,
+      "m_Localized": "安娜·柯特斯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100256379519213568,
+      "m_Localized": "彼得·豬客",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100256379523407872,
+      "m_Localized": "Wolf",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 101420662684377088,
+      "m_Localized": "蜘蛛宇宙",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 102843911385374720,
+      "m_Localized": "入門",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 102843911389569024,
+      "m_Localized": "新兵",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 102843911389569025,
+      "m_Localized": "系列0",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107135502388666368,
+      "m_Localized": "Coax",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107135502418026496,
+      "m_Localized": "Inkpulp",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107135502418026497,
+      "m_Localized": "Capullo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107135502418026498,
+      "m_Localized": "Eduardo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107135502422220800,
+      "m_Localized": "Maria Wolf",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107135502422220801,
+      "m_Localized": "PANDART STUDIO",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107135502422220802,
+      "m_Localized": "野餐",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107135502422220803,
+      "m_Localized": "萬神殿",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107135502422220804,
+      "m_Localized": "妖魔化",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107135502422220805,
+      "m_Localized": "ADIA",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107135502422220806,
+      "m_Localized": "寧靜議會",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107135502422220807,
+      "m_Localized": "紐約披薩王",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107135502422220808,
+      "m_Localized": "Nikola",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107933362113847296,
+      "m_Localized": "鳳凰之力",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107933362143207424,
+      "m_Localized": "迴聲",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107933362143207425,
+      "m_Localized": "無限迴聲",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54257603977404416,
+      "m_Localized": "普通",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54257603989987329,
+      "m_Localized": "超稀有",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54257603989987330,
+      "m_Localized": "收藏者祕寶限定",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94674799881502720,
+      "m_Localized": "迴聲",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94674799915057152,
+      "m_Localized": "對方每在此區域放置1張<b>持續</b>卡牌，就移除該卡牌的特殊效果。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109444628895121408,
+      "m_Localized": "賽季通行證",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54257603989987328,
+      "m_Localized": "稀有",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54257603989987331,
+      "m_Localized": "賽季通行證",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 117250267358273536,
+      "m_Localized": "QI Mang",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 117250267375050752,
+      "m_Localized": "PANDART",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 117250267379245056,
+      "m_Localized": "世界毀滅者",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 117250267379245057,
+      "m_Localized": "越冰越有勁",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 117250267383439360,
+      "m_Localized": "動物",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 117250267383439361,
+      "m_Localized": "Justyna",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 117250267383439362,
+      "m_Localized": "騎士先生",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 117250267383439363,
+      "m_Localized": "我超帥der",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 117250267383439364,
+      "m_Localized": "特攝怪物",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 117250267383439365,
+      "m_Localized": "金鋼狼",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 119158795268931584,
+      "m_Localized": "拉芙娜·洛斯蕾爾",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 119158795302486016,
+      "m_Localized": "<b>持續：</b>我方戰鬥力小於或等於{card.AssignedPower}的所有卡牌能量花費-{card.ReducedCost}<i>（最低須為1）</i>。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 119158795302486017,
+      "m_Localized": "莫比烏斯·M·莫比烏斯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 119158795302486018,
+      "m_Localized": "<b>揭示：</b>下回合結束前，我方能量花費無法被提高，對方能量花費無法被降低。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 119158795302486019,
+      "m_Localized": "玉衡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 119158795302486020,
+      "m_Localized": "<b>揭示：</b>摧毀本回合放置在此區域的所有敵方卡牌。<i>（包含未揭示卡牌）</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120508710538027008,
+      "m_Localized": "戴肯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120508710571581440,
+      "m_Localized": "<b>揭示：</b>將1張{card.Card_Token.Name}加入手牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 122737058060177408,
+      "m_Localized": "此卡牌被丟棄或摧毀後，{card.Card_Modified.Name}的戰鬥力翻倍。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 120508710613524480,
+      "m_Localized": "X-23",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120508710613524481,
+      "m_Localized": "特攝怪獸劍龍人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120508710613524482,
+      "m_Localized": "機甲死亡女神",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120508710613524483,
+      "m_Localized": "戴肯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120508710613524484,
+      "m_Localized": "無限戴肯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 121654085432631296,
+      "m_Localized": "利牙",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 121654085436825600,
+      "m_Localized": "末日騎士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122737057921765376,
+      "m_Localized": "村正刀碎片",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 125234038434684928,
+      "m_Localized": "DJ康",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 125234038447267840,
+      "m_Localized": "Tim Tsang",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130051719180574720,
+      "m_Localized": "洛基",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130051719193157632,
+      "m_Localized": "無限洛基",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130051719193157633,
+      "m_Localized": "時間變異管理局",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130368356689633280,
+      "m_Localized": "末日騎士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130368356698021888,
+      "m_Localized": "Kael Ngu",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130368356698021889,
+      "m_Localized": "Cassara",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130368356702216192,
+      "m_Localized": "Jen Bartel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130368356702216193,
+      "m_Localized": "中秋節",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130750771697172480,
+      "m_Localized": "類人體",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130750771734921216,
+      "m_Localized": "<b>持續：</b>此區域的所有{card.TargetCardCost_1}、{card.TargetCardCost_2}、{card.TargetCardCost_3}費牌均-{card.ReducedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 130750771734921217,
+      "m_Localized": "烏木劍",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130750771734921218,
+      "m_Localized": "<i>「烏木如焰，熾火不滅。」</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130750771739115520,
+      "m_Localized": "妮可·米諾魯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130750771739115521,
+      "m_Localized": "<b>揭示：</b>你放置下張卡牌後，施展法術。<i>（放置前，法術效果每回合改變。）</i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130750771739115522,
+      "m_Localized": "暗夜狼人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130750771739115523,
+      "m_Localized": "你每在另一區域放置1張<b>揭示</b>卡牌，此牌就移動至該區域並+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 130750774431858688,
+      "m_Localized": "末日騎士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130750774436052992,
+      "m_Localized": "Kael Ngu",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130750774436052993,
+      "m_Localized": "Cassara",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130750774440247296,
+      "m_Localized": "Jen Bartel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130750774440247297,
+      "m_Localized": "中秋節",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 145606986043482112,
+      "m_Localized": "刀鋒戰士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 145606986072842240,
+      "m_Localized": "無限刀鋒戰士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 145606986072842241,
+      "m_Localized": "惡靈戰警",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 145606986072842242,
+      "m_Localized": "驚奇少女",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 145606986072842243,
+      "m_Localized": "驚奇隊長",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 145606986072842244,
+      "m_Localized": "光譜",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 145606986072842245,
+      "m_Localized": "無限光譜",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147327174895984640,
+      "m_Localized": "角鬥士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147327174921150464,
+      "m_Localized": "<b>揭示：</b>將敵方牌組的1張卡牌添加至此敵方區域。若該牌戰鬥力小於此牌，則摧毀該牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147327174921150465,
+      "m_Localized": "殲滅者",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147327174921150466,
+      "m_Localized": "<b>揭示：</b>將我方場上戰鬥力小於或等於{card.AssignedPower}的卡牌均移交給對方，若無法移交，則將其摧毀。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 147327174921150467,
+      "m_Localized": "殉道者",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147327174921150468,
+      "m_Localized": "在本局對戰結束時，此卡牌移動至會讓你輸掉對戰的區域。（若能輸的話）",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147330778516152320,
+      "m_Localized": "Eduardo Francisco",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147330778541318144,
+      "m_Localized": "暗夜邪祟",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147330778541318145,
+      "m_Localized": "扮妝舞會",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147330778541318146,
+      "m_Localized": "午夜之子",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147330778545512448,
+      "m_Localized": "殭屍",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147330778545512449,
+      "m_Localized": "Kai Lun Qu",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147330778545512450,
+      "m_Localized": "Corin Howell",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147330778545512451,
+      "m_Localized": "希薇",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147330778545512452,
+      "m_Localized": "王者之域",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147330778549706752,
+      "m_Localized": "Deodato",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147330778549706753,
+      "m_Localized": "殲滅戰",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147330778549706754,
+      "m_Localized": "水上摩托車",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147330778549706755,
+      "m_Localized": "離家童盟",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147330778549706756,
+      "m_Localized": "格林姐妹",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147330778553901056,
+      "m_Localized": "Djurdjevic",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147429067966111744,
+      "m_Localized": "妮可·米諾魯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147432934165331968,
+      "m_Localized": "<b>揭示：</b>你放置下張卡牌後，該牌變成{card.Card_Token.Name}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 147432934169526272,
+      "m_Localized": "妮可·米諾魯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147432934169526273,
+      "m_Localized": "<b>揭示：</b>你放置下張卡牌後，摧毀該牌並抽2張卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147432934169526274,
+      "m_Localized": "妮可·米諾魯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147432934169526275,
+      "m_Localized": "<b>揭示：</b>你放置下張卡牌後，該牌向右移動1個區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147432934169526276,
+      "m_Localized": "妮可·米諾魯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147432934169526277,
+      "m_Localized": "<b>揭示：</b>你放置下張卡牌後，使該牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 147432934169526278,
+      "m_Localized": "妮可·米諾魯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147432934169526279,
+      "m_Localized": "<b>揭示：</b>你放置下張卡牌後，將該牌所在區域替換成其他隨機區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147432934169526280,
+      "m_Localized": "妮可·米諾魯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147432934169526281,
+      "m_Localized": "<b>揭示：</b>你放置下張卡牌後，將1張該牌的複製牌加入我方手牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147432934169526282,
+      "m_Localized": "妮可·米諾魯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147432934169526283,
+      "m_Localized": "<b>揭示：</b>你放置下張卡牌後，此卡牌戰鬥力翻倍。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147432938053451776,
+      "m_Localized": "怪物軍團",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 150745875262357504,
+      "m_Localized": "巨靈",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 150745875291717632,
+      "m_Localized": "<b>揭示：</b>下回合，你獲得+{card.AddedEnergy}能量。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 150745878236119040,
+      "m_Localized": "Kai",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 150745878240313344,
+      "m_Localized": "In-Hyuk Lee",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 155417321520750592,
+      "m_Localized": "賽巴斯汀·蕭",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 155417321545916416,
+      "m_Localized": "此牌獲得永久戰鬥力時，再另外+{card.AddedPower}戰鬥力。<i>（無論此牌在哪）</i>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 155417321545916417,
+      "m_Localized": "火焰星",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 155417321545916418,
+      "m_Localized": "<b>揭示：</b>上回合我方放置的每張卡牌，均獲得此牌的戰鬥力。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 155417321545916419,
+      "m_Localized": "法官",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 155417321545916420,
+      "m_Localized": "每回合結束後，我方失去{card.AddedMaxEnergy}點最大能量值，且此牌+{card.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 155417321545916421,
+      "m_Localized": "黑皇后",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 155417321545916422,
+      "m_Localized": "<b>揭示：</b>雙方手牌戰鬥力最低的1張隨機卡牌-{card.ReducedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 155818893370081280,
+      "m_Localized": "小喵咪",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 155818893395247104,
+      "m_Localized": "Joshua Swaby",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 155818893395247105,
+      "m_Localized": "Jee-Hyung Lee",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 155818893395247106,
+      "m_Localized": "Jung-Geun Yoon",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 155818893399441408,
+      "m_Localized": "Oscar Vega",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 155818893403635712,
+      "m_Localized": "永誌不忘",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 158235999979167744,
+      "m_Localized": "賽巴斯汀·蕭",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 158236000025305088,
+      "m_Localized": "地獄火俱樂部",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 158236000025305089,
+      "m_Localized": "無限地獄火俱樂部",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 158641890536710144,
+      "m_Localized": "地獄火晚會",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 158641890570264576,
+      "m_Localized": "Stephanie Hans",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 158641890574458880,
+      "m_Localized": "青銅時代",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 158641890574458881,
+      "m_Localized": "Sean Galloway",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 158641890574458882,
+      "m_Localized": "嚼嚼好吃",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 158641890574458883,
+      "m_Localized": "Javier Rodriguez",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 158641890574458884,
+      "m_Localized": "終結者",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 158641890574458885,
+      "m_Localized": "煤炭",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 158641890574458886,
+      "m_Localized": "Mark Brooks",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 158641890578653184,
+      "m_Localized": "極限X戰警",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 158641890578653185,
+      "m_Localized": "Derrick Chew",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 158641890578653186,
+      "m_Localized": "David Nakayama",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 158641890578653187,
+      "m_Localized": "Robbi Rodriguez",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 158641890578653188,
+      "m_Localized": "蜘蛛裝甲",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 158641890578653189,
+      "m_Localized": "無限手套",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 161214015202123776,
+      "m_Localized": "太空背景",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 165566158440751104,
+      "m_Localized": "太空背景",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 165566158541414400,
+      "m_Localized": "神話",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 165566158541414401,
+      "m_Localized": "禮包",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 165566158541414402,
+      "m_Localized": "焦點祕寶",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 165566158541414403,
+      "m_Localized": "征服商店",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 165566158541414404,
+      "m_Localized": "促銷",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 165566158541414405,
+      "m_Localized": "令牌",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 167301628240478208,
+      "m_Localized": "斯卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 167301628278226944,
+      "m_Localized": "我方場上每有1張戰鬥力大於或等於{card.AssignedPower}的已揭示卡牌，則此牌能量花費-{card.ReducedCost}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 167301628278226945,
+      "m_Localized": "卡依拉",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 167301628282421248,
+      "m_Localized": "<b>持續</b>：我方所有{card.TargetCardCost_1}和{card.TargetCardCost_2}費牌無法被摧毀。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 167301628282421249,
+      "m_Localized": "海克力士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 167301628282421250,
+      "m_Localized": "每回合首次有卡牌移動至此牌所在區域時，將該牌移動至另一區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 167301628282421251,
+      "m_Localized": "宗師",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 167301628282421252,
+      "m_Localized": "<b>揭示</b>：將此牌所在區域的另1張我方<b>揭示</b>卡牌移動至中間區域，並再次觸發其特殊效果。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 167301628282421253,
+      "m_Localized": "米克",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 167301628282421254,
+      "m_Localized": "每回合結束後，若你丟棄過任意卡牌，則每丟棄1張牌，此牌就獲得+{card.AddedPower}戰鬥力並移走。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 167301628282421255,
+      "m_Localized": "貝塔·雷·比爾",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 167301628282421256,
+      "m_Localized": "<b>揭示：</b>將{card.Card_Token.Name}洗進你的牌組。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 167301628282421257,
+      "m_Localized": "風暴破壞者",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 167301628282421258,
+      "m_Localized": "<b>揭示：</b>{card.Card_Modified.Name}的戰鬥力翻倍。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 167301628315975680,
+      "m_Localized": "Gabriele Dell'Otto",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 167674004561190912,
+      "m_Localized": "浩克",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 167674004586356736,
+      "m_Localized": "戰界",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 167674004586356737,
+      "m_Localized": "無限戰界",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 167674004586356738,
+      "m_Localized": "Gabriele Dell'Otto",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 167674004590551040,
+      "m_Localized": "終極-1610",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 167674004590551041,
+      "m_Localized": "Ron Lim",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 170249729180950528,
+      "m_Localized": "白銀時代",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 170249729206116352,
+      "m_Localized": "星球浩克",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 170249729206116353,
+      "m_Localized": "漫威電影宇宙",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 172334804542414848,
+      "m_Localized": "Del Mundo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 172334804571774976,
+      "m_Localized": "無限可能：假如…？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 172334804575969280,
+      "m_Localized": "票投洛基",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 175620288706240512,
+      "m_Localized": "Mad Boogie",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 0,
+        "type": {
+          "class": "SmartFormatTag",
+          "ns": "UnityEngine.Localization.Metadata",
+          "asm": "Unity.Localization"
+        },
+        "data": {}
+      }
+    ]
+  }
+}

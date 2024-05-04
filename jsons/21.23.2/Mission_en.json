@@ -1,0 +1,1654 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2378050947708348859
+  },
+  "m_Name": "Mission_en",
+  "m_LocaleId": {
+    "m_Code": "en"
+  },
+  "m_SharedData": {
+    "m_FileID": 4,
+    "m_PathID": 6558105548395006506
+  },
+  "m_Metadata": {
+    "m_Items": [
+      {
+        "rid": 0
+      }
+    ]
+  },
+  "m_TableData": [
+    {
+      "m_Id": 54071623933952,
+      "m_Localized": "{mission.Hard:<color=orange>HARD: </color>|}{mission.TimeLimited:<color=#FF8586>TIME LIMITED: </color>|}{mission.Description}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 6519302119424,
+      "m_Localized": "Chapter {ChapterIndex}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 6344743575552,
+      "m_Localized": "Complete All {RequiredProgress} Chapter {ChapterIndex} Missions",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 13809841332224,
+      "m_Localized": "Complete Daily Challenges",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6626307203072,
+      "m_Localized": "Complete a full Weekly Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6720230252544,
+      "m_Localized": "Complete {RequiredProgress:a Hard Daily Mission|Hard Daily Missions}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 36275478528,
+      "m_Localized": "Complete {RequiredProgress:a Daily Mission|Daily Missions}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 1774416027648,
+      "m_Localized": "Draw Cards",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1821039910912,
+      "m_Localized": "Play Cards",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1895694327808,
+      "m_Localized": "Play {CardCost} Cost Cards",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 2018826510336,
+      "m_Localized": "Play Ongoing Cards",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2115530383360,
+      "m_Localized": "Play On Reveal Cards",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2182546972672,
+      "m_Localized": "Discard Cards",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2925173661696,
+      "m_Localized": "Destroy Cards",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3005813350400,
+      "m_Localized": "Move Cards",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3056237273088,
+      "m_Localized": "Play {RequiredProgress} Power's worth of Cards",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 13752740077568,
+      "m_Localized": "Win Locations",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3186344583168,
+      "m_Localized": "Win a Location with {CardCount:only {CardCount} Card|{CardCount} Cards}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 3752219107328,
+      "m_Localized": "Win a Location with {HighPower} or More Power",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 3853893230592,
+      "m_Localized": "Win a Location with {LowPower} or Less Power",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 3979353251840,
+      "m_Localized": "Play a Match",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8736427991040,
+      "m_Localized": "Play a Match with a New Deck",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4046973820928,
+      "m_Localized": "Win Matches",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4131283525632,
+      "m_Localized": "Win a Match with {TotalPower}+ Total Power",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 4257402052608,
+      "m_Localized": "Win with {card.Name} starting in your Deck",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 4405494538240,
+      "m_Localized": "Win Matches with a Snap",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4490794098688,
+      "m_Localized": "Make Your Opponent Retreat",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4589444128768,
+      "m_Localized": "Win all 3 Locations in a Match",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4693064409088,
+      "m_Localized": "Gain Collection Level",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4744763400192,
+      "m_Localized": "Reach Collection Level {RequiredProgress}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 4836752875520,
+      "m_Localized": "Upgrade a Card",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4910249664512,
+      "m_Localized": "Upgrade a Card to Rare or better",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4963278249984,
+      "m_Localized": "Unlock a New Card",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8448786817024,
+      "m_Localized": "Acquire Boosters",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8686662574080,
+      "m_Localized": "Create a New Deck",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9451397439488,
+      "m_Localized": "Welcome to MARVEL SNAP!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9545203048448,
+      "m_Localized": "Step Into the Multiverse",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9632452960256,
+      "m_Localized": "Awwww SNAP",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9716720721920,
+      "m_Localized": "Upgrade and Collect to Earn New Cards",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10049605853184,
+      "m_Localized": "Hang 10 with Wave",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10075946082304,
+      "m_Localized": "Catch Some Rays with Giganto",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10089401409536,
+      "m_Localized": "Namor Finds a Friend",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10102173065216,
+      "m_Localized": "Cosmo Takes a Dive with Dolphins",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10115171213312,
+      "m_Localized": "Thor: Son of Odin",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10140878102528,
+      "m_Localized": "Defending Asgard with Lady Sif",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10166895370240,
+      "m_Localized": "Stop Destroyer Before it's too Late",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10182217162752,
+      "m_Localized": "Call the Bifrost with Heimdall",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10196100308992,
+      "m_Localized": "Spar at Chikara Dojo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10220825731072,
+      "m_Localized": "Punish the Wicked",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10233735798784,
+      "m_Localized": "Alias Investigations Accepts a New Case",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10245404352512,
+      "m_Localized": "Good Vibrations",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10267344756736,
+      "m_Localized": "Get These Skrulls Off My Plane!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10308541210624,
+      "m_Localized": "Is your first name Agent?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10394822238208,
+      "m_Localized": "It's a Vintage Set, Took Me a While to Collect Them",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10407577116672,
+      "m_Localized": "Genius, billionaire, playboy, philanthropist.\\nI am Iron Man",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10419367305216,
+      "m_Localized": "I'm Miles Morales, Spider-Man. And I've Never Been More Sure of My Power",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10440011669504,
+      "m_Localized": "From Now On, Spider-Woman Fights Back!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10453039177728,
+      "m_Localized": "It's Kinda Nice Not Being The Only Spider-Person Around",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10467715047424,
+      "m_Localized": "With Great Power Comes Great Responsibility",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10480209879040,
+      "m_Localized": "Drink the Heart-Shaped Herb",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10499763724288,
+      "m_Localized": "Build Bridges Not Barriers",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10515718856704,
+      "m_Localized": "Fight With Honor! Your People Need You",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10528658284544,
+      "m_Localized": "Enter the Green Veld and Run Forever",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 279673241067520,
+      "m_Localized": "Complete All Chapter {PrevChapterIndex} Missions",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 280739496058880,
+      "m_Localized": "Complete {mission.SubMissionClaimedRequirement} {mission.SubMissionClaimedRequirement:Mission|Missions}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 283551831416832,
+      "m_Localized": "Unlocks in {timeCountdown:{timeCountdown}|--h --m}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 346024756371456,
+      "m_Localized": "{mission.UnlockRequirement}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 348822646546432,
+      "m_Localized": "{mission.Flavor}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 349119146090496,
+      "m_Localized": "COMPLETE",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 353252196474880,
+      "m_Localized": "{mission.season.Title:{mission.season.Title}: |}{mission.Title}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 376889171501056,
+      "m_Localized": "MISSIONS",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 386714559307776,
+      "m_Localized": "Claimed!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 387330174083072,
+      "m_Localized": "Weekly Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 387376340787200,
+      "m_Localized": "COMPLETED:",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 394295939948544,
+      "m_Localized": "Empty Mission Slot",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 394604225486848,
+      "m_Localized": "Refreshing... Please wait...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 395020279472128,
+      "m_Localized": "{refreshCount} Missions refill in {timeCountdown:{timeCountdown}|--h --m}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 403361961598976,
+      "m_Localized": "Refill Now",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 404363284570112,
+      "m_Localized": "You need at least <color=red>{refreshCount} Empty Mission Slots</color> in order to Refill Now.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 404608580050944,
+      "m_Localized": "You have refilled the <color=red>maximum number</color> of times today. Check back in <color=red>{timeCountdown:{timeCountdown}|--h --m}</color>!",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 416474056351744,
+      "m_Localized": "Purchase Refill",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 416655720046592,
+      "m_Localized": "Purchase {refreshCount} new Daily Missions?",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 17719278432043008,
+      "m_Localized": "Venom Man! Venom Man! Friendly Symbiote\\nVenom Man!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16301616868089856,
+      "m_Localized": "{numMissions}/{maxMissions} Missions",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 17720576700309504,
+      "m_Localized": "Come back later for more Missions",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20774895577088000,
+      "m_Localized": "Rise of the Silver Surfer",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20774937524322304,
+      "m_Localized": "Soarin the Spaceways",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20775449019695104,
+      "m_Localized": "Behold the Power Cosmic!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20775446788325376,
+      "m_Localized": "Herald of Galactus",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 30842268435865600,
+      "m_Localized": "Into the Savage Land!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 30842569662390272,
+      "m_Localized": "Ka-Zar! Watch Out for That Tree!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 30842578160050176,
+      "m_Localized": "If Zabu Fits, He Sits",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 30842582937362432,
+      "m_Localized": "Never Smile at a Smilodon",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 30842586326360064,
+      "m_Localized": "Lightning Never Strikes Twice",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 32595680299048960,
+      "m_Localized": "Mission Locked",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43580401392803840,
+      "m_Localized": "Look Out For the Little Guy!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43580459571994624,
+      "m_Localized": "Don't Get Sucked Into a Time Vortex",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43580473908125696,
+      "m_Localized": "Stranded in Subatomica",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43580488823070720,
+      "m_Localized": "When You See Time the Way I Do, You See Everything",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56060258190090240,
+      "m_Localized": "Mutants - Surrender or Face Termination.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56060263432970240,
+      "m_Localized": "Bend Your Mind and Go Back in Time",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56060267480473600,
+      "m_Localized": "Save the Senator, Stop the Mutant Control Act",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56060273306361856,
+      "m_Localized": "Extra Extra! Sentinel Program Cancelled",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 68362890334167040,
+      "m_Localized": "Monkey Mayhem",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 68362895350554624,
+      "m_Localized": "No More Mr. Nice Dog",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 68362899783933952,
+      "m_Localized": "Species: Flerken. Threat: High.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 68362902837387264,
+      "m_Localized": "Pet Avengers - Assemble!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78415560281415680,
+      "m_Localized": "Thirst for Vengeance",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78415567973769216,
+      "m_Localized": "The Deadliest Woman in the Galaxy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78415571580870656,
+      "m_Localized": "Star-Lord, man. Legendary Outlaw?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78415574231670784,
+      "m_Localized": "Time to Face the Music",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78415937454202880,
+      "m_Localized": "We Are Groot",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88427427292766208,
+      "m_Localized": "We're Supposed to be the Good Guys",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88427430593683456,
+      "m_Localized": "It's Rude to Point",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88427434242727936,
+      "m_Localized": "With Great Ability Comes Great Accountability",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88427436742533120,
+      "m_Localized": "How Many More Spider People Are Out There?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 98595099829592064,
+      "m_Localized": "Cosmic Stirrings",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 98595108486635520,
+      "m_Localized": "Mystical Encounters",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 98595113188450304,
+      "m_Localized": "Unyielding Strength",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 98595116023799808,
+      "m_Localized": "The Power Within",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 98595118242586624,
+      "m_Localized": "The Phoenix Rises",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109494009615867904,
+      "m_Localized": "The Ancient Kaiju Awaken",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109494012778373120,
+      "m_Localized": "Steel Resolve, Frozen Fury",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109494015131377664,
+      "m_Localized": "A Battle For Supremacy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109494017387913216,
+      "m_Localized": "Mecha Battle Squad, Unite!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109758158992302080,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109765508893499392,
+      "m_Localized": "Weekend Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109835452431720448,
+      "m_Localized": "{expireCountdown:{expireCountdown}|--h --m}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 111712708166934528,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 111712951117799424,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 111713039433064448,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 111713099663269888,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 111713313790877696,
+      "m_Localized": "Weekend Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 111713484553576448,
+      "m_Localized": "Weekend Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 111713545769443328,
+      "m_Localized": "Weekend Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 111713780235231232,
+      "m_Localized": "Weekend Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 119954074592337920,
+      "m_Localized": "Glorious Purpose",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 119954080967680000,
+      "m_Localized": "Welcome to the Time Variance Authority!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 119954083744309248,
+      "m_Localized": "A Game of Time and Illusion",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 119954086202171392,
+      "m_Localized": "At the End of Time",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122834226892496896,
+      "m_Localized": "Weekend Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122834611644391424,
+      "m_Localized": "Weekend Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122834652840845312,
+      "m_Localized": "Weekend Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122834567583227904,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122834632330698752,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122834705315782656,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122886803831119872,
+      "m_Localized": "Weekend Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122886806972653568,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122886812966313984,
+      "m_Localized": "Weekend Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122886826371309568,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122886832268500992,
+      "m_Localized": "Weekend Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122886836450222080,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122886840459976704,
+      "m_Localized": "Weekend Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122886845799325696,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122887825739735040,
+      "m_Localized": "Weekend Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122887831460765696,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122887835218862080,
+      "m_Localized": "Weekend Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122887843762659328,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122887848191844352,
+      "m_Localized": "Weekend Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122887852084158464,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122887855661899776,
+      "m_Localized": "Weekend Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122887859021537280,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 136347585071800320,
+      "m_Localized": "Hunter of Darkness",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 136347588964114432,
+      "m_Localized": "Horrors from the Swamp",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 136347592399249408,
+      "m_Localized": "Of Fiery Chains and Ebony Blades",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 136347594844528640,
+      "m_Localized": "Shadows of the Night",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 136347605766496256,
+      "m_Localized": "Protectors of the Living",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 136350003868196864,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 136350007487881216,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 136350009614393344,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 136350011988369408,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 136350014471397376,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137713960331763712,
+      "m_Localized": "Weekend Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137713962521190400,
+      "m_Localized": "Weekend Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137713964165357568,
+      "m_Localized": "Weekend Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137713965977296896,
+      "m_Localized": "Weekend Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137713967705350144,
+      "m_Localized": "Weekend Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137343961100443648,
+      "m_Localized": "Fusion and Confusion",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137343963126292480,
+      "m_Localized": "Astral Anarchy, Heroic Harmony",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137343964934037504,
+      "m_Localized": "A Clash of Cosmic Champions",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137345585394999296,
+      "m_Localized": "The Marvels Ascend",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139801221001109504,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139801300894212096,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139801324453617664,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139801337720201216,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147420624215597056,
+      "m_Localized": "Weekend Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147420628317626368,
+      "m_Localized": "Weekend Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147420626396635136,
+      "m_Localized": "Weekend Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 147420630255394816,
+      "m_Localized": "Weekend Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 151853215155077120,
+      "m_Localized": "Passion for Fashion",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 151853217948483584,
+      "m_Localized": "Lethal Liabilities",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 151853220481843200,
+      "m_Localized": "A Nightmare to Remember",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 151853222662881280,
+      "m_Localized": "From Here to Mars",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 151856485021892608,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 151856487714635776,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 151856489975365632,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 151856492462587904,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 151856809493250048,
+      "m_Localized": "Bonus Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 151856811389075456,
+      "m_Localized": "Bonus Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 151856820411023360,
+      "m_Localized": "Bonus Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 151856825360302080,
+      "m_Localized": "Bonus Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160220140782215168,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160220144993296384,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160220149888049152,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160220158230519808,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160220529355120640,
+      "m_Localized": "Get Those Wins Before Time Runs Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160221118768078848,
+      "m_Localized": "Bonus Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160221125973893120,
+      "m_Localized": "Bonus Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160221129916538880,
+      "m_Localized": "Bonus Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160221132068216832,
+      "m_Localized": "Bonus Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160221134144397312,
+      "m_Localized": "Bonus Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160221245721272320,
+      "m_Localized": "Arrival of the Warbound",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160221255754047488,
+      "m_Localized": "Clash of Might",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160221268743806976,
+      "m_Localized": "Rise of the Underdog",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160221281339301888,
+      "m_Localized": "Precision in Chaos",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160221296120029184,
+      "m_Localized": "Star-Forged Might",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 0,
+        "type": {
+          "class": "SmartFormatTag",
+          "ns": "UnityEngine.Localization.Metadata",
+          "asm": "Unity.Localization"
+        },
+        "data": {}
+      }
+    ]
+  }
+}
