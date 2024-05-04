@@ -1,0 +1,3500 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2378050947708348859
+  },
+  "m_Name": "Location_zh-Hant",
+  "m_LocaleId": {
+    "m_Code": "zh-Hant"
+  },
+  "m_SharedData": {
+    "m_FileID": 6,
+    "m_PathID": 6779185549797550918
+  },
+  "m_Metadata": {
+    "m_Items": [
+      {
+        "rid": 6549779125516894225
+      }
+    ]
+  },
+  "m_TableData": [
+    {
+      "m_Id": 10884947632128,
+      "m_Localized": "復仇者基地",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020736,
+      "m_Localized": "巴克斯特大廈",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020737,
+      "m_Localized": "中央公園",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020738,
+      "m_Localized": "複製中心",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020739,
+      "m_Localized": "深紅宇宙",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020740,
+      "m_Localized": "危險鬥室",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020741,
+      "m_Localized": "死亡領地",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020742,
+      "m_Localized": "X地區",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020743,
+      "m_Localized": "夢之維度",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020744,
+      "m_Localized": "伊果",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020745,
+      "m_Localized": "極樂凈土",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020746,
+      "m_Localized": "福格威爾的健身房",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020747,
+      "m_Localized": "中央車站",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020748,
+      "m_Localized": "哈拉星",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020749,
+      "m_Localized": "地獄火俱樂部",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020750,
+      "m_Localized": "卡瑪泰姬",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020751,
+      "m_Localized": "克林塔星",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020752,
+      "m_Localized": "虛無知地",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020753,
+      "m_Localized": "畸牢",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884956020754,
+      "m_Localized": "雷修古拉",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215040,
+      "m_Localized": "地獄邊境",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215041,
+      "m_Localized": "洛斯迪亞布羅斯基地",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215042,
+      "m_Localized": "意念領地",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215043,
+      "m_Localized": "微縮實驗室",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215044,
+      "m_Localized": "鏡次元",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215045,
+      "m_Localized": "莫卓領地",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215046,
+      "m_Localized": "怪物大都會",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215047,
+      "m_Localized": "恐怖屋",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215048,
+      "m_Localized": "異次元空間",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215049,
+      "m_Localized": "紐約",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215050,
+      "m_Localized": "新羅馬",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215051,
+      "m_Localized": "奧林匹亞",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215052,
+      "m_Localized": "狂攻堡壘",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215053,
+      "m_Localized": "廢墟",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215054,
+      "m_Localized": "薩卡星",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215055,
+      "m_Localized": "蠻荒之地",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215056,
+      "m_Localized": "下水道",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215057,
+      "m_Localized": "影域",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215058,
+      "m_Localized": "邪惡倫敦",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215059,
+      "m_Localized": "蘇科維亞",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215060,
+      "m_Localized": "太空王座",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215061,
+      "m_Localized": "史塔克大樓",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215062,
+      "m_Localized": "星光堡壘",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215063,
+      "m_Localized": "奇異學院",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215064,
+      "m_Localized": "地下空間",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215065,
+      "m_Localized": "交界地",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215066,
+      "m_Localized": "「巨型」監獄",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215067,
+      "m_Localized": "總部",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215068,
+      "m_Localized": "工匠的作坊",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215069,
+      "m_Localized": "泰坦",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215070,
+      "m_Localized": "穹頂監獄",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215071,
+      "m_Localized": "瓦干達",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215072,
+      "m_Localized": "瓦干達大使館",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215073,
+      "m_Localized": "華盛頓特區",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215074,
+      "m_Localized": "怪奇世界",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215075,
+      "m_Localized": "西景鎮",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215076,
+      "m_Localized": "世界之舟",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215077,
+      "m_Localized": "X學院",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215078,
+      "m_Localized": "桑達爾星",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884960215079,
+      "m_Localized": "亞提蘭",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409344,
+      "m_Localized": "無名酒吧",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409345,
+      "m_Localized": "黑暗維度",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409346,
+      "m_Localized": "崑崙",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409347,
+      "m_Localized": "冰盒監獄",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409348,
+      "m_Localized": "時間變異管理局",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409349,
+      "m_Localized": "至聖所",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409350,
+      "m_Localized": "亞特蘭提斯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409351,
+      "m_Localized": "雷姆利亞",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409352,
+      "m_Localized": "怪物島",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409353,
+      "m_Localized": "繆爾島",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409354,
+      "m_Localized": "阿斯嘉",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409356,
+      "m_Localized": "約頓海姆",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409357,
+      "m_Localized": "尼德威阿爾",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409358,
+      "m_Localized": "彩虹橋",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409359,
+      "m_Localized": "費斯克塔",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409360,
+      "m_Localized": "伽瑪實驗室",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409361,
+      "m_Localized": "地獄廚房",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409362,
+      "m_Localized": "盧克·凱奇的酒吧",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409363,
+      "m_Localized": "飛馬計劃",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409364,
+      "m_Localized": "浮橋監獄",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409365,
+      "m_Localized": "三角總部",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409367,
+      "m_Localized": "邪惡屬地",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409368,
+      "m_Localized": "號角日報社",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409369,
+      "m_Localized": "奧斯企業塔",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409370,
+      "m_Localized": "納克斯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409371,
+      "m_Localized": "戰士瀑布",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409372,
+      "m_Localized": "小行星M",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409373,
+      "m_Localized": "X監室",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409374,
+      "m_Localized": "時間盡頭堡壘",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409375,
+      "m_Localized": "反轉地球",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409376,
+      "m_Localized": "深空",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409377,
+      "m_Localized": "末日之城",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409378,
+      "m_Localized": "基諾沙",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409379,
+      "m_Localized": "克拉科島",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409380,
+      "m_Localized": "拉曼提斯-1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409381,
+      "m_Localized": "機械世界",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409382,
+      "m_Localized": "馬德里坡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409383,
+      "m_Localized": "莫拉格星",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409384,
+      "m_Localized": "萬達格山",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884964409385,
+      "m_Localized": "死靈沙",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603648,
+      "m_Localized": "快樂山丘",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603649,
+      "m_Localized": "量子領域",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603650,
+      "m_Localized": "紅房",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603651,
+      "m_Localized": "神聖時間軸",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603652,
+      "m_Localized": "烏托邦",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603653,
+      "m_Localized": "水晶塔",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603654,
+      "m_Localized": "已沖毀",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603655,
+      "m_Localized": "大洪災",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603656,
+      "m_Localized": "特蘭西亞",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603657,
+      "m_Localized": "紐約",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603658,
+      "m_Localized": "薩卡星",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603659,
+      "m_Localized": "地下空間",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603660,
+      "m_Localized": "母體模組",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603661,
+      "m_Localized": "大溪地",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603662,
+      "m_Localized": "四大自由廣場",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603663,
+      "m_Localized": "亞卡利湖",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603664,
+      "m_Localized": "錫爾卡里亞",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603665,
+      "m_Localized": "羅克森廣場",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603666,
+      "m_Localized": "扭曲世界",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603667,
+      "m_Localized": "異界",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603668,
+      "m_Localized": "中城高中",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603669,
+      "m_Localized": "鴨星球",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603670,
+      "m_Localized": "佛米爾星",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603671,
+      "m_Localized": "史克魯爾星",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603672,
+      "m_Localized": "煉獄酒店",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603673,
+      "m_Localized": "拉托維尼亞",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603674,
+      "m_Localized": "黑暗荒原",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603675,
+      "m_Localized": "<vfx=alert>第{location.TurnNumber}回合時，只能在此區域放置卡牌。</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884968603676,
+      "m_Localized": "此區域領先的玩家在其他區域均+{location.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884968603677,
+      "m_Localized": "向每個區域添加1張{location.Card_Token.Name}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884968603678,
+      "m_Localized": "你在此區域放置卡牌後，將1張複製牌加入你的手牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603679,
+      "m_Localized": "此區域不可放置能量花費為{location.TargetCardCost_1}、{location.TargetCardCost_2}、{location.TargetCardCost_3}的卡牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884968603680,
+      "m_Localized": "此區域放置的卡牌有{location.PercentChance}%機率被摧毀。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884968603681,
+      "m_Localized": "你在此區域放置卡牌後，該卡牌會被<vfx=alert>摧毀</vfx>。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603682,
+      "m_Localized": "將雙方牌組均替換為{location.TokenCount}張隨機卡牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884968603683,
+      "m_Localized": "<vfx=alert>第{location.TurnNumber}回合，所有卡牌的能量花費+{location.AddedCost}。</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884968603684,
+      "m_Localized": "伊果接管你的牌局，並幫你出牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884968603685,
+      "m_Localized": "所有卡牌的能量花費-{location.ReducedCost}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797952,
+      "m_Localized": "本局對戰雙方玩家均會獲得雙倍強化套組。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884972797953,
+      "m_Localized": "<vfx=alert>第{location.TurnNumber}回合結束後，從雙方手牌各抽取1張卡牌，添加到此區域。</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797954,
+      "m_Localized": "<vfx=alert>第{location.TurnNumber}回合結束時，摧毀所有此區域落後玩家的卡牌。</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797955,
+      "m_Localized": "此區域不可放置能量花費為{location.TargetCardCost}的卡牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797956,
+      "m_Localized": "此區域的<b>揭示</b>效果觸發2次。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884972797957,
+      "m_Localized": "第{location.TurnNumber}回合結束後，將你在此區域的卡牌合併成一張{location.Card_Token.Name}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797958,
+      "m_Localized": "<vfx=alert>此區域的揭示效果失效。</vfx>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884972797959,
+      "m_Localized": "<vfx=alert>第{location.TurnNumber}回合結束後，不能在此區域放置卡牌</vfx>。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797960,
+      "m_Localized": "每當你在此區域放置卡牌後，將{location.TokenCount}張石塊洗進你的牌組。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797961,
+      "m_Localized": "本局對戰有第{location.TurnNumber}回合。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797962,
+      "m_Localized": "<vfx=alert>第{location.TurnNumber}回合結束後，隨機把1個區域炸成廢墟。</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797963,
+      "m_Localized": "第{location.TurnNumber}回合開始時，雙方交換手牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797964,
+      "m_Localized": "<vfx=alert>第{location.TurnNumber_1}、{location.TurnNumber_2}、{location.TurnNumber_3}回合，此區域無法有任何新的卡牌。</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797965,
+      "m_Localized": "在第{location.TurnNumber}回合，此區域變成場上的其他區域。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797966,
+      "m_Localized": "此區域擁有較多卡牌的玩家+{location.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797967,
+      "m_Localized": "此區域戰鬥力最高的卡牌+{location.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797968,
+      "m_Localized": "<vfx=alert>第{location.TurnNumber}回合結束後，摧毀此區域所有卡牌。</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797969,
+      "m_Localized": "此區域卡牌均\n-{location.ReducedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797970,
+      "m_Localized": "<vfx=alert>第{location.TurnNumber}回合時，可將卡牌移動至此區域。</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797971,
+      "m_Localized": "抽1張卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884972797972,
+      "m_Localized": "抽{location.DrawCount}張卡牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884972797973,
+      "m_Localized": "此區域的<b>持續</b>效果翻倍。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884972797975,
+      "m_Localized": "本回合結束後，從雙方手牌各抽取1張卡牌，添加到此區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884972797976,
+      "m_Localized": "向雙方此區域各添加2張迅猛龍。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884976992256,
+      "m_Localized": "此區域卡牌均\n-{location.ReducedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992257,
+      "m_Localized": "向雙方區域各添加1張戰鬥力為{location.Card_Token.Power}的{location.Card_Token.Name}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992258,
+      "m_Localized": "你在此區域放置卡牌後，就在另一區域添加1張該牌的複製牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884976992259,
+      "m_Localized": "雙方均丟棄1張手牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884976992260,
+      "m_Localized": "雙方在此區域僅可有<vfx=alert>1張卡牌</vfx>。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884976992261,
+      "m_Localized": "<vfx=alert>第{location.TurnNumber}回合結束後，此區域所有卡牌+{location.AddedPower}戰鬥力。</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992262,
+      "m_Localized": "第{location.TurnNumber}回合結束後，調換所有區域的位置。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992263,
+      "m_Localized": "<vfx=alert>第{location.TurnNumber}回合結束後，將此區域所有卡牌隨機分配至其他區域。</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992264,
+      "m_Localized": "將{location.TokenCount}張石塊洗進每位玩家的牌組中。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992265,
+      "m_Localized": "若我方在此區域沒有卡牌，則每回合+{location.AddedEnergy}能量。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992266,
+      "m_Localized": "此區域不可放置能量花費為{location.TargetCardCost_1}、{location.TargetCardCost_2}、{location.TargetCardCost_3}的卡牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992267,
+      "m_Localized": "隨機將1張卡牌加入雙方手牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884976992268,
+      "m_Localized": "本回合+{location.AddedEnergy}能量。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992269,
+      "m_Localized": "{location.TargetCardCost}費牌的能量花費-{location.ReducedCost}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992270,
+      "m_Localized": "<vfx=alert>第{location.TurnNumber}回合時，此區域不可放置卡牌。</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992271,
+      "m_Localized": "此區域卡牌不可被摧毀。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884976992272,
+      "m_Localized": "雙方手牌均+{location.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992273,
+      "m_Localized": "此區域無特殊效果的卡牌+{location.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992274,
+      "m_Localized": "雙方均從對方牌組中抽取卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884976992275,
+      "m_Localized": "第{location.TurnNumber}回合時，隨機轉變成一個新區域。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992276,
+      "m_Localized": "摧毀其他區域及在該區域的所有卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884976992277,
+      "m_Localized": "<vfx=alert>第{location.TurnNumber}回合結束後，雙方此區域各隨機添加1張卡牌。</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992278,
+      "m_Localized": "此區域卡牌均+{location.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992279,
+      "m_Localized": "<vfx=alert>第{location.TurnNumber}回合結束後，將你的手牌洗入牌組，並抽{location.DrawCount}張卡牌。</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992280,
+      "m_Localized": "戰鬥力較低的玩家贏下此區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884976992281,
+      "m_Localized": "直到本局對戰結束前，此區域卡牌均不揭示。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884976992282,
+      "m_Localized": "每當1張卡牌移動至此區域，就使其+{location.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992283,
+      "m_Localized": "雙方手牌中隨機1張卡牌的能量花費+{location.AddedCost}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992284,
+      "m_Localized": "第4回合結束時，對戰結束。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884976992285,
+      "m_Localized": "此區域不可放置卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884976992286,
+      "m_Localized": "若我方在此區域僅有1張卡牌，則使其+{location.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884976992288,
+      "m_Localized": "向雙方區域各添加1個戰鬥力為{location.Card_Token.Power}的{location.Card_Token.Name}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186560,
+      "m_Localized": "每回合結束後，此區域卡牌均+{location.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186561,
+      "m_Localized": "<vfx=alert>第{location.TurnNumber}回合結束後，此區域領先的玩家抽{location.DrawCount}張{location.DrawCount:卡牌|卡牌}。</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186563,
+      "m_Localized": "每回合結束後，此區域卡牌均-{location.ReducedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186564,
+      "m_Localized": "<vfx=alert>此區域卡牌均+{location.AddedPower}戰鬥力。</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186565,
+      "m_Localized": "<vfx=alert>第{location.TurnNumber}回合結束後，將所有卡牌向右移動一個區域。</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186566,
+      "m_Localized": "每當有卡牌移動至此區域，就<vfx=alert>摧毀該牌</vfx>。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884981186567,
+      "m_Localized": "<vfx=alert>第{location.TurnNumber}回合結束後，將此區域所有卡牌變成{location.Card_Token.Name}。</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186568,
+      "m_Localized": "從牌組中抽取1張{location.TargetCardCost}費牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186569,
+      "m_Localized": "<vfx=alert>你在此區域放置卡牌後，該牌將退回至你的手牌。</vfx>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884981186570,
+      "m_Localized": "本回合+{location.AddedEnergy}能量。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186571,
+      "m_Localized": "最先填滿此區域的玩家抽取1張{location.TargetCardCost_1}費牌，且其能量花費變為{location.TargetCardCost_2}。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186572,
+      "m_Localized": "用隨機卡牌填滿雙方手牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884981186574,
+      "m_Localized": "你在此區域放置1張卡牌後，用其複製牌填滿此區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884981186575,
+      "m_Localized": "隨機獲得對方手牌中1張卡牌的複製牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884981186576,
+      "m_Localized": "<vfx=alert>第{location.TurnNumber}回合結束後，此區域所有卡牌調換敵我位置。</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186577,
+      "m_Localized": "將此區域的戰鬥力同時賦予至其他區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884981186578,
+      "m_Localized": "每回合結束後，此區域卡牌互鬥！摧毀最弱小的卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884981186579,
+      "m_Localized": "你放置1張{location.TargetCardCost_1}費或{location.TargetCardCost_2}費牌後，將該卡牌移動至此區域。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186580,
+      "m_Localized": "每回合僅能在此區域放置1張卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884981186581,
+      "m_Localized": "若本回合雙方均撤退，則雙方均判定為勝出。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884981186582,
+      "m_Localized": "你在此區域放置卡牌後，在此添加1張複製牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884981186584,
+      "m_Localized": "只有在此區域落後的玩家可放置卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884981186585,
+      "m_Localized": "你可將卡牌移動至此區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884981186586,
+      "m_Localized": "第{location.TurnNumber}回合時，克拉科島將主導場面，幫雙方出牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186587,
+      "m_Localized": "抽{location.DrawCount}張卡牌，並摧毀雙方的牌組。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884981186588,
+      "m_Localized": "你在此區域放置卡牌後，將1張複製牌加入對方手牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380864,
+      "m_Localized": "你可將卡牌移動出此區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380865,
+      "m_Localized": "每回合第1張卡牌不可放置在此區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380866,
+      "m_Localized": "每當你在此區域放置卡牌後，丟棄1張你的手牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380867,
+      "m_Localized": "此區域卡牌均\n-{location.ReducedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884985380868,
+      "m_Localized": "每當你在此區域放置卡牌後，抽1張卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380869,
+      "m_Localized": "<vfx=alert>你在此區域放置卡牌後，將其基礎戰鬥力設為{location.AssignedPower}。</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884985380870,
+      "m_Localized": "若有可能，你必須將每回合打出的第1張卡牌放置在此區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380871,
+      "m_Localized": "最先填滿此區域的玩家獲得其起始手牌的複製牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380872,
+      "m_Localized": "第{location.TurnNumber}回合時，此區域卡牌可移動。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884985380873,
+      "m_Localized": "將你的手牌洗入牌組，並抽{location.DrawCount}張卡牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884985380874,
+      "m_Localized": "此區域不可放置卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380875,
+      "m_Localized": "本回合是在此區域放置卡牌的最後機會。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380876,
+      "m_Localized": "交換各區域位置。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380877,
+      "m_Localized": "<i></i>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380878,
+      "m_Localized": "從雙方手牌各抽1張卡牌，添加到此區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380879,
+      "m_Localized": "將{location.TokenCount}張石塊洗進每位玩家的牌組中。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10884985380880,
+      "m_Localized": "每當你在此區域放置卡牌，就將1張哨兵機器人加入你的手牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380881,
+      "m_Localized": "每當有卡牌被摧毀或丟棄，就將其複製牌添加到此區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380883,
+      "m_Localized": "此區域放置卡牌的能量花費+1。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380884,
+      "m_Localized": "此區域放置卡牌的能量花費-1。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380885,
+      "m_Localized": "你可以花費1點能量，移動任意1張卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380886,
+      "m_Localized": "當你抽牌時，抽到的卡牌能量花費-2。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380887,
+      "m_Localized": "當你抽牌時，抽到的卡牌能量花費-3（僅限本回合）。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380888,
+      "m_Localized": "當你抽牌時，抽到的卡牌戰鬥力+1。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380889,
+      "m_Localized": "回合開始時，此區域的領先玩家獲得+1能量。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380890,
+      "m_Localized": "<vfx=alert>你在此區域放置的第1張卡牌會被摧毀。</vfx>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380891,
+      "m_Localized": "第4回合結束時，此區域所有卡牌將隨機變化成別的卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380892,
+      "m_Localized": "<超级加倍>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380893,
+      "m_Localized": "跳過第2回合。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380894,
+      "m_Localized": "本局對戰無法放置6費牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1359370179829764,
+      "m_Localized": "下回合揭示。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884972797974,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884976992287,
+      "m_Localized": "此回合卡牌均不揭示。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884981186583,
+      "m_Localized": "卡牌文字無法在此區域觸發。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1359370179829760,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1359370179829761,
+      "m_Localized": "即將揭示。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1359370179829763,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1359370179829766,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1359370179829767,
+      "m_Localized": "2回合後揭示。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1359370179829769,
+      "m_Localized": "<vfx=alert>戰鬥力較低</vfx>的玩家贏下此區域。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1359370179829774,
+      "m_Localized": "母體模組",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1359370179829775,
+      "m_Localized": "每當你在此區域放置1張卡牌，就將1張{location.Card_Token.Name}加入你的手牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 1359370179829777,
+      "m_Localized": "寂靜島",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1359370179829778,
+      "m_Localized": "此區域無法觸發<b>持續</b>效果。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1359370179829781,
+      "m_Localized": "時間變異管理局",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1359370179829782,
+      "m_Localized": "<vfx=alert>第{location.TurnNumber}回合結束後，結束遊戲</vfx>。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 1359370179829785,
+      "m_Localized": "峰頂太空站",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1359370179829786,
+      "m_Localized": "我方所有手牌的戰鬥力值與能量花費值相互交換。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942213767168,
+      "m_Localized": "這裡會保護像海煞這樣的卡牌！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544384,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544385,
+      "m_Localized": "學校放假啦！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544386,
+      "m_Localized": "佔領陣地！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544387,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544388,
+      "m_Localized": "該能量花費高的卡牌上場！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544389,
+      "m_Localized": "何不送出一份創意大禮呢？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544390,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544391,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544392,
+      "m_Localized": "希望你的戰鬥力足夠強！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544393,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544394,
+      "m_Localized": "納摩的天命區域！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544395,
+      "m_Localized": "把你的關鍵1費牌抽出來！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544396,
+      "m_Localized": "人多勢眾！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544397,
+      "m_Localized": "偷瞄一下對方！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544398,
+      "m_Localized": "可以在這裡處理掉對方的牌！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544399,
+      "m_Localized": "無可抗拒的吸引力！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544400,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544401,
+      "m_Localized": "快讓開，支援來了！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544402,
+      "m_Localized": "想想該怎麼在這裡獲得戰鬥力？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544403,
+      "m_Localized": "取得領先，收割獎勵！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544404,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544405,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544406,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544407,
+      "m_Localized": "邀請名單有你嗎？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544408,
+      "m_Localized": "有牌趁早打！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544409,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544410,
+      "m_Localized": "6費牌早點放，沒準還能放2張！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544411,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544412,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544413,
+      "m_Localized": "鋼鐵人可以給這頭怪物超級加倍！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544414,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544415,
+      "m_Localized": "該主動出擊，或是等待時機？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544416,
+      "m_Localized": "搶在對方前，填滿這區域吧！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544417,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544418,
+      "m_Localized": "對某些卡牌來說，棄牌不是缺點……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544419,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942230544420,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738688,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738689,
+      "m_Localized": "一卡定勝負！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738690,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738691,
+      "m_Localized": "小心點，你的牌要交給對方了！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738692,
+      "m_Localized": "這些迅猛龍還真占地方！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738693,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738694,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738695,
+      "m_Localized": "在第6回合前拿下穹頂監獄吧！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738696,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738697,
+      "m_Localized": "兵馬未動，戰術先行！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738698,
+      "m_Localized": "找個體型相當的對手大戰一場吧",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738699,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738700,
+      "m_Localized": "安全措施：停用。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738701,
+      "m_Localized": "數量比品質更重要！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738702,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738703,
+      "m_Localized": "奧丁的度假屋！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738704,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738705,
+      "m_Localized": "低費牌集體出擊！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738706,
+      "m_Localized": "善加利用，否則就錯失良機！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738707,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738708,
+      "m_Localized": "別太早開始爭奪這一區！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738709,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738710,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738711,
+      "m_Localized": "必須做出犧牲……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738712,
+      "m_Localized": "移動到這裡的卡牌都會加強不少！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738713,
+      "m_Localized": "最強卡牌享有額外好康！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738714,
+      "m_Localized": "餵飽我！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738715,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738716,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738717,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738718,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738719,
+      "m_Localized": "入境隨俗……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738720,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738721,
+      "m_Localized": "限時週年會員資格！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738722,
+      "m_Localized": "讓鋼鐵人一擊定音！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738723,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738724,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738725,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738726,
+      "m_Localized": "分享即是關愛！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738727,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738728,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738729,
+      "m_Localized": "雙倍卡牌，雙倍快樂！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738730,
+      "m_Localized": "超適合耍詭計！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738731,
+      "m_Localized": "別阻礙奔流！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738732,
+      "m_Localized": "無限出牌流！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738733,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942234738734,
+      "m_Localized": "準備全面接管！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238932992,
+      "m_Localized": "第4回合後全境封鎖！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238932993,
+      "m_Localized": "唯有強者生存！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238932994,
+      "m_Localized": "複製大軍上啊！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238932995,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238932996,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238932997,
+      "m_Localized": "玩點障眼法，揭示效果晚點見真章！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238932998,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238932999,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933000,
+      "m_Localized": "在這裡累積你的戰鬥力！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933001,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933002,
+      "m_Localized": "第5回合後，卡牌畢業，各奔東西！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933003,
+      "m_Localized": "第3回合後，重置手牌！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933004,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933005,
+      "m_Localized": "做好手牌管理，大牌一呼百應！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933006,
+      "m_Localized": "交出通行費！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933007,
+      "m_Localized": "能量花費打折，放置更多手牌！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933008,
+      "m_Localized": "深空之中，無人能讀懂你的文字。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933009,
+      "m_Localized": "某些卡牌和這區域特別合拍……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933010,
+      "m_Localized": "持續卡牌在這裡派不上用場！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933011,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933012,
+      "m_Localized": "付出冰冷代價！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933013,
+      "m_Localized": "基礎款，才是最強款！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933014,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933015,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933016,
+      "m_Localized": "死亡領地，無處可逃！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933017,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933018,
+      "m_Localized": "揭示效果，慢動作重播！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933019,
+      "m_Localized": "填滿此區域，浩克會大力出奇蹟！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8236942238933020,
+      "m_Localized": "準備好低戰鬥力高能量花費的卡牌！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9323243499413504,
+      "m_Localized": "汎金屬礦場",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9323243499413505,
+      "m_Localized": "你在此區域放置卡牌後，將{location.TokenCount}張{location.Card_Token.Name}洗進你的牌組。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 9323243499413506,
+      "m_Localized": "礦要早點挖，還是晚點挖？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13742778066288640,
+      "m_Localized": "舒莉的實驗室",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13742778095648768,
+      "m_Localized": "你在此區域放置卡牌後，該卡牌戰鬥力翻倍。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13742778095648769,
+      "m_Localized": "雙倍戰鬥力，雙倍快樂！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10884985380882,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12359320349851648,
+      "m_Localized": "王座室",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12359320375017472,
+      "m_Localized": "此區域戰鬥力最高的卡牌戰鬥力翻倍。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12359320375017473,
+      "m_Localized": "王者只有一個！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11277274814758912,
+      "m_Localized": "活用剩餘價值！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26473593145540608,
+      "m_Localized": "搖晃吊橋",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26473593162317824,
+      "m_Localized": "每回合結束後，若此區域卡牌超過1張，則全數摧毀。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26473593162317825,
+      "m_Localized": "不要再搖這座橋了！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27933006477803520,
+      "m_Localized": "永恆山脈",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27933006494580736,
+      "m_Localized": "第{location.TurnNumber}回合結束後，向此區域的落後玩家添加1張石塊。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 27933006494580737,
+      "m_Localized": "石塊來襲！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27939120166617088,
+      "m_Localized": "礦山崩塌",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27939120183394304,
+      "m_Localized": "用石塊填滿此區域。跳過1回合來摧毀你的石塊。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27939120183394305,
+      "m_Localized": "清除石塊或保留？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27941492976664576,
+      "m_Localized": "死亡祭壇",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27941492993441792,
+      "m_Localized": "你在此區域放置卡牌後，該牌將被摧毀，並在下回合提供你+{location.AddedEnergy}能量。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 27941492993441793,
+      "m_Localized": "你準備獻祭什麼？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27944333623574528,
+      "m_Localized": "劫掠城堡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27944333640351744,
+      "m_Localized": "此處只能放置能量花費為6的卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 27944333640351745,
+      "m_Localized": "奪下城堡！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40504288218071040,
+      "m_Localized": "跟隨神聖時間軸的腳步！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40504288239042560,
+      "m_Localized": "量子隧道",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40504288239042561,
+      "m_Localized": "你在此區域放置卡牌後，將該卡牌隨機換成你牌組中的1張卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40504288239042562,
+      "m_Localized": "探索隧道！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40504288239042563,
+      "m_Localized": "利哈伊軍營",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40504288239042564,
+      "m_Localized": "隨機將1張3費牌加入雙方手牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40504288239042565,
+      "m_Localized": "新兵報到！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 50310215599276032,
+      "m_Localized": "紅蘭局鍛造場",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 50310215616053248,
+      "m_Localized": "每當你在此區域放置卡牌後，將1張{location.Card_Token.Name}加入你的手牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 50310215620247552,
+      "m_Localized": "哨兵機器人研發中心",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39787390094426120,
+      "m_Localized": "寵物小宅",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39787390094426121,
+      "m_Localized": "本回合只能在此區域放置卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39787390094426122,
+      "m_Localized": "寵物討摸摸！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39787390094426123,
+      "m_Localized": "沙洲",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39787390094426124,
+      "m_Localized": "此區域不可放置擁有特殊效果的卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39787390094426125,
+      "m_Localized": "沙地上嚴禁任何特殊效果！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53093396975075328,
+      "m_Localized": "米蘭號",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53093396991852544,
+      "m_Localized": "第{location.TurnNumber}回合是在此區域放置卡牌的唯一機會。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 53093396996046848,
+      "m_Localized": "抓好時機，在第{location.TurnNumber}回合搭順風車！",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 65263699416584192,
+      "m_Localized": "梅嬸的家",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 65263699437555712,
+      "m_Localized": "你在此區域放置的第1張卡牌獲得+{location.AddedPower}戰鬥力並移走。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 65263699437555713,
+      "m_Localized": "去吧，大英雄！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 82989661985968128,
+      "m_Localized": "命運大網",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 82989661998551040,
+      "m_Localized": "每回合結束後，隨機將1位玩家的1張卡牌移動到大網中。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 82989661998551041,
+      "m_Localized": "這是命運的牽引……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 83654960552873984,
+      "m_Localized": "白熱室",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 83654960552873985,
+      "m_Localized": "最先填滿此區域的玩家獲得+{location.AddedEnergy}最大能量值。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 83654960552873986,
+      "m_Localized": "解鎖你的鳳凰之力！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 80722490621313024,
+      "m_Localized": "海拉斯湖",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 80722490831028224,
+      "m_Localized": "此區域所有{location.TargetCardCost}費牌均+{location.AddedPower}戰鬥力。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 80722490881359872,
+      "m_Localized": "讓每顆石塊成為明日之星！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 85215744626003968,
+      "m_Localized": "矢志田基地",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 85215744655364096,
+      "m_Localized": "在本局對戰結束時，摧毀最後來到此區域的1張卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 85215744655364097,
+      "m_Localized": "遲來者殺無赦。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 85215744655364098,
+      "m_Localized": "手合會幽谷",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 85215744655364099,
+      "m_Localized": "第{location.TurnNumber}回合後，在此區域復活我方被摧毀的卡牌。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 85215744655364100,
+      "m_Localized": "見識手合會的力量！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 106167580320849920,
+      "m_Localized": "維蘇威火山",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 106167580329238528,
+      "m_Localized": "<vfx=alert>第{location.TurnNumber}回合後，雙方玩家即無法撤退。</vfx>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 6549779125516894225
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 110563658582343680,
+      "m_Localized": "時間劇場",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110563658657841152,
+      "m_Localized": "複製你抽取的上1張卡牌，而非抽取下張卡牌。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110563658657841153,
+      "m_Localized": "讓我們再試一次……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 6549779125516894225,
+        "type": {
+          "class": "SmartFormatTag",
+          "ns": "UnityEngine.Localization.Metadata",
+          "asm": "Unity.Localization"
+        },
+        "data": {}
+      }
+    ]
+  }
+}
