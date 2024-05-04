@@ -1,0 +1,979 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2378050947708348859
+  },
+  "m_Name": "LiveOps_zh-Hant",
+  "m_LocaleId": {
+    "m_Code": "zh-Hant"
+  },
+  "m_SharedData": {
+    "m_FileID": 3,
+    "m_PathID": 2553057028820483332
+  },
+  "m_Metadata": {
+    "m_Items": [
+      {
+        "rid": 0
+      }
+    ]
+  },
+  "m_TableData": [
+    {
+      "m_Id": 309076876582912,
+      "m_Localized": "新兵狂歡季",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076893360128,
+      "m_Localized": "新兵",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076910137344,
+      "m_Localized": "踏進多元宇宙",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076910137345,
+      "m_Localized": "2022年5月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076910137346,
+      "m_Localized": "<nobr>亞特蘭提斯海灘俱樂部</nobr>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076910137347,
+      "m_Localized": "2022年6月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076943691776,
+      "m_Localized": "愛與雷霆",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076943691777,
+      "m_Localized": "2022年7月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076964663296,
+      "m_Localized": "英雄列陣",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 309076964663297,
+      "m_Localized": "2022年8月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5018110048153600,
+      "m_Localized": "測試活動",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5018110069125120,
+      "m_Localized": "測試你的力量",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5018110069125121,
+      "m_Localized": "逃離冥界",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5018110069125122,
+      "m_Localized": "甜蜜聖誕",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5018110069125123,
+      "m_Localized": "撥打浩克熱線求助",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5018710395662336,
+      "m_Localized": "{nexusEvent.Title}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 5755851976466432,
+      "m_Localized": "天劍局與神盾局",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5755852005826560,
+      "m_Localized": "2022年9月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6937858022563840,
+      "m_Localized": "局長之選",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6937858026758144,
+      "m_Localized": "史克魯爾人危機",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10078448800051200,
+      "m_Localized": "{season.SplashPromoDescription}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10078887369060353,
+      "m_Localized": "每個月都會開放擁有豐富任務和獎勵的全新賽季！在大賽季更新之前，盡情享受特別版濃縮賽季吧！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10078887369060354,
+      "m_Localized": "跟浪一起在水花中大放異彩吧！眾多專屬獎勵盡在本賽季的高級賽季通行證！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10078887369060355,
+      "m_Localized": "與索爾並肩守衛阿斯嘉！眾多專屬獎勵盡在本賽季的高級通行證！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10078887369060356,
+      "m_Localized": "與夜魔俠組成律師天團，新高級賽季通行證中的限時專屬獎勵等你來贏！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10078887369060357,
+      "m_Localized": "開啟新高級賽季通行證，與尼克·福瑞的特工們肩並肩戰鬥！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10456382651613184,
+      "m_Localized": "共生體入侵",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10456382676779008,
+      "m_Localized": "2022年10月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10456382676779009,
+      "m_Localized": "瓦干達勇士",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10456382676779010,
+      "m_Localized": "2022年11月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10078887369060352,
+      "m_Localized": "",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10836936074715136,
+      "m_Localized": "噴！開啟新高級賽季通行證，和麥爾斯·摩拉斯一同用蛛絲盪過城市高空",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10836936108269568,
+      "m_Localized": "開啟新高級賽季通行證，與黑豹一同駕馭汎金屬的力量",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 28603307129716736,
+      "m_Localized": "宇宙能量",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 28603317745500160,
+      "m_Localized": "2022年12月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 28681779454926848,
+      "m_Localized": "開啟新高級賽季通行證，與銀河衝浪手共同操縱宇宙能量！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33032749722886144,
+      "m_Localized": "蠻荒之地",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33032753166409728,
+      "m_Localized": "2023年1月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33032756047896576,
+      "m_Localized": "開啟新高級賽季通行證，與沙寶攜手馴服蠻荒之地！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 45767858959933440,
+      "m_Localized": "勇闖量子領域",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 45767865821814784,
+      "m_Localized": "2023年2月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 45768089541795840,
+      "m_Localized": "開啟新高級賽季通行證，揭開量子領域與魔多客的奧祕！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58241398741131264,
+      "m_Localized": "未來昔日",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58241402864132096,
+      "m_Localized": "2023年3月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58241406068580352,
+      "m_Localized": "開啟新高級賽季通行證，與寧錄一同駕馭AI的力量！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 70537253657501696,
+      "m_Localized": "動物集結",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 70537404509839360,
+      "m_Localized": "2023年4月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 70537289434914816,
+      "m_Localized": "開啟新高級賽季通行證，與殺手猿猴一起釋放原始野性！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 80601187018072064,
+      "m_Localized": "異攻隊勁歌金曲精選輯",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 80601191011049472,
+      "m_Localized": "2023年5月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 80601205867274240,
+      "m_Localized": "開啟新高級賽季通行證，與涅布拉攜手守護星際！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 90604554381418496,
+      "m_Localized": "蜘蛛大對抗",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 90608573296402432,
+      "m_Localized": "2023年6月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 90608623321866240,
+      "m_Localized": "開啟新高級賽季通行證，與幽靈蜘蛛一起在多元宇宙間擺盪！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100775624698748928,
+      "m_Localized": "鳳凰崛起",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100775703224508416,
+      "m_Localized": "2023年7月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100775761122680832,
+      "m_Localized": "開啟新高級賽季通行證，接納宇宙之火，燃燒鳳凰之力！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 111677467926716416,
+      "m_Localized": "2023年8月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 111677513023873024,
+      "m_Localized": "開啟新高級賽季通行證，與戴肯劃破眼前的一切挑戰！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112379940010188800,
+      "m_Localized": "日本紅人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122136129199661056,
+      "m_Localized": "2023年9月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122136129442930688,
+      "m_Localized": "開啟新高級賽季通行證，與洛基一起踏進惡作劇與魔法的領域！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122136135851827200,
+      "m_Localized": "洛基：時刻守護",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127203154125119488,
+      "m_Localized": "https://braze-images.com/appboy/communication/assets/image_assets/images/649330ec186996005b6460b8/original.png?1687367916",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 129369524795334656,
+      "m_Localized": "https://braze-images.com/appboy/communication/assets/image_assets/images/637c0c95514503623f157d82/original.png?1669074069",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 129771989583781888,
+      "m_Localized": "https://braze-images.com/appboy/communication/assets/image_assets/images/637c0c95514503623f157d82/original.png?1669074069",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 129781019979014144,
+      "m_Localized": "https://braze-images.com/appboy/communication/assets/image_assets/images/637c0c95514503623f157d82/original.png?1669074069",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127202663110533120,
+      "m_Localized": "領取您的Drop獎勵！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127202841376841728,
+      "m_Localized": "感謝您觀看《漫威：瞬戰超能》的Twitch頻道！\n\n請領取您的Twitch Drops獎勵！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127203027188703232,
+      "m_Localized": "Twitch Drops",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127203085690855424,
+      "m_Localized": "《漫威：瞬戰超能》",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 129049320844419072,
+      "m_Localized": "您購買的「{ProductRefundedName}」禮包已成功退款，已從帳號扣除{Gold}金塊。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 129369315587645440,
+      "m_Localized": "禮包購買已退款",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 129369435083366400,
+      "m_Localized": "《漫威：瞬戰超能》",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 129369490615951360,
+      "m_Localized": "退款",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 129771742237286400,
+      "m_Localized": "您購買的{Gold}金塊已成功退款。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 129771825653604352,
+      "m_Localized": "金塊購買已退款",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 129771865012953088,
+      "m_Localized": "《漫威：瞬戰超能》",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 129771898676436992,
+      "m_Localized": "退款",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 129780883404087296,
+      "m_Localized": "您購買的賽季通行證已成功退款，已從帳號扣除{Gold}金塊。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 129780943919505408,
+      "m_Localized": "賽季通行證購買已退款",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 129780966954622976,
+      "m_Localized": "退款",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 129780993303240704,
+      "m_Localized": "《漫威：瞬戰超能》",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 138526706749136896,
+      "m_Localized": "血石",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 138526717343948800,
+      "m_Localized": "2023年10月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 138527263492661248,
+      "m_Localized": "開啟新高級賽季通行證，與艾爾莎·血石並肩踏入超自然的世界！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139524194083790848,
+      "m_Localized": "更高，更遠，更快",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139524196604567552,
+      "m_Localized": "2023年11月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139524198190014464,
+      "m_Localized": "開啟新高級賽季通行證，與驚奇少女一同超越極限、突破自我！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154033659107721216,
+      "m_Localized": "地獄火晚宴",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154033662295392256,
+      "m_Localized": "2023年12月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154033665017495552,
+      "m_Localized": "開啟新高級賽季通行證，接受賽巴斯汀·蕭的邀請，成為地獄火俱樂部的核心成員！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 162712673680613376,
+      "m_Localized": "星球浩克",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 162712676012646400,
+      "m_Localized": "2024年1月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 162712678223044608,
+      "m_Localized": "開啟新高級賽季通行證，力大無窮的斯卡將讓你大開眼界！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 169898653160300544,
+      "m_Localized": "闇黑號令",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 169898657690148864,
+      "m_Localized": "2024年2月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 169898660085096448,
+      "m_Localized": "開啟新高級賽季通行證，和黑天鵝一起與黑暗共舞！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 176767998159216640,
+      "m_Localized": "《漫威：瞬戰超能》",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 176767611696046080,
+      "m_Localized": "領取你的獎勵！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 176767862720946176,
+      "m_Localized": "https://braze-images.com/appboy/communication/assets/image_assets/images/637c0c95514503623f157d82/original.png?1669074069",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 176767726921965568,
+      "m_Localized": "你對《漫威：瞬戰超能》的支持，我們衷心感謝！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 176767924368826368,
+      "m_Localized": "兌換代碼",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 182957560216674304,
+      "m_Localized": "復仇者對決X戰警",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 182957565086261248,
+      "m_Localized": "2024年3月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 182957571176390656,
+      "m_Localized": "開啟新高級賽季通行證，與霍普·桑瑪斯並肩作戰，讓復仇者對決X戰警的終極英雄之戰更加精彩！ ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 184854316785328128,
+      "m_Localized": "你對《漫威：瞬戰超能》的支持，我們衷心感謝！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 184854515725361152,
+      "m_Localized": "https://braze-images.com/appboy/communication/assets/image_assets/images/65668895757281004d6186d2/original.png?1701218453",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 184854564932935680,
+      "m_Localized": "你的獎勵！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 184854636777168896,
+      "m_Localized": "商店獎勵",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 184854713260302336,
+      "m_Localized": "《漫威：瞬戰超能》",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7143694681013174272,
+      "m_Localized": "雷霆特攻隊",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7143694681055117312,
+      "m_Localized": "2024年4月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7143694681055117313,
+      "m_Localized": "開啟新高級賽季通行證，與齊莫男爵聯手智取勁敵！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7155768004235923456,
+      "m_Localized": "時空瞬閃",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7155768004567273472,
+      "m_Localized": "2024年5月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 214941542428696576,
+      "m_Localized": "https://braze-images.com/appboy/communication/assets/image_assets/images/637c0c95514503623f157d82/original.png?1669074069",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 214941046963953664,
+      "m_Localized": "十分感謝你的支持與理解！請收下這份補償小禮。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 214941547239563264,
+      "m_Localized": "領取你的補償",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 214941549743562752,
+      "m_Localized": "補償",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 214941552247562240,
+      "m_Localized": "《漫威：瞬戰超能》",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7163976916101558272,
+      "m_Localized": "天神族究極造物",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7163976916139307008,
+      "m_Localized": "2024年6月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7163976916139307009,
+      "m_Localized": "開啟新高級賽季通行證，攜手永恆族最強壯的戰士吉爾伽美什，在戰場上大殺四方！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7155768004567273473,
+      "m_Localized": "開啟新高級賽季通行證，與閃爍一同勇闖令人眼花撩亂的多元宇宙！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7176996011006332928,
+      "m_Localized": "渾身解數",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7176996011060858880,
+      "m_Localized": "2024年7月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7176996011060858881,
+      "m_Localized": "開啟新高級賽季通行證，與關死侍一起擔綱主演，展現迷人風采！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 230410088759681024,
+      "m_Localized": "渾身解數",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 230410088759681025,
+      "m_Localized": "2024年7月",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 230410088759681026,
+      "m_Localized": "開啟新高級賽季通行證，與關死侍一起擔綱主演，展現迷人風采！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 0,
+        "type": {
+          "class": "SmartFormatTag",
+          "ns": "UnityEngine.Localization.Metadata",
+          "asm": "Unity.Localization"
+        },
+        "data": {}
+      }
+    ]
+  }
+}

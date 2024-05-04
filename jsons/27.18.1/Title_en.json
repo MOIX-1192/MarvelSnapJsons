@@ -1,0 +1,2737 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2378050947708348859
+  },
+  "m_Name": "Title_en",
+  "m_LocaleId": {
+    "m_Code": "en"
+  },
+  "m_SharedData": {
+    "m_FileID": 2,
+    "m_PathID": -1127315274807837105
+  },
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_TableData": [
+    {
+      "m_Id": 6516358601760770,
+      "m_Localized": "Survived Thanos",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6516358601760769,
+      "m_Localized": "AKA \"The Boss\"",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6516358601760768,
+      "m_Localized": "Est. 2022",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070082,
+      "m_Localized": "Beaten But Not Fully Dead",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070083,
+      "m_Localized": "Always Snaps",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070084,
+      "m_Localized": "Bronze Rank Pride",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070085,
+      "m_Localized": "Foils Only",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070086,
+      "m_Localized": "Built Like A Truck",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070087,
+      "m_Localized": "Met Nick Fury Once",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070088,
+      "m_Localized": "Part-Time Avenger",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070089,
+      "m_Localized": "Definitely Not Ultron",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070090,
+      "m_Localized": "Gooey Yet Firm",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070091,
+      "m_Localized": "Mostly In Control",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070092,
+      "m_Localized": "At Least I Used to Be",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070093,
+      "m_Localized": "As Performed By Dazzler",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070094,
+      "m_Localized": "Yes, All 24oz",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070095,
+      "m_Localized": "Absolute Garbage",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070096,
+      "m_Localized": "Bit Smelly But Otherwise Fine",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070097,
+      "m_Localized": "Or is it?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070098,
+      "m_Localized": "Lethal Protector",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070099,
+      "m_Localized": "Friendly Neighbor",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070100,
+      "m_Localized": "Slightly Radioactive",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070101,
+      "m_Localized": "Flippant Flipper",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070102,
+      "m_Localized": "Korg Fan Club",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070103,
+      "m_Localized": "90s was the Best Decade",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070104,
+      "m_Localized": "Object of Ridicule",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070105,
+      "m_Localized": "DO NOT EMOTE",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070106,
+      "m_Localized": "Playing Agatha",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070107,
+      "m_Localized": "Ego = Snap",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070108,
+      "m_Localized": "Flammable, Stay Back",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070109,
+      "m_Localized": "Do You Even Lift, Bro",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070110,
+      "m_Localized": "Extra Crunchy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070111,
+      "m_Localized": "This Is My Full-Time Job",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070112,
+      "m_Localized": "If You Snap I Slap",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070113,
+      "m_Localized": "Got a Bad Feeling About This",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070114,
+      "m_Localized": "Ego, Take The Wheel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070115,
+      "m_Localized": "Thanos Was Right",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070116,
+      "m_Localized": "Embarrassment To My Family",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070117,
+      "m_Localized": "Introverted",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070118,
+      "m_Localized": "Capable of Greatness, Perhaps",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070119,
+      "m_Localized": "Yes, Why Do You Ask",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070120,
+      "m_Localized": "The One and Only",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070121,
+      "m_Localized": "The Fourth",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070122,
+      "m_Localized": "Never Lucky",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070123,
+      "m_Localized": "This Matchmaking Sucks",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070124,
+      "m_Localized": "This Is My First Game, Go Easy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070125,
+      "m_Localized": "Can Lift Mjolnir",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070126,
+      "m_Localized": "Horrible, But Not In THAT Way",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070127,
+      "m_Localized": "Fragrant",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070128,
+      "m_Localized": "Mom Said This Is My Last Game",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070129,
+      "m_Localized": "I Whine On The Internet",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070130,
+      "m_Localized": "If I Lose, Do Not Take Credit",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070131,
+      "m_Localized": "I'm Sorry It Has Come to This",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070132,
+      "m_Localized": "Your Old Nemesis",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070133,
+      "m_Localized": "I'm Outside Your House",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070134,
+      "m_Localized": "Should Really Drink More Water",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070135,
+      "m_Localized": "\"Working\" From Home",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070136,
+      "m_Localized": "I Am On The Toilet",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070137,
+      "m_Localized": "I Don't Have A Title I Like Yet",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070138,
+      "m_Localized": "All Rights Reserved",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070139,
+      "m_Localized": "HEY. Calm Down",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070140,
+      "m_Localized": "My Child Is An Honor Student",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070141,
+      "m_Localized": "Evil Twin",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070142,
+      "m_Localized": "But Not The Real One",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070143,
+      "m_Localized": "Ballin' Out Of Control",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070144,
+      "m_Localized": "From The Top Rope",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070145,
+      "m_Localized": "Is Bringing The Thunder",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070146,
+      "m_Localized": "Yoghurt, Son",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070147,
+      "m_Localized": "Cool Cool Cool",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070148,
+      "m_Localized": "Rapidly Decomposing",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070149,
+      "m_Localized": "Rhymes With Orange",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070150,
+      "m_Localized": "Professor X's Best Friend",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070151,
+      "m_Localized": "Top Chef",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070152,
+      "m_Localized": "Most Juicy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070153,
+      "m_Localized": "Lumberjack Extraordinaire",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070154,
+      "m_Localized": "Really Really Hot",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070155,
+      "m_Localized": "I Got Dem Variants",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6515935409070156,
+      "m_Localized": "I Survived Nexus Events",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20277813935333376,
+      "m_Localized": "A Bit Of A Scientist",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20277813939527680,
+      "m_Localized": "Herald Of Galactus",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20277813939527681,
+      "m_Localized": "Herald Of Goose",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20277813939527682,
+      "m_Localized": "That's No Moon!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20277813939527683,
+      "m_Localized": "The Silver Couch Surfer",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20277813939527684,
+      "m_Localized": "I Will Spare Your Puny Planet",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20277813939527685,
+      "m_Localized": "Not a Puny Mortal!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20277813939527686,
+      "m_Localized": "Insatiable Hunger (For Tacos)",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20277813939527687,
+      "m_Localized": "Cosmic Is My Stage Name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20277813939527688,
+      "m_Localized": "Rider Of The Silver Scooter",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20277813939527689,
+      "m_Localized": "Don't Worry I Don't Bite",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20277813939527690,
+      "m_Localized": "Beware Of Dog",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20277813943721984,
+      "m_Localized": "Zabu, No, Bad Kitty",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20277813943721985,
+      "m_Localized": "Why Yes, That Is A Loincloth",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20277813943721986,
+      "m_Localized": "Raised By Wolves",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20277813943721987,
+      "m_Localized": "Technically Not Tarzan",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20277813943721988,
+      "m_Localized": "Really Really Dirty",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20277813943721989,
+      "m_Localized": "My Other Ride Is An Ant",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20277813943721990,
+      "m_Localized": "Ant-Man Could've Killed Thanos",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20277813943721991,
+      "m_Localized": "Honey, I Shrunk The Heroes",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20277813943721992,
+      "m_Localized": "Couple Cubes Short Of A Rank",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20277813943721993,
+      "m_Localized": "Please Do Not Step on Me",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20277813943721994,
+      "m_Localized": "Just Excited To Be Here",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20277813943721995,
+      "m_Localized": "Tacos After This?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20277813943721996,
+      "m_Localized": "The Conqueror",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20277813943721997,
+      "m_Localized": "Have I Defeated You Before?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137749835776,
+      "m_Localized": "This Could Have Been an Email",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224384,
+      "m_Localized": "What Is This? Wizard Poker?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224385,
+      "m_Localized": "Anyone Seen My Brain?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224386,
+      "m_Localized": "Hold My Root Beer",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224387,
+      "m_Localized": "I Am Streaming This LIVE",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224388,
+      "m_Localized": "This Is Important To Me",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224389,
+      "m_Localized": "I Have Been Allotted This Win",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224390,
+      "m_Localized": "Coffee Coffee Coffee Coffee",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224391,
+      "m_Localized": "If You Win, You Ruin My Day",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224392,
+      "m_Localized": "Currently Procrastinating",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224393,
+      "m_Localized": "ACTUALLY LIVID",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224394,
+      "m_Localized": "As Seen On TV",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224395,
+      "m_Localized": "The Tank",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224396,
+      "m_Localized": "Foolish Mortal",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224397,
+      "m_Localized": "Guardian Of The Galaxy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224398,
+      "m_Localized": "Honorary Avenger",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224399,
+      "m_Localized": "Eatin' Schwarma",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224400,
+      "m_Localized": "100% Beef",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224401,
+      "m_Localized": "Mistakes Were Made",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224402,
+      "m_Localized": "I'm An Influencer",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224403,
+      "m_Localized": "Follow Me On Twitter",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224404,
+      "m_Localized": "Kind Of A Jerk",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224405,
+      "m_Localized": "I'm With Magneto",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224406,
+      "m_Localized": "Arm-Wrestling Champion",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224407,
+      "m_Localized": "Happy Holidays!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224408,
+      "m_Localized": "Happy Halloween!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224409,
+      "m_Localized": "It's My Birthday",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224410,
+      "m_Localized": "And The Funky Bunch",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224411,
+      "m_Localized": "PANTS",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224412,
+      "m_Localized": "Ten Tons Of Raw Fury",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224413,
+      "m_Localized": "Here Comes A Fastball Special",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224414,
+      "m_Localized": "My CL Is Higher Than Yours",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224416,
+      "m_Localized": "I'm In The Discord",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224417,
+      "m_Localized": "Snap On Turn 1 Or No Guts",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224418,
+      "m_Localized": "I'm A Computer, Actually",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224419,
+      "m_Localized": "Turn 6 I Do Nothing",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33427137758224420,
+      "m_Localized": "May The Worst Player Win",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33957153210359808,
+      "m_Localized": "Sometimes Fortunate",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33957153218748416,
+      "m_Localized": "Be My Valentine",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33957153218748417,
+      "m_Localized": "Whasssssuuuup",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33957153218748418,
+      "m_Localized": "Ho Ho Ho!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33957153218748419,
+      "m_Localized": "Holly And Also Jolly",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33957153218748420,
+      "m_Localized": "'Tis The Season... To Lose",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33957153218748421,
+      "m_Localized": "On The Naughty List",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33957153218748422,
+      "m_Localized": "The Weather Here Sucks",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33957153218748423,
+      "m_Localized": "My Gift To You Is Green Goblin",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33957153218748424,
+      "m_Localized": "Happy New Year!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33957153218748425,
+      "m_Localized": "For I'm A Jolly Good Player",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33957153218748426,
+      "m_Localized": "My Resolution Is To Beat You",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33957153218748427,
+      "m_Localized": "The Gift That Keeps On Giving",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33957153218748428,
+      "m_Localized": "I Got a Rock",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358165573632,
+      "m_Localized": "In The Future, I Win",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962240,
+      "m_Localized": "Wolverine Is My Spirit Animal",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962241,
+      "m_Localized": "Sentinels Need Love Too",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962242,
+      "m_Localized": "The Apocalypse Sucks",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962243,
+      "m_Localized": "Guess Who's Back?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962244,
+      "m_Localized": "Please Rub My Belly",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962245,
+      "m_Localized": "Who's A Good Boy?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962246,
+      "m_Localized": "Not Potty Trained",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962247,
+      "m_Localized": "Fleas Have ME",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962248,
+      "m_Localized": "Unleashed",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962249,
+      "m_Localized": "Let The Dogs Out",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962250,
+      "m_Localized": "Food Motivated",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962251,
+      "m_Localized": "Hypoallergenic",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962252,
+      "m_Localized": "Beware Of ME",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962253,
+      "m_Localized": "Marking Your Deck",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962254,
+      "m_Localized": "Will Snap For Treats",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962255,
+      "m_Localized": "Cold Blooded",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962256,
+      "m_Localized": "On Reveal: You Lose",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962258,
+      "m_Localized": "I Love You",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962259,
+      "m_Localized": "Are You... My Soulmate?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 44512681040797696,
+      "m_Localized": "Happy Lunar New Year!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962260,
+      "m_Localized": "IYKYK",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962261,
+      "m_Localized": "I’m Here For This",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962262,
+      "m_Localized": "Poor, Unfortunate Soul",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962263,
+      "m_Localized": "Isn't Sus",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962264,
+      "m_Localized": "Merc With A Mouth",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962265,
+      "m_Localized": "Did You Say Chimichanga?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962266,
+      "m_Localized": "Not Very Good",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962267,
+      "m_Localized": "Steam Powered",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962268,
+      "m_Localized": "Fully Leatherclad",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46079358173962269,
+      "m_Localized": "The Goggles Do Nothing!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48579709888356352,
+      "m_Localized": "Of The Year",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58650953706889216,
+      "m_Localized": "Cats Rule",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58650953711083520,
+      "m_Localized": "Dogs Rule",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58650953711083521,
+      "m_Localized": "80's Child",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58650953711083522,
+      "m_Localized": "Legendary Outlaw",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58650953711083523,
+      "m_Localized": "Green And Also Mean",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58650953711083524,
+      "m_Localized": "Don't Call Me A Raccoon",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58650953711083525,
+      "m_Localized": "Is Awesome",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58650953711083526,
+      "m_Localized": "Biggest Idiot In The Galaxy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58650953711083527,
+      "m_Localized": "I Am Groot",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58650953711083528,
+      "m_Localized": "Speaks Groot",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58650953711083529,
+      "m_Localized": "GOTY Edition",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58650953711083530,
+      "m_Localized": "Of The Galaxy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58650953711083531,
+      "m_Localized": "Bring Back Glam Rock",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58650953711083532,
+      "m_Localized": "... Who?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58650953711083533,
+      "m_Localized": "Bought The Bundle",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438784,
+      "m_Localized": "Purveyor of Fine Shellackings",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438785,
+      "m_Localized": "Frame Break Fanatic",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438786,
+      "m_Localized": "Doop Cosplayer",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438787,
+      "m_Localized": "At Some Boring Funeral",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438788,
+      "m_Localized": "1% Battery Rn",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438789,
+      "m_Localized": "You Retreat, I'll Follow",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438790,
+      "m_Localized": "This Dating App Blows",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438791,
+      "m_Localized": "My Abs Have An On-Reveal Effect",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438792,
+      "m_Localized": "Quick, Gotta Land This Plane",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438793,
+      "m_Localized": "Seen Decks I Can't Unsee",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438794,
+      "m_Localized": "Do Not Fist-Bump Wolverine",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438795,
+      "m_Localized": "Thiccture Perfect",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438796,
+      "m_Localized": "Accepting Belly Rubs",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438797,
+      "m_Localized": "Your Cubes. Give Them To Me",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438799,
+      "m_Localized": "Sleep Is For Low Ranks",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438800,
+      "m_Localized": "Ignore The Film Crew",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438801,
+      "m_Localized": "Bite Force: 5,000psi",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438802,
+      "m_Localized": "SVP Sales, Midwest",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438804,
+      "m_Localized": "Service Gamer, DO NOT PET",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438805,
+      "m_Localized": "Oozing With Flavor",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438806,
+      "m_Localized": "Groot's Chiropractor",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438807,
+      "m_Localized": "Perma-Ban Inevitable",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438809,
+      "m_Localized": "I Call My Teeth The Fantastic Four",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438812,
+      "m_Localized": "Foaming At The Thumb",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438813,
+      "m_Localized": "SFX Up, No Earbuds, Come At Me",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438814,
+      "m_Localized": "Thwip! Get Webbed",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438815,
+      "m_Localized": "My Spider Bites Just Itch",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438816,
+      "m_Localized": "Stuck In Spidey-Landing Pose",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438817,
+      "m_Localized": "Must Dry Clean Galactus Suit",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438818,
+      "m_Localized": "Born In The Wrong Spider-Verse",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514168438819,
+      "m_Localized": "World's Greatest Uncle Aaron",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514172633088,
+      "m_Localized": "Most Spandexcellent",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514172633089,
+      "m_Localized": "Daily Bugle Is Real News",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514172633090,
+      "m_Localized": "I Kid, Arachnid",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78626514172633091,
+      "m_Localized": "This Device Is My Symbiote",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951052525568,
+      "m_Localized": "Is Inevitable",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914176,
+      "m_Localized": "Can Do This All Day",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914177,
+      "m_Localized": "The Best There Is At What I Do",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914178,
+      "m_Localized": "Has A Hulk",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914179,
+      "m_Localized": "And I Killed Sparky, Too!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914180,
+      "m_Localized": "My Secret: I'm Always Angry",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914181,
+      "m_Localized": "On Your Left",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914182,
+      "m_Localized": "Taking Out The Trash",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914183,
+      "m_Localized": "Activating Instant Kill",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914184,
+      "m_Localized": "Is Being Reasonable",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914185,
+      "m_Localized": "Puny God",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914187,
+      "m_Localized": "Ack! Turn Around! No Pants!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914188,
+      "m_Localized": "I Nap Between Turns",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914189,
+      "m_Localized": "Using My Degree, Yep",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914190,
+      "m_Localized": "Horoscope Said Hulk On 6",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914191,
+      "m_Localized": "I Am Having Fun",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914192,
+      "m_Localized": "Prom?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914193,
+      "m_Localized": "[downward slide whistle]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914194,
+      "m_Localized": "Empire State U. Dropout",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914195,
+      "m_Localized": "Random? No, I Asked For You",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914196,
+      "m_Localized": "Cried Off All My Yondu Makeup",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914197,
+      "m_Localized": "Huskier Than Thou",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914198,
+      "m_Localized": "Buttery With Notes Of Oak",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914199,
+      "m_Localized": "Wah Wah Wah! Wet Diapee!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914200,
+      "m_Localized": "Flat Earth-616er",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914201,
+      "m_Localized": "Collection Level > Bank Balance",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914202,
+      "m_Localized": "Fast Upgrade My Life Plz",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914203,
+      "m_Localized": "Stunning Avatar. Dior?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914204,
+      "m_Localized": "Don't Text And Drive And Snap",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914205,
+      "m_Localized": "Spider-Man Theme Is My Karaoke Song",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914206,
+      "m_Localized": "Do You Even Ram, Beau",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914207,
+      "m_Localized": "Shampoo Scent: Terrigen Mist",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914208,
+      "m_Localized": "Shirt S, Sleeves XXXXXL",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914209,
+      "m_Localized": "Wish My Scarf Did That",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914210,
+      "m_Localized": "Bruno Makes Me Swoono",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914211,
+      "m_Localized": "Go Scoop The Flerken Box",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914212,
+      "m_Localized": "Waiting For Goose Movie",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914213,
+      "m_Localized": "Let's Get Kree-Zayyy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914214,
+      "m_Localized": "Fine, I'll Start My Own Avengers",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914215,
+      "m_Localized": "Real Me's Stuck In A Phoenix Egg",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914216,
+      "m_Localized": "Omega-Level Weakling",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914217,
+      "m_Localized": "White-Hot Room, $850/mo, No Pets",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914218,
+      "m_Localized": "Telekenetic Dumpling Crimper",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914220,
+      "m_Localized": "Your Average Blazing Space Bird",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914221,
+      "m_Localized": "Also In X-Men Love Triangle",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914222,
+      "m_Localized": "Willing Host, Hit Me Up Phoenix",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914223,
+      "m_Localized": "Professor X's Barber",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88736951060914224,
+      "m_Localized": "Use Your Inside Psionics, Dear",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482582876160,
+      "m_Localized": "Irresponsibly Caffeinated",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070464,
+      "m_Localized": "Digital Detox Going Great",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070465,
+      "m_Localized": "Never Forget Our Time Together",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070466,
+      "m_Localized": "Newly Housebroken",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070467,
+      "m_Localized": "Tattoo Artist Heard 'Cider-Man'",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070470,
+      "m_Localized": "Gaming Chair's Putting In Work",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070471,
+      "m_Localized": "Posture Like A Candy Cane",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070472,
+      "m_Localized": "Ewww, Words To Read",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070473,
+      "m_Localized": "Available For Corporate Events",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070474,
+      "m_Localized": "Asleep Since '43, What'd I Miss?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070475,
+      "m_Localized": "Cellmate Says Hi",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070476,
+      "m_Localized": "Also My DJ Name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070477,
+      "m_Localized": "Lowkey Loki Lookalike",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070478,
+      "m_Localized": "Respect The Shoulder Pads",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070479,
+      "m_Localized": "Shakespeare Of Dark Elf Fanfic",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070480,
+      "m_Localized": "Stay Bifrosty",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070481,
+      "m_Localized": "In Other Timelines I'm Dateable",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070482,
+      "m_Localized": "Odin's Least Favorite Stepchild",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070483,
+      "m_Localized": "No Ring Toss On The Headgear",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070484,
+      "m_Localized": "My Roommate Is The Alioth",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070485,
+      "m_Localized": "Humongous Throg Stan",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070486,
+      "m_Localized": "Knockoff Tesseract Dealer",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070488,
+      "m_Localized": "Uni-Mind! All Invited! Except You",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070489,
+      "m_Localized": "Emerging Any Day Now",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070490,
+      "m_Localized": "Mahd Wy'Ry In The Membrane",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070491,
+      "m_Localized": "Big 'Ol Puddle Of Gilgamush",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070492,
+      "m_Localized": "Caution: Student Domo Driver",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070493,
+      "m_Localized": "You're Standing On Tiamut",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070494,
+      "m_Localized": "Ensemble Cast Or I'm Out",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070495,
+      "m_Localized": "Judging You Like A Host Planet",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070496,
+      "m_Localized": "Immortal 'Til Proven Otherwise",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070497,
+      "m_Localized": "Blood Type: Delicious",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070498,
+      "m_Localized": "Nocturnal Lycanthropist",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070499,
+      "m_Localized": "Future Mrs. Man-Thing",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070500,
+      "m_Localized": "Nightstalking From Home",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070501,
+      "m_Localized": "You Gonna Finish That Neck?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070502,
+      "m_Localized": "My Coffin Has Air-Con",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070503,
+      "m_Localized": "Two Stakes, On The House",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070504,
+      "m_Localized": "But Does Your Chain Do THIS?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070505,
+      "m_Localized": "TSA Took My Soulsword",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070506,
+      "m_Localized": "Only Goth On The Swim Team",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070507,
+      "m_Localized": "Substitute Sensei",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070508,
+      "m_Localized": "Lady Deathstrike's Nail Filer",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070509,
+      "m_Localized": "Trigger Scent: Nachos",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070510,
+      "m_Localized": "Should Not Be Handling Katana",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070512,
+      "m_Localized": "Sore Loser-Chan",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070513,
+      "m_Localized": "Frozen Mid-Dragon Morph",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070514,
+      "m_Localized": "Loosely Related To Wolverine",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97097482587070515,
+      "m_Localized": "Uwu, Pym Particles!! Kawaii!!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683947212800,
+      "m_Localized": "Whoa. Smell This.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683951407106,
+      "m_Localized": "So Many Red Flags",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683951407107,
+      "m_Localized": "Thermonuclear Crybaby",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601408,
+      "m_Localized": "Keeping It Ongoing",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601415,
+      "m_Localized": "No Earrings Near Magneto",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601418,
+      "m_Localized": "Groot's Plus One",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601419,
+      "m_Localized": "Snappy Dresser",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601422,
+      "m_Localized": "Sixth Member Of The Five",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601423,
+      "m_Localized": "Casual Tank Tosser",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601424,
+      "m_Localized": "Manual Shirt Ripper",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601425,
+      "m_Localized": "Your Name Enrages Me",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601429,
+      "m_Localized": "Easily Hulked",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601433,
+      "m_Localized": "Saving My Cubes For Retirement",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601441,
+      "m_Localized": "Overdue For An 8-Cuber",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601450,
+      "m_Localized": "Brain Out. Leave Message?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601460,
+      "m_Localized": "Craving A Glaiving",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601461,
+      "m_Localized": "Vacationing On Knowhere",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601463,
+      "m_Localized": "Like Ebony Maw But Wrinklier",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601465,
+      "m_Localized": "Loyal Henchperson",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601466,
+      "m_Localized": "Seen My Q-Ship Keys?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601480,
+      "m_Localized": "Yo Muscles, Open This Jar?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601482,
+      "m_Localized": "Join Me And We'll Reign Forever",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601486,
+      "m_Localized": "On Team Both-Teams",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601488,
+      "m_Localized": "Brawling Since '63",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601489,
+      "m_Localized": "Convinced To Be Born",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601490,
+      "m_Localized": "Certified Unit",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601491,
+      "m_Localized": "Never Gonna Give Hope Up",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601495,
+      "m_Localized": "Wayward Gifted Youngster",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601496,
+      "m_Localized": "Mighty, Morphin'",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601497,
+      "m_Localized": "Teleport Me To Friday",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601498,
+      "m_Localized": "Superhuman Friend Maker",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601499,
+      "m_Localized": "Omega Level Buffet Threat",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601502,
+      "m_Localized": "Hands Off The Tallus",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137722683955601505,
+      "m_Localized": "Lost Track Of The Multiverses",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 183667695159336976,
+      "m_Localized": "Not Not A Duck",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 183667695159336981,
+      "m_Localized": "My Alias Has An Alias",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 183667695159336983,
+      "m_Localized": "Master Of Tasks",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 183667695159336984,
+      "m_Localized": "Playing Pretend Hero",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 183667695159336988,
+      "m_Localized": "Pour One Out For Zemo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 183667695159336989,
+      "m_Localized": "What'll It Be? Extreme Or Brutal",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 183667695159336990,
+      "m_Localized": "Not a Wolf",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 183667695159336991,
+      "m_Localized": "Not a Werewolf",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 198529387592671232,
+      "m_Localized": "Welcome Home",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7178256615701995520,
+      "m_Localized": "Opponent Of The Month",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 213816744445206529,
+      "m_Localized": "Nice Fourth Wall Ya Got There",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 213816744445206530,
+      "m_Localized": "Who Writes This Garbage?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 213816744445206531,
+      "m_Localized": "POOF! No More Head Wound",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 213816744445206534,
+      "m_Localized": "All Taco Sales Final",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 213816744445206536,
+      "m_Localized": "Masked For Your Safety",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 213816744445206539,
+      "m_Localized": "Pizza Time!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 213816744445206571,
+      "m_Localized": "Can't Vote, Can Save Universe",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 213816744445206574,
+      "m_Localized": "Bigger Hawkeye Fan Than You",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 213816744445206575,
+      "m_Localized": "Old Enough To Drive Quinjet",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 2,
+    "RefIds": []
+  }
+}
