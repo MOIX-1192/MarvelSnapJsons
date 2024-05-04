@@ -1,0 +1,950 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2378050947708348859
+  },
+  "m_Name": "Mission_zh",
+  "m_LocaleId": {
+    "m_Code": "zh"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": 6558105548395006506
+  },
+  "m_Metadata": {
+    "m_Items": [
+      {
+        "rid": 0
+      }
+    ]
+  },
+  "m_TableData": [
+    {
+      "m_Id": 386714559307776,
+      "m_Localized": "已领取！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 349119146090496,
+      "m_Localized": "完成",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 387376340787200,
+      "m_Localized": "已完成：",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54071623933952,
+      "m_Localized": "{mission.Hard:<color=orange>困难：</color>|}{mission.Description}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 8448786817024,
+      "m_Localized": "获取强化套组",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13809841332224,
+      "m_Localized": "完成每日挑战",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36275478528,
+      "m_Localized": "完成{RequiredProgress:1个每日任务|每日任务}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 6720230252544,
+      "m_Localized": "完成{RequiredProgress:1个困难每日任务|困难每日任务}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 6626307203072,
+      "m_Localized": "完整完成一个每周挑战",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8686662574080,
+      "m_Localized": "创建一套新卡组",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2925173661696,
+      "m_Localized": "摧毁卡牌",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2182546972672,
+      "m_Localized": "丢弃卡牌",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1774416027648,
+      "m_Localized": "抽卡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4693064409088,
+      "m_Localized": "获取收藏等级",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6344743575552,
+      "m_Localized": "完成所有{RequiredProgress}个第{ChapterIndex}章节的任务",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 3005813350400,
+      "m_Localized": "移动卡牌",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1821039910912,
+      "m_Localized": "放置卡牌",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1895694327808,
+      "m_Localized": "放置能量消耗为{CardCost}的卡牌",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 3979353251840,
+      "m_Localized": "进行一场对战",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8736427991040,
+      "m_Localized": "使用新卡组进行一场对战",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2018826510336,
+      "m_Localized": "放置持续卡牌",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2115530383360,
+      "m_Localized": "放置揭示卡牌",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3056237273088,
+      "m_Localized": "所放置的卡牌总战力达到{RequiredProgress}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 4744763400192,
+      "m_Localized": "收藏等级达到{RequiredProgress}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 4963278249984,
+      "m_Localized": "解锁一张新卡牌",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4836752875520,
+      "m_Localized": "升级一张卡牌",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4910249664512,
+      "m_Localized": "将一张卡牌升级至稀有或更高",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13752740077568,
+      "m_Localized": "赢下区域",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3186344583168,
+      "m_Localized": "使用{CardCount:{CardCount}张卡牌|{CardCount}张卡牌}赢下一个区域",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 3752219107328,
+      "m_Localized": "用{HighPower}点或更多战力赢下一个区域",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 3853893230592,
+      "m_Localized": "用{LowPower}点或更少战力赢下一个区域",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 4046973820928,
+      "m_Localized": "赢得对战",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4589444128768,
+      "m_Localized": "在一场对战中赢下全部3个区域",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4405494538240,
+      "m_Localized": "使用SNAP并赢得对战",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4257402052608,
+      "m_Localized": "在卡组中携带了<b>{card.Name}</b>的情况下赢得对战",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 4490794098688,
+      "m_Localized": "让你的对手撤退",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 4131283525632,
+      "m_Localized": "用{TotalPower}或更多战力赢得一场对战",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 394295939948544,
+      "m_Localized": "任务列表为空",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 348822646546432,
+      "m_Localized": "{mission.Flavor}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 9451397439488,
+      "m_Localized": "欢迎来到MARVEL SNAP！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9545203048448,
+      "m_Localized": "进入多元宇宙",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9632452960256,
+      "m_Localized": "哦SNAP！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 9716720721920,
+      "m_Localized": "升级、收藏卡牌可以赚得更多新卡牌",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10049605853184,
+      "m_Localized": "和浪一起浪出天际",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10075946082304,
+      "m_Localized": "和巨鲸兽晒晒太阳",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10089401409536,
+      "m_Localized": "纳摩有了新朋友",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10102173065216,
+      "m_Localized": "科斯莫和海豚的快乐潜泳",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10115171213312,
+      "m_Localized": "索尔：奥丁之子",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10140878102528,
+      "m_Localized": "与希芙女士一起保卫阿斯加德",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10166895370240,
+      "m_Localized": "趁现在还不晚，阻止毁灭者！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10182217162752,
+      "m_Localized": "使用海姆达尔召唤彩虹桥",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10196100308992,
+      "m_Localized": "力道场遭遇战",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10220825731072,
+      "m_Localized": "惩奸除恶",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10233735798784,
+      "m_Localized": "花名侦探所的新案件",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10245404352512,
+      "m_Localized": "良性震动",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10267344756736,
+      "m_Localized": "把这些斯克鲁人赶下我的飞机！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10308541210624,
+      "m_Localized": "你的名字就叫特工？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10394822238208,
+      "m_Localized": "这是套典藏版，我花了好久才集齐。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10407577116672,
+      "m_Localized": "天才，亿万富翁，花花公子，慈善家。\\n我，是钢铁侠",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10419367305216,
+      "m_Localized": "我是迈尔斯·莫拉雷斯，蜘蛛侠。我从未对我的能力如此坚定",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10440011669504,
+      "m_Localized": "从现在开始，蜘蛛女要反击了！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10453039177728,
+      "m_Localized": "还好，我不是唯一的蜘蛛侠",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10467715047424,
+      "m_Localized": "能力越大 责任越大",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10480209879040,
+      "m_Localized": "喝掉那个心形药",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10499763724288,
+      "m_Localized": "创造桥梁 灭除阻隔",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10515718856704,
+      "m_Localized": "为荣耀而战！你的人民需要你",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10528658284544,
+      "m_Localized": "踏入草原 永远奔跑",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 404608580050944,
+      "m_Localized": "你的任务添加数量已经达到今日<color=red>限额</color>。<color=red>{timeCountdown:{timeCountdown}|--时 --分}</color>后再来看看吧！",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 404363284570112,
+      "m_Localized": "你至少需要<color=red>{refreshCount}个空任务栏</color>才能添加任务。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 403361961598976,
+      "m_Localized": "立刻添加",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 416655720046592,
+      "m_Localized": "购买{refreshCount}个新的每日任务？",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 416474056351744,
+      "m_Localized": "购买任务",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 395020279472128,
+      "m_Localized": "{refreshCount}个任务将在{timeCountdown:{timeCountdown}|--时 --分}后添加",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 394604225486848,
+      "m_Localized": "刷新中，请稍候……",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 376889171501056,
+      "m_Localized": "任务",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 353252196474880,
+      "m_Localized": "{mission.season.Title:{mission.season.Title}: |}{mission.Title}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 6519302119424,
+      "m_Localized": "第{ChapterIndex}章",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 346024756371456,
+      "m_Localized": "{mission.UnlockRequirement}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 279673241067520,
+      "m_Localized": "完成所有第{PrevChapterIndex}章的任务",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 280739496058880,
+      "m_Localized": "完成{mission.SubMissionClaimedRequirement}{mission.SubMissionClaimedRequirement:个任务|个任务}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 283551831416832,
+      "m_Localized": "在{timeCountdown:{timeCountdown}|--时 --分}后解锁",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 387330174083072,
+      "m_Localized": "每周挑战",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16301616868089856,
+      "m_Localized": "{numMissions}/{maxMissions}任务",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 17720576700309504,
+      "m_Localized": "<nobr>稍后再来吧，更多精彩任务等着你</nobr>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17719278432043008,
+      "m_Localized": "毒液！毒液！友善的共生体\\n毒液！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20774895577088000,
+      "m_Localized": "银河冲浪手来袭",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20774937524322304,
+      "m_Localized": "飞越太空之路",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20775446788325376,
+      "m_Localized": "吞星的使徒",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20775449019695104,
+      "m_Localized": "感受宇宙能量！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 30842268435865600,
+      "m_Localized": "进入蛮荒之地！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 30842569662390272,
+      "m_Localized": "卡扎尔！当心那棵树！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 30842578160050176,
+      "m_Localized": "如果觉得合适，扎布就会坐下",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 30842582937362432,
+      "m_Localized": "永远不要朝剑齿虎微笑",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 30842586326360064,
+      "m_Localized": "闪电不会击中同一个地方两次",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 32595680299048960,
+      "m_Localized": "任务锁定",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43580401392803840,
+      "m_Localized": "当心这个小家伙！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43580459571994624,
+      "m_Localized": "不要陷入时间漩涡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43580473908125696,
+      "m_Localized": "滞留亚原子星系",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43580488823070720,
+      "m_Localized": "若你能像我这样理解时间，就能看透一切",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56060258190090240,
+      "m_Localized": "变种人，要么投降，要么灭亡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56060263432970240,
+      "m_Localized": "扭转你的思维，回到过去",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56060267480473600,
+      "m_Localized": "拯救参议员，阻止变种人控制法案",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56060273306361856,
+      "m_Localized": "号外号外！哨兵机器人计划已取消",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 68362890334167040,
+      "m_Localized": "猴子大狂欢",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 68362895350554624,
+      "m_Localized": "拒绝再当乖狗狗",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 68362899783933952,
+      "m_Localized": "物种：噬元兽。威胁：高。",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 68362902837387264,
+      "m_Localized": "宠物复仇者，集结！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78415560281415680,
+      "m_Localized": "复仇渴望",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78415567973769216,
+      "m_Localized": "宇宙中最危险的女人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78415571580870656,
+      "m_Localized": "嘿，星爵，那个传奇狂徒！",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78415574231670784,
+      "m_Localized": "是时候面对现实了",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 78415937454202880,
+      "m_Localized": "我们是格鲁特",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88427427292766208,
+      "m_Localized": "我们本该是好人",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88427430593683456,
+      "m_Localized": "指指点点可不太礼貌",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88427434242727936,
+      "m_Localized": "能力越大，责任越大",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 88427436742533120,
+      "m_Localized": "这到底还有多少个蜘蛛侠？",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 0,
+        "type": {
+          "class": "SmartFormatTag",
+          "ns": "UnityEngine.Localization.Metadata",
+          "asm": "Unity.Localization"
+        },
+        "data": {}
+      }
+    ]
+  }
+}
