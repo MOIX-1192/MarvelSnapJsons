@@ -1,0 +1,8868 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2378050947708348859
+  },
+  "m_Name": "UI_en",
+  "m_LocaleId": {
+    "m_Code": "en"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": -8076606306090121177
+  },
+  "m_Metadata": {
+    "m_Items": [
+      {
+        "rid": 0
+      }
+    ]
+  },
+  "m_TableData": [
+    {
+      "m_Id": 20764942336,
+      "m_Localized": "Upgrade this card to <color=#{card.NextRarity.Color}>{card.NextRarity.Name}</color> and gain <color=#8EFF38><sprite name=\"icn_score\" color=#8EFF38>{card.NextRarity.CollectionScoreGranted} Collection Level?</color>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 14444926066688,
+      "m_Localized": "Upgrade",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16351409201152,
+      "m_Localized": "Cancel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1140688375767040,
+      "m_Localized": "{card.Name} Variants",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 5403562627555328,
+      "m_Localized": "{card.Description}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 5417279679356928,
+      "m_Localized": "{location.Name}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 5422668256894976,
+      "m_Localized": "{location.Description}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 5831944406294528,
+      "m_Localized": "Set Deck Avatar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6216103545004032,
+      "m_Localized": "Add to Deck",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6216294834626560,
+      "m_Localized": "Remove from Deck",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6216365064052736,
+      "m_Localized": "Swap in",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6216397880287232,
+      "m_Localized": "No Deck Selected",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6216449780604928,
+      "m_Localized": "Deck Full",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6216699819843584,
+      "m_Localized": "Available in Battle Pass",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6216910642339840,
+      "m_Localized": "Available in the Shop",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6217065256968192,
+      "m_Localized": "Available in the Conquest Shop",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6217158290825216,
+      "m_Localized": "Unlockable via Collection Score Rewards",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6217246115356672,
+      "m_Localized": "Coming soon to Collection Score Rewards",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6217312565714944,
+      "m_Localized": "Card Not Owned",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6219671660388352,
+      "m_Localized": " ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6588931964395520,
+      "m_Localized": "{card.Name}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 7560007397662720,
+      "m_Localized": "{card.ArtVariant.VariantLabel:{card.ArtVariant.VariantLabel} Variant|Variant}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 7653535834431488,
+      "m_Localized": "{surfaceEffect.SurfaceName}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 7691397665644544,
+      "m_Localized": "<color=#54BCFF>INFINITY SPLIT</color>\\nCreate a copy of this card with special mods!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7694274186436608,
+      "m_Localized": "Let's edit\\nyour deck!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7695194697752576,
+      "m_Localized": "Do it!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7695315112026112,
+      "m_Localized": "Not Now",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7695649519689728,
+      "m_Localized": "Back",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7695774203764736,
+      "m_Localized": "New Favorite Set! Swap this Favorite into Decks?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7962467819839488,
+      "m_Localized": "Read More",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8007214303272960,
+      "m_Localized": "Snap News",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8007121382662144,
+      "m_Localized": "News",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8006197096472576,
+      "m_Localized": "Follow us on Social Media",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8006412151021568,
+      "m_Localized": "Watch More",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8006712488353792,
+      "m_Localized": "Videos",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8007338479837184,
+      "m_Localized": "Loading...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8009913128181760,
+      "m_Localized": "REWARDS",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8010069437308928,
+      "m_Localized": "POPULAR",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8010155886108672,
+      "m_Localized": "NEW",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8010249985318912,
+      "m_Localized": "HOT",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8020644540178432,
+      "m_Localized": "Today",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8020668300910592,
+      "m_Localized": "{amount} {amount:Day|Days}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 8020686755848192,
+      "m_Localized": "{amount} {amount:Week|Weeks}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 8020704631971840,
+      "m_Localized": "{amount} {amount:Year|Years}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 8275436214673408,
+      "m_Localized": "Featured Location",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8277916432457728,
+      "m_Localized": "{location.Tip}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 8286674252455936,
+      "m_Localized": "HOT LOCATION!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8286797321723904,
+      "m_Localized": "APPEARS MORE OFTEN!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8291481772089344,
+      "m_Localized": "Game Updates!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8295386425843712,
+      "m_Localized": "Tip of the Day",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8296581131395072,
+      "m_Localized": "Complete them for awesome rewards!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8296869884059648,
+      "m_Localized": "Recruit Missions",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8299615722921984,
+      "m_Localized": "Season Missions",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8359445892423680,
+      "m_Localized": "{season.DateTitle} Season Pass",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 8359720493506560,
+      "m_Localized": "Get Premium!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8360007841079296,
+      "m_Localized": "{season.Title}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 8360371722117120,
+      "m_Localized": "Unlock Premium to earn these exclusive rewards!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10533805495410688,
+      "m_Localized": "Buy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10852722684190720,
+      "m_Localized": "Main",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10853235060367360,
+      "m_Localized": "News",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10853318606708736,
+      "m_Localized": "Season\\nPass",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10853579496611840,
+      "m_Localized": "Collection",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10853935437832192,
+      "m_Localized": "Shop",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11170288955863040,
+      "m_Localized": "Next Turn: <size=130%>{cubeValue}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 11182975634944000,
+      "m_Localized": "MAX",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11183229360975872,
+      "m_Localized": "Final: <size=130%>{cubeValue}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10927025932984320,
+      "m_Localized": "No Thanks",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10901206888079360,
+      "m_Localized": "{timeCountdown:{timeCountdown}|--h --m}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10839674066034688,
+      "m_Localized": "{totalSeconds:cond:>=604800?{weeks}w {days}d|>=86400?{days}d {hours}h|>=3600?{hours}h {minutes}m|{minutes}m {seconds}s}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 10544906664665088,
+      "m_Localized": "VS",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10547052659335168,
+      "m_Localized": "Match",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10547344108937216,
+      "m_Localized": "Searching For Opponent...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10569816090861568,
+      "m_Localized": "Leaving Matchmaking...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10570042742661120,
+      "m_Localized": "Matchmaking...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10570124665806848,
+      "m_Localized": "Matchmaking CHEAT!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10570507010170880,
+      "m_Localized": "Match found!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10570511166726144,
+      "m_Localized": "You are already in a game.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10918358357630976,
+      "m_Localized": "Reconnecting account...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10918562351800320,
+      "m_Localized": "Connecting account...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10918640600735744,
+      "m_Localized": "Joining game...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10918844439715840,
+      "m_Localized": "Waiting for opponent...{remainingSeconds}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 11031385719431168,
+      "m_Localized": "Assembling...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11033436465651712,
+      "m_Localized": "Connecting to game...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11033846400147456,
+      "m_Localized": "Reconnecting to game...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11041589504761856,
+      "m_Localized": "Failed to join game.Error:{errorMessage}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 11052362364870656,
+      "m_Localized": "Match 1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11053474266472448,
+      "m_Localized": "Welcome to",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 11054265127657472,
+      "m_Localized": "Match 2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12683910289809408,
+      "m_Localized": "Accept",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12684225776967680,
+      "m_Localized": "To continue to the game,\\nplease read and confirm the following:",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12684590522032128,
+      "m_Localized": "Welcome to SNAP!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12684808231575552,
+      "m_Localized": "I have read and agree to the\\n<link=\"pubprivacy\"><color=#2785E2><u>{publisher} Privacy Notice</u></color></link> and\\n<link=\"sdprivacy\"><color=#2785E2><u>Second Dinner Privacy Notice</u></color></link>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 12684946291286016,
+      "m_Localized": "I agree to the Marvel Snap\\n<link=\"nvprivacy\"><color=#2785E2><u>Terms of Service</u></color></link>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12685067431174144,
+      "m_Localized": "By continuing, I agree to the Terms of Service and acknowledge reading the Privacy Notices for {publisher} and Second Dinner.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 12685310801469440,
+      "m_Localized": "Month",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12685424525828096,
+      "m_Localized": "Day",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12685555039985664,
+      "m_Localized": "Year",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12685980363382784,
+      "m_Localized": "Continue",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12686790040215552,
+      "m_Localized": "Confirm your birthdate",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12687180500557824,
+      "m_Localized": "Please select your date of birth to continue playing this game.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12688183857766400,
+      "m_Localized": "Jan",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12688246134792192,
+      "m_Localized": "Feb",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12688269492871168,
+      "m_Localized": "Mar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12688295568859136,
+      "m_Localized": "Apr",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12688323188350976,
+      "m_Localized": "May",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12688349264338944,
+      "m_Localized": "Jun",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12688378620272640,
+      "m_Localized": "Jul",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12688455803854848,
+      "m_Localized": "Aug",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12688481200365568,
+      "m_Localized": "Sep",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12688506471047168,
+      "m_Localized": "Nov",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12688533612388352,
+      "m_Localized": "Dec",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12689688883093504,
+      "m_Localized": "Oct",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12692632147845120,
+      "m_Localized": "Confirm your birthyear",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12692862226391040,
+      "m_Localized": "Please select your year of birth to continue playing this game.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12693054107410432,
+      "m_Localized": "Unable to play",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12693149880147968,
+      "m_Localized": "You must be {ageRequirement} years of age or older to play MARVEL SNAP.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 12693427278831616,
+      "m_Localized": "If this is an error, please try again later.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12696170554974208,
+      "m_Localized": "Confirm",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12696265505628160,
+      "m_Localized": "Confirm your age",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12696728972025856,
+      "m_Localized": "We use this information to ensure that our game is played only by our intended audience.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12699754562576384,
+      "m_Localized": "I am {ageRequirement} years old or over",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 12700097363042304,
+      "m_Localized": "I'm under {ageRequirement}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 12700252107694080,
+      "m_Localized": "I'm {ageRequirement} or over",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 12700867219152896,
+      "m_Localized": "How old are you?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12702818447122432,
+      "m_Localized": "Play Game",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12702924483321856,
+      "m_Localized": "Disable Tutorials",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12948669232832512,
+      "m_Localized": "Aw, Snap!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12956090697244672,
+      "m_Localized": "Unable to play due to invalid schema state. If this persists, please contact support.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12957267820273664,
+      "m_Localized": "Support",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12958758819848192,
+      "m_Localized": "Unable to play due to invalid schema state.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12960614975528960,
+      "m_Localized": "Your client is out-of-date. Please download the latest update to continue playing.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12961002906705920,
+      "m_Localized": "Unable to communicate with the game service. Please try again.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12961384542232576,
+      "m_Localized": "Unable to communicate with the login service. Please try again.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12961542591995904,
+      "m_Localized": "Unable to communicate with the login service. If this persists, please contact support.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12961754999939072,
+      "m_Localized": "Unable to communicate with the verification service. Please try again.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12961867361148928,
+      "m_Localized": "Unable to communicate with the game servers. Please check for a game update or try again.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12961977214164992,
+      "m_Localized": "Unable to communicate with the matchmaking service. Please try again.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12983487911944192,
+      "m_Localized": "Unable to play the game.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12983741369540608,
+      "m_Localized": "Unable to login.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12983996584550400,
+      "m_Localized": "Unable to complete the purchase.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12984407227883520,
+      "m_Localized": "Unable to link account.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12984486798024704,
+      "m_Localized": "Unable to sign into account.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12985293224271872,
+      "m_Localized": "Yes",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12985318117466112,
+      "m_Localized": "No",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12998228482973696,
+      "m_Localized": "Quit Game?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12998834757033984,
+      "m_Localized": "Your game ran into a bug and is no longer working. Sorry!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12999132674252800,
+      "m_Localized": "OK",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13000326633218048,
+      "m_Localized": "Account Suspended",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13000391825285120,
+      "m_Localized": "Due to a policy violation, your account has been suspended.\\n\\nIf you think this was done in error, you may submit an appeal.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13000700828049408,
+      "m_Localized": "Appeal",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13000773842493440,
+      "m_Localized": "I want to appeal my suspension.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13001159810736128,
+      "m_Localized": "You have encountered an error and has been reported. Sorry!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13002266935025664,
+      "m_Localized": "Cancel Account Deletion?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13002441636175872,
+      "m_Localized": "A request was made to delete this account. Do you wish to cancel this?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13002699481014272,
+      "m_Localized": "Please wait...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13002731055734784,
+      "m_Localized": "We are processing your request.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13003532499148800,
+      "m_Localized": "Sorry! Your client data doesn't match with the server. Please try again.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13003728662552576,
+      "m_Localized": "There was an error logging out of your account. Please try again.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13003918421254144,
+      "m_Localized": "This is not a GSDK enabled environment.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13004052467015680,
+      "m_Localized": "Failed to link to account. It is already being used by another MARVEL SNAP account.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13007232684777472,
+      "m_Localized": "You are using an unsupported MARVEL SNAP client. Please only install from the Apple App Store/TestFlight or Google Play Store.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13007562596147200,
+      "m_Localized": "There was an error connecting with this account. If this persists, please contact support.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13007741055393792,
+      "m_Localized": "Login cancelled by user or there was an error connecting with this account. If this persists, please contact support.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13009096562171904,
+      "m_Localized": "GSDK Sandbox Enabled",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13009179345149952,
+      "m_Localized": "Please restart to complete sandbox initialization.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13009598465171456,
+      "m_Localized": "Restart",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13009854229635072,
+      "m_Localized": "Sign out of account?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13009911184089088,
+      "m_Localized": "Your progress and purchases will be saved and can be accessed by re-signing in.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13009981497401344,
+      "m_Localized": "This account is not linked to an identity platform. Your progress and purchases will be lost by signing out.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13010034458877952,
+      "m_Localized": "Sign out",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13013093079572480,
+      "m_Localized": "Maybe later",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13013320977080320,
+      "m_Localized": "Protect your account",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13013444906180608,
+      "m_Localized": "Link your account to access it anytime and prevent loss of progress or purchased content.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12686998439505920,
+      "m_Localized": "SNAP!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12689447267119104,
+      "m_Localized": "Win to collect <color=#67B9EDFF>Cosmic Cubes</color>. More Cubes means a higher Rank! <color=#ED6F68>The Cube's power unlocks at Rank 10...</color>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12730567309176832,
+      "m_Localized": "End Turn",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12732091020128256,
+      "m_Localized": "Waiting...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12732368523669504,
+      "m_Localized": "Playing...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12732717493956608,
+      "m_Localized": "Game Over",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12732845684469760,
+      "m_Localized": "End Game",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12732980007055360,
+      "m_Localized": "Continue",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12733141747806208,
+      "m_Localized": "Main Menu",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12733294529523712,
+      "m_Localized": "Collect Rewards",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12733681126912000,
+      "m_Localized": "Battle Ready?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12734161081118720,
+      "m_Localized": "Wait For Opponent",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12734355445166080,
+      "m_Localized": "Accepted",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12734516523216896,
+      "m_Localized": "Conceded",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13323792937725952,
+      "m_Localized": "NEXUS EVENTS",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13334195088470016,
+      "m_Localized": "Open 1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13334477549678592,
+      "m_Localized": "Open 10",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13339103602749440,
+      "m_Localized": "Guaranteed cosmetic or better every 10 Rifts.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13340890355281920,
+      "m_Localized": "Open Rifts for a chance at exclusive rewards!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13048940467367936,
+      "m_Localized": "Retreat",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13050343147483136,
+      "m_Localized": "Concede \\n <size=80%>Battle</size>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13050456100089856,
+      "m_Localized": "Timeout",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13050516200271872,
+      "m_Localized": "Aborted",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13685272895893504,
+      "m_Localized": "Purchase Rifts",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13685543403335680,
+      "m_Localized": "Would you like to buy {quantity} {quantity:Rift|Rifts}?",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 13686675504705536,
+      "m_Localized": "No Thanks",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13686844228972544,
+      "m_Localized": "{goldCost:N0}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 13745252789465088,
+      "m_Localized": "Purchase Failed",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13745476454920192,
+      "m_Localized": "Event is not active.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13745705019322368,
+      "m_Localized": "Purchase limit exceeded.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13745892932530176,
+      "m_Localized": "Insufficient Gold.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13746043327688704,
+      "m_Localized": "Ok",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13746187200704512,
+      "m_Localized": "Something went wrong, try again later.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13676700247252992,
+      "m_Localized": "Additional background download is required.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13676939628765184,
+      "m_Localized": "To continue playing, you will download ~500MB and an additional 1.9GB if you continue to play and collect all assets. You may want to use a Wi-Fi connection for best performance.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13677209842606080,
+      "m_Localized": "No problem!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13677703654793216,
+      "m_Localized": "Download and play whenever you're ready.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13677899742699520,
+      "m_Localized": "Download",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13677994617856000,
+      "m_Localized": "Wait",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13697553592737792,
+      "m_Localized": "Sign in with Apple",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13697744639090688,
+      "m_Localized": "Sign in with Google",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12606608733188096,
+      "m_Localized": "{season.Title} Ranked Rewards",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 13014105071628288,
+      "m_Localized": "Play 10 games this Season and unlock these ranked rewards!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13039604707700736,
+      "m_Localized": "{tier.Name}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 13303505726812160,
+      "m_Localized": "Recruit",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13303505739395072,
+      "m_Localized": "Agent",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13303505739395073,
+      "m_Localized": "Iron",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13303505739395074,
+      "m_Localized": "Bronze",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13303505739395075,
+      "m_Localized": "Silver",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13303505739395076,
+      "m_Localized": "Gold",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13303505739395077,
+      "m_Localized": "Platinum",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13303505739395078,
+      "m_Localized": "Diamond",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13303505739395079,
+      "m_Localized": "Vibranium",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13303505739395080,
+      "m_Localized": "Omega",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13303505739395081,
+      "m_Localized": "Galactic",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13303505739395082,
+      "m_Localized": "Infinite",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13715359043465216,
+      "m_Localized": "Retreat Later*",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13715559795437568,
+      "m_Localized": "Waiting to see if Opponent will retreat...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13715762652950528,
+      "m_Localized": "Retreat from the Match?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13716647332327424,
+      "m_Localized": "Retreat Now",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13716803112972288,
+      "m_Localized": "*Tie if opponent also retreats",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13759934163312640,
+      "m_Localized": "Auto",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13760029218824192,
+      "m_Localized": "30 FPS",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13760100152893440,
+      "m_Localized": "60 FPS",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13761692897894400,
+      "m_Localized": "Player Support",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13762009051947008,
+      "m_Localized": "Download All Assets",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13762091818147840,
+      "m_Localized": "Toggle FPS",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13762796343779328,
+      "m_Localized": "Privacy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13762872562671616,
+      "m_Localized": "Quit to Desktop",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13762968696119296,
+      "m_Localized": "Report a Bug",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13763056298352640,
+      "m_Localized": "Terms of Service",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13763210011205632,
+      "m_Localized": "Sign out",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13763295088467968,
+      "m_Localized": "How To Play",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13763550840348672,
+      "m_Localized": "High",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13763618586746880,
+      "m_Localized": "Medium",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13763686526083072,
+      "m_Localized": "Low",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13763786715422720,
+      "m_Localized": "Settings",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13763842101207040,
+      "m_Localized": "Delete Account",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13765152502439936,
+      "m_Localized": "Haptics",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13765235893592064,
+      "m_Localized": "Fullscreen",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13725999405510656,
+      "m_Localized": "Discarded: ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13726194562281472,
+      "m_Localized": "Destroyed: ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13726370001629184,
+      "m_Localized": "Deck: ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13726501765689344,
+      "m_Localized": "Hand: ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13726821023526912,
+      "m_Localized": "Mute",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13727042063347712,
+      "m_Localized": "Settings",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13727170966892544,
+      "m_Localized": "Report User",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13794210309201920,
+      "m_Localized": "Go to your collection!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13794418237628416,
+      "m_Localized": "This card is \\nSO ready.\\nSo so ready.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13795342620286976,
+      "m_Localized": "Let's Upgrade!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13795868397264896,
+      "m_Localized": "tap",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13796157103792128,
+      "m_Localized": "Upgrading",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13796395931656192,
+      "m_Localized": "Your Cards!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13796627708895232,
+      "m_Localized": "Use Boosters to upgrade a card!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13796817660534784,
+      "m_Localized": "Claim your reward!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13797269559042048,
+      "m_Localized": "Keep upgrading cards to unlock new cards!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13797470537506816,
+      "m_Localized": "Pop open\\nyour deck!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13797709281484800,
+      "m_Localized": "Your new card\\nis <color=yellow>GREAT</color>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13797894397091840,
+      "m_Localized": "Replace Shocker!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13798089570639872,
+      "m_Localized": "Add this card!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13798450498887680,
+      "m_Localized": "Edit your\\ndeck here!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13798637975887872,
+      "m_Localized": "Your deck is incredible.\\nGo dominate!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13805222768926720,
+      "m_Localized": "<color=purple>Sentinel</color> is waiting in your collection",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13835452913016832,
+      "m_Localized": "Congrats on <color=yellow>Iron</color> Rank! Enjoy some free bonus Ranks!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13835765652905984,
+      "m_Localized": "Starting in <color=yellow>Iron</color>, you can <color=red>lose</color> Ranks.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13836262308831232,
+      "m_Localized": "<color=yellow>Practice</color> Mode! Hone skills, test decks! You won't lose Rank.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13836388850982912,
+      "m_Localized": "<color=yellow>Solo Mode</color>! Play against a computer opponent!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14021420831989760,
+      "m_Localized": "You'll do. As a warm<nobr>-</nobr>up to the\\nreal warm<nobr>-</nobr>up.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14021638214377472,
+      "m_Localized": "Meet the team. Spider<nobr>-</nobr>Man, you're in.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14021714894643200,
+      "m_Localized": "Hi! Just gotta be home by 9.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14022533266268160,
+      "m_Localized": "Let's send Spider<nobr>-</nobr>Man some back<nobr>-</nobr>up.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14022703441764352,
+      "m_Localized": "What are you buttercups cacklin' on about?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14022895452807168,
+      "m_Localized": "Hi! I'm Spider<nobr>-</nobr>Man!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14023379534209024,
+      "m_Localized": "Group photo after this?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14023663232737280,
+      "m_Localized": "Got 'em.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14023825401307136,
+      "m_Localized": "Toy with Doom at your own peril.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14024188716113920,
+      "m_Localized": "Squad's still a little light.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14024436955996160,
+      "m_Localized": "Sorry I'm late. Pilates.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14024605718011904,
+      "m_Localized": "Huh. Would you look at that.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14024798500806656,
+      "m_Localized": "We're low on time. Let's move!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14024930885623808,
+      "m_Localized": "HULK WORTH WAIT!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14025114864574464,
+      "m_Localized": "Next time, I'll try to break a sweat.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14025251485638656,
+      "m_Localized": "<alpha=#ff>Hold 2 out of 3 <alpha=#00>Locations!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14025357765107712,
+      "m_Localized": "<alpha=#ff>Win 2 out of 3 <alpha=#00>Locations!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14025502212743168,
+      "m_Localized": "Upgrade Again!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14025693418479616,
+      "m_Localized": "We like to give stuff away for free",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14025821114064896,
+      "m_Localized": "You dare leave Doom hanging?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14025878085296128,
+      "m_Localized": "You just gonna watch? Move!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14025897672695808,
+      "m_Localized": "Doom gladly accepts more time to plot your demise!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14031003226988544,
+      "m_Localized": "Each card adds <b><color=orange>Power</color></b>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14031188678139904,
+      "m_Localized": "Highest <b><color=orange>Power</color></b> wins!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14031459663732736,
+      "m_Localized": "Drag Spider<nobr>-</nobr>Man to New York!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14031717198192640,
+      "m_Localized": "<alpha=#00>Hold 2 out of 3 <alpha=#ff>Locations!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14031898442457088,
+      "m_Localized": "What's this?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14032004956807168,
+      "m_Localized": "Tap a location to see what it does!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14032143654051840,
+      "m_Localized": "Nice win!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14032259731415040,
+      "m_Localized": "Star<nobr>-</nobr>Lord has a special ability!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14032421707046912,
+      "m_Localized": "Upgrading cards unlocks <color=yellow>new cards</color>!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14032584647368704,
+      "m_Localized": "Let's do it!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14032728918843392,
+      "m_Localized": "Iron Man has a powerful ability!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14032849727381504,
+      "m_Localized": "Visually Upgrade!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14033187603734528,
+      "m_Localized": "Play games to\\n<color=yellow>visually upgrade</color> your cards",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14033332143644672,
+      "m_Localized": "Game Saved",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14033472501833728,
+      "m_Localized": "Tap to Continue",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14033683538239488,
+      "m_Localized": "You still have cards to play!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14033816292155392,
+      "m_Localized": "Tilt cards around to see awesome effects!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14034051106070528,
+      "m_Localized": "Another free upgrade?\\ndang so generous",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14034135092813824,
+      "m_Localized": "Most cards have special abilities!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14034228223139840,
+      "m_Localized": "Add to deck!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14034456141619200,
+      "m_Localized": "Press the End Turn button",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14034572508389376,
+      "m_Localized": "Uh oh - you're going to lose! Move Hulk back!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14059613476347904,
+      "m_Localized": "Who'd they dig up this time?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14059708087263232,
+      "m_Localized": "I'm great with children. Observe.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14059858952183808,
+      "m_Localized": "10,000 years and winning never gets old.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14060057170796544,
+      "m_Localized": "Excuse my reach.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14060161181147136,
+      "m_Localized": "Careful. Just had the suit cleaned.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14060262066741248,
+      "m_Localized": "First, I annihilate you. Then, tea.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14060364088991744,
+      "m_Localized": "Staring contest. Open invite.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14060455264772096,
+      "m_Localized": "Knew you'd lose all along, Agatha.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14060529139048448,
+      "m_Localized": "Forget that witch.\\nIf you can’t beat ‘em, Salem.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14060713323520000,
+      "m_Localized": "I missed your name. Sloth, is it?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14060804562214912,
+      "m_Localized": "Did I cast a lethargy spell? Honestly might have, can't recall.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14060969255755776,
+      "m_Localized": "Glad we see eye to eyes.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14061948973867008,
+      "m_Localized": "Change your move by dragging cards back",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14063137929027584,
+      "m_Localized": "Add to collection",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14063566515593216,
+      "m_Localized": "Costs 3 <color=#00ffffff>Energy</color> \\nCan't play yet.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14063678260240384,
+      "m_Localized": "+1 <color=#00ffffff>Energy</color> per turn.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14063832015036416,
+      "m_Localized": "Unspent <color=#00ffffff>Energy</color>\\nis wasted.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14064087657865216,
+      "m_Localized": "<color=yellow>Visually upgrade</color> another card",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14064225382031360,
+      "m_Localized": "Awesome Job!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14064608821108736,
+      "m_Localized": "Unspent <color=#00ffffff>Energy</color> is wasted.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14065469534232576,
+      "m_Localized": "You start with 1 <color=#00ffffff>Energy</color>.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14068227071008768,
+      "m_Localized": "Whoever loses will lose a <color=#5755F3>Cube</color>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14068608228384768,
+      "m_Localized": "Groot, we need to get our heads in the game!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14068732853739520,
+      "m_Localized": "The <color=#5755F3>Cubes</color> you’ll win (or lose) <color=\"yellow\">double</color> after turn 6!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14068864768794624,
+      "m_Localized": "If you think you’ll lose, <color=#ff1111>Retreat!</color>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14068970624638976,
+      "m_Localized": "... but you got this.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14071299528712192,
+      "m_Localized": "HULK LUCKY! HAHAHA!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14071396467466240,
+      "m_Localized": "Your opponent is confident.\\nThey <color=#ff1111>Snapped</color>!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14071424351199232,
+      "m_Localized": "<color=#5755F3>Cubes</color> you are battling over will <color=yellow>double</color>!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14071552864673792,
+      "m_Localized": "<color=#ff1111>Retreat</color> before you are playing for <color=\"yellow\">double</color>?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14071640433352704,
+      "m_Localized": "Remember, this <color=yellow>doubles</color> again at the end of the game!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14071680434429952,
+      "m_Localized": "<color=#ff1111>Retreat</color> before the losses increase?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14071824986923008,
+      "m_Localized": "Excellent choice!\\nYou only lost\\n<color=#5755F3>1 Cube</color> instead of <color=#ff1111>2</color>!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14071914883440640,
+      "m_Localized": "Excellent choice!\\nYou only lost\\n<color=#5755F3>2 Cubes</color> instead of <color=#ff1111>4</color>!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14071997578338304,
+      "m_Localized": "Remember, <color=#ff1111>Retreating</color> lets you lose less <color=#5755F3>Cubes</color>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14072108119220224,
+      "m_Localized": "You... won? Well, if you are going to lose, <color=#ff1111>Retreating</color> lets you lose less <color=#5755F3>Cubes</color>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14072458519764992,
+      "m_Localized": "Your opponent is <color=#ff1111>losing</color>!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14072547334152192,
+      "m_Localized": "Press your advantage!\\n<color=yellow>Tap to SNAP</color>!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14072628774952960,
+      "m_Localized": "If they don't <color=#ff1111>Retreat</color>, you can win <color=yellow>double</color>!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13761559633375232,
+      "m_Localized": "Hello!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13762087671083008,
+      "m_Localized": "Snap?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13762185301897216,
+      "m_Localized": "I'm losing!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13762317980315648,
+      "m_Localized": "I am confident.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13762407759392768,
+      "m_Localized": "I don't believe you.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13762516513501184,
+      "m_Localized": "*Thumbs up!*",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13763058618904576,
+      "m_Localized": "Aaaaargh!!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13763154722992128,
+      "m_Localized": "What just happened?!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14094738968797184,
+      "m_Localized": "Nothing like Boosters after a hard game's work.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14094974432829440,
+      "m_Localized": "I take Boosters from the undeserving. It's kinda my thing.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14094991264571392,
+      "m_Localized": "Me and Señor Scratchy will be livin' it up tonight.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14095008289251328,
+      "m_Localized": "Thanks for the Boosters! Oh, and I killed Sparky too.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14095654212067328,
+      "m_Localized": "Win to collect <color=#67B9EDFF>Cosmic Cubes</color>. More Cubes means a higher Rank!\\n\\n<color=#ED6F68>The Cube's power unlocks at Rank 10...</color>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14135886349328384,
+      "m_Localized": "Link Account",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14142369183031296,
+      "m_Localized": "Snap Id: {snapId}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 14142633000558592,
+      "m_Localized": "Version: {version}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 14145520485261312,
+      "m_Localized": "[Tap to reveal Snap Id]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14145934119133184,
+      "m_Localized": "Snap Id copied to clipboard.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14152559571755008,
+      "m_Localized": "*NOT SET*",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14153334595248128,
+      "m_Localized": "<alpha=#00>Win 2 out of 3 <alpha=#ff>Locations!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15200921070854144,
+      "m_Localized": "Card at max quality!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15522646845284352,
+      "m_Localized": "<color=#{cardRenderData._PowerLabelColor}>Power</color>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 15526756491452416,
+      "m_Localized": "<color=#{cardRenderData._CostLabelColor}>Energy</color>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 15996568736882688,
+      "m_Localized": "Please sign in again",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15997188361412608,
+      "m_Localized": "Sorry! We are unable to automatically sign you into your account. Please sign in again to play.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 16198415548407808,
+      "m_Localized": "There was an error connecting with this account. Please restart and sign back in.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17693084140691456,
+      "m_Localized": "Season Pass",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17695335915708416,
+      "m_Localized": "Missions",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17708182880116736,
+      "m_Localized": "NEW",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17708368540983296,
+      "m_Localized": "NEW",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17697199512084480,
+      "m_Localized": "Reconnect to Game",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17716179341664256,
+      "m_Localized": "Loading...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17716557462364160,
+      "m_Localized": "Play",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17722780500877312,
+      "m_Localized": "Enter a Name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17722993953202176,
+      "m_Localized": "Wait! What should we call you?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17723120302415872,
+      "m_Localized": "Make Me One",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17723233552818176,
+      "m_Localized": "Confirm",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17724341515968512,
+      "m_Localized": "Name Set!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18427451871846400,
+      "m_Localized": "Rock It",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18428573521010688,
+      "m_Localized": "Never Mind",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18428790173589504,
+      "m_Localized": "Choose Title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18429173767856128,
+      "m_Localized": "title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18429361181941760,
+      "m_Localized": "name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18133838620078080,
+      "m_Localized": "free",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18134401206267904,
+      "m_Localized": "CLAIMED!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18139933946228736,
+      "m_Localized": "Premium",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18140077508866048,
+      "m_Localized": "Unlock Premium to earn the exclusive content above!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18140266529370112,
+      "m_Localized": "Premium+",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18140364910964736,
+      "m_Localized": "Unlock Premium content and advance Season Pass by 10 levels!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18140718092333056,
+      "m_Localized": "Buy Premium",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18141240979435520,
+      "m_Localized": "Buy Premium+",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18146187418611712,
+      "m_Localized": "Unlock Premium to earn these exclusive rewards!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18149490277822464,
+      "m_Localized": "Earn up to <sprite=0> {totalCreditReward:N0} and <sprite=1> {totalGoldReward:N0}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 18379231773667328,
+      "m_Localized": "Insufficient Gold.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18379939918983168,
+      "m_Localized": "Purchase Failed",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18381111300009984,
+      "m_Localized": "Ok",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18405120293023744,
+      "m_Localized": "Check it Out!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18405385171709952,
+      "m_Localized": "Maybe Later",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18445044824223744,
+      "m_Localized": "Unlocks with Season Pass Level {level}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 18445316397019136,
+      "m_Localized": "Unlocks with Premium Season Pass Level {level}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 18758965145710592,
+      "m_Localized": "Unlock Premium!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18761304409714688,
+      "m_Localized": "Unlock {levels} Levels",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 18762245628309504,
+      "m_Localized": "<sprite=1> {cost:N0}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 18766632794796032,
+      "m_Localized": "Earn levels to\\nunlock rewards!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18766916136808448,
+      "m_Localized": "Reward Spotlight",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18778625916350464,
+      "m_Localized": "Unlocks at",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18425588652957696,
+      "m_Localized": "Nice!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18426581021089792,
+      "m_Localized": "Close",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18426671685165056,
+      "m_Localized": "Sort Cards",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18426810629873664,
+      "m_Localized": "Catalog",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18426985897254912,
+      "m_Localized": "Name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18427042486804480,
+      "m_Localized": "Energy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18427102654095360,
+      "m_Localized": "Power",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18427217615773696,
+      "m_Localized": "Recent",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18427300038041600,
+      "m_Localized": "Quality",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18427387506057216,
+      "m_Localized": "Upgradeable",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18430312596889600,
+      "m_Localized": "COMMON ABILITIES",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18431650277875712,
+      "m_Localized": "Energy Cost",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18431906373689344,
+      "m_Localized": "Show",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18431995569758208,
+      "m_Localized": "Unowned",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18432116059529216,
+      "m_Localized": "All Variants",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18432574262075392,
+      "m_Localized": "Search...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18432716885188608,
+      "m_Localized": "No Recent Searches",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18434514991702016,
+      "m_Localized": "Custom Search Terms",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18435096234156032,
+      "m_Localized": "Clear Filters",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18435167474409472,
+      "m_Localized": "Finish",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18435284164141056,
+      "m_Localized": "Search & Filters",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18444114025504768,
+      "m_Localized": "Card Back",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18444210863595520,
+      "m_Localized": "SHARE",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18444800435937280,
+      "m_Localized": "Paste",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18445103658950656,
+      "m_Localized": "Deck Name​",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18445557671387136,
+      "m_Localized": "You do not own all of the cards\\ncontained in this deck code.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18447607494860800,
+      "m_Localized": "COSMETICS",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18447688444928000,
+      "m_Localized": "CARDS",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450224707002368,
+      "m_Localized": "Paste Deck Code",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450355686727680,
+      "m_Localized": "Do you want to overwrite this deck?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450481520041984,
+      "m_Localized": "Paste Later",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450544803700736,
+      "m_Localized": "Paste Now",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18453485396680704,
+      "m_Localized": "Unable to add card to deck.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18453710916018176,
+      "m_Localized": "Do it!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18453797557755904,
+      "m_Localized": "Cancel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18453869729144832,
+      "m_Localized": "Delete Deck?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18453999207309312,
+      "m_Localized": "Deck copied to clipboard.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18454124784771072,
+      "m_Localized": "Cannot share empty deck.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18454416968376320,
+      "m_Localized": "The clipboard contained an invalid deck.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18454540343828480,
+      "m_Localized": "Couldn't find a valid deck in the clipboard.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18474848022945792,
+      "m_Localized": "Undo All Actions",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18475008421519360,
+      "m_Localized": "Energy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18475180295708672,
+      "m_Localized": "Playing cards consumes <color=#{cardRenderData._CostLabelColor}>Energy</color>.\\n \nYou can play more than 1 card each turn.\\n\n+1 Max <color=#{cardRenderData._CostLabelColor}>Energy</color> each turn. Use it or lose it!",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 18508238986141696,
+      "m_Localized": "Update",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18511635361554432,
+      "m_Localized": "Please download the latest update to continue playing.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18511513173090304,
+      "m_Localized": "Your client is out-of-date.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18482469123645440,
+      "m_Localized": "Daily Card Boosters Exceeded!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18482669535879168,
+      "m_Localized": "Tap To Continue...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18484400764215296,
+      "m_Localized": "VICTORY!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18491207960223744,
+      "m_Localized": "Battle Defeated",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18491369751306240,
+      "m_Localized": "Battle Tie...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18491469529604096,
+      "m_Localized": "Battle Victory!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18491956245028864,
+      "m_Localized": "Tie...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18492055314489344,
+      "m_Localized": "Defeated",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18492130371559424,
+      "m_Localized": "Escaped!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13106514075049984,
+      "m_Localized": "Collection Level",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13107181804052480,
+      "m_Localized": "<sprite name=\"icn_score\">{collectionLevel:N0}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 13337288950931456,
+      "m_Localized": "Upgrade your cards to increase your <b><color=#90FE38>Collection Level<sprite=7 tint=1></color></b>:",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13352771464978432,
+      "m_Localized": "+{collectionLevel:N0}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 13358673131724800,
+      "m_Localized": "Increase your <b><color=#90FE38>Collection Level<sprite=7 tint=1></color></b> to earn amazing rewards and new cards!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 13361092620181504,
+      "m_Localized": "Got It!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14160233734594560,
+      "m_Localized": "Upgrade to <color=#{rarity.Color}>{rarity.Name}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20313776900268032,
+      "m_Localized": "{title.Text}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 14165534911225856,
+      "m_Localized": "+{rarity.CollectionScoreGranted}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 18781959055466496,
+      "m_Localized": "Shop",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18851721567526912,
+      "m_Localized": "Upgraded",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18859412406919168,
+      "m_Localized": "Fast Upgrade",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18859472309968896,
+      "m_Localized": "Buy remaining boosters and immediately upgrade your cards!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19142651814076416,
+      "m_Localized": "{credits:N0}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 19152566620250112,
+      "m_Localized": "Credits",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19152720685424640,
+      "m_Localized": "Buy Credits to upgrade more cards. Purchasable a limited number of times per day.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19153545063292928,
+      "m_Localized": "{goldCost:N0}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 19155039867101184,
+      "m_Localized": "Free",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19159634186067968,
+      "m_Localized": "Available In",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19257361897086976,
+      "m_Localized": "Gold",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19257460656168960,
+      "m_Localized": "Use Gold to purchase various items throughout the game",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19263341183623168,
+      "m_Localized": "Daily Offer",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19263402768588800,
+      "m_Localized": "Daily rotation of cosmetics and variants for cards in your collection!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19264160561881088,
+      "m_Localized": "SOLD!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20226875753226240,
+      "m_Localized": "Auto Upgrading Cards",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20227305136709632,
+      "m_Localized": "Every 8 hours, three cards will be chosen at random from your collection.\n\nYou'll have the opportunity to upgrade these cards by purchasing all remaining <b><color=#B3FAA5>Boosters <sprite=6 tint=1></color></b> needed with just <b><color=#B7E9FE>Credits <sprite=0 tint=1>!</color></b>\n\nEarning more <b><color=#B3FAA5>Boosters <sprite=6 tint=1></color></b> for these cards will lower the price to upgrade at a rate of <color=#B3FAA5><sprite=6 tint=1>1</color> = <color=#B7E9FE><sprite=0 tint=1>5</color>.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20227507620929536,
+      "m_Localized": "Got It!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20275746424479744,
+      "m_Localized": "Purchase Credits",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20276029070237696,
+      "m_Localized": "Purchase {credits:N0} credits?",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20276428149874688,
+      "m_Localized": "No Thanks",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20276527500353536,
+      "m_Localized": "{goldCost:N0}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20277638458236928,
+      "m_Localized": "You don't have enough gold!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20283449754509312,
+      "m_Localized": "Purchase Credits",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20311002846322688,
+      "m_Localized": "Purchase Gold",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20311077274247168,
+      "m_Localized": "Would you like to buy gold?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20311242215251968,
+      "m_Localized": "No Thanks",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20315407045877760,
+      "m_Localized": "There was an error completing this purchase. If this persists, please contact support.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20306308161855488,
+      "m_Localized": "Report User",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20306530971672576,
+      "m_Localized": "Mute",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20362335922151424,
+      "m_Localized": "Do you want to change your Avatar?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20362650352345088,
+      "m_Localized": "Yes",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20362762138935296,
+      "m_Localized": "Cancel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20346062794383360,
+      "m_Localized": "Equip",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20346286531141632,
+      "m_Localized": "Cancel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20346679642284032,
+      "m_Localized": "Card Back",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20348667977261056,
+      "m_Localized": "{cardBack.Name}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20349276914704384,
+      "m_Localized": "Set Card Back",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20373200923832320,
+      "m_Localized": "Deck Empty!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20567097276936192,
+      "m_Localized": "Hand Full!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20571018162647040,
+      "m_Localized": "Hand Full!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20571678488702976,
+      "m_Localized": "Can't Destroy!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20572044592721920,
+      "m_Localized": "No Room For M'Baku!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20572439599689728,
+      "m_Localized": "Hand Full!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20572787278131200,
+      "m_Localized": "Deck Empty!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20573074038501376,
+      "m_Localized": "Can't Destroy!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20573522447347712,
+      "m_Localized": "Deck Empty!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20574062635954176,
+      "m_Localized": "Hand Full!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20574484717154304,
+      "m_Localized": "Nowhere To Move!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20574871541035008,
+      "m_Localized": "Location Full!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20575298802200576,
+      "m_Localized": "Location Full!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20575620366905344,
+      "m_Localized": "No Card To Destroy!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20576019417182208,
+      "m_Localized": "Nowhere to Play!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20576613699727360,
+      "m_Localized": "No Target!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20577478758150144,
+      "m_Localized": "Nobody To Move!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20577813492969472,
+      "m_Localized": "Not Enough Energy!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20578118511144960,
+      "m_Localized": "You Cannot Play This!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20593921879957504,
+      "m_Localized": "Cancel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20596710383280128,
+      "m_Localized": "Connecting...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20597184016670720,
+      "m_Localized": "Catching up changes...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20613878576623616,
+      "m_Localized": "Victory!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20614419398569984,
+      "m_Localized": "Defeat",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20614904918618112,
+      "m_Localized": "Tie!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20647173754499072,
+      "m_Localized": "Escaped!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20655042461741056,
+      "m_Localized": "Game Over?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20655260720738304,
+      "m_Localized": "Final Turn!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20655368224944128,
+      "m_Localized": "turn  <size=147%>{currentTurn}</size>/<size=105%>{totalTurns}</size>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20666179857199104,
+      "m_Localized": "Never Seen Before!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20666373688569856,
+      "m_Localized": "Timer: {timeLeft}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20705990957641728,
+      "m_Localized": "FINAL TURN",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20706105529249792,
+      "m_Localized": "<size=490>{currentTurn}</size> <size=350>/ {totalTurns}</size>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20704365202366464,
+      "m_Localized": "Your Opponent Retreated",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20609410840649728,
+      "m_Localized": "x{value}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20614706023620608,
+      "m_Localized": "{value}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20655763499245568,
+      "m_Localized": "{value:cond:>=0?+|}{value}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20655959960444928,
+      "m_Localized": "={value}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20679794768207872,
+      "m_Localized": "Ability copied from",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20679797863604224,
+      "m_Localized": "CreatedBy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20685190023077888,
+      "m_Localized": "Turn {turn}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20688586457210880,
+      "m_Localized": "Base",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20332879845253120,
+      "m_Localized": "New Avatar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20332969980846080,
+      "m_Localized": "Try it out on a deck.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20333078411993088,
+      "m_Localized": "New Card Back!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20333291755266048,
+      "m_Localized": "Try setting it on your favorite deck.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20333523524116480,
+      "m_Localized": "{credits:N0} {credits:Credit|Credits}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20333776629391360,
+      "m_Localized": "Used to upgrade Cards in the Collection or the Shop.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20334228754391040,
+      "m_Localized": "{gold:N0} Gold",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20334499991642112,
+      "m_Localized": "Use Gold to purchase items from the Shop!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20334735506006016,
+      "m_Localized": "{boosterQuantity} {card.Name} Boosters",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20334916544749568,
+      "m_Localized": "Use {boosterQuantity} Boosters to upgrade your {card.Name} cards!",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20334941815431168,
+      "m_Localized": "{boosterQuantity} {boosterQuantity:Booster|Boosters}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20335026083192832,
+      "m_Localized": "When claimed, these will turn into Boosters for a random card in your collection!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20335349023629312,
+      "m_Localized": "Set of 8 Avatars",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20335415880835072,
+      "m_Localized": "Tap your Avatar on the Main Page to customize your current deck!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20346017202298880,
+      "m_Localized": "Unlocked {rarity.Name} Quality!",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20346060596568064,
+      "m_Localized": "You can now upgrade cards to {rarity.Name} quality",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20335540418109440,
+      "m_Localized": "Mystery Box",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20336067629539328,
+      "m_Localized": "Could contain one of many kinds of rewards!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20336306503540736,
+      "m_Localized": "{battlePassXpQuantity:N0} Season Pass XP",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20336380876939264,
+      "m_Localized": "Earn XP to gain levels and unlock rewards on the Season Pass.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20336419238043648,
+      "m_Localized": "Premium Pass",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20336535877443584,
+      "m_Localized": "Unlock this Season's premium rewards!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20336782884200448,
+      "m_Localized": "Premium Pass Plus",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20338416808878080,
+      "m_Localized": "Unlock this Season's rewards, plus {levelsGranted} {levelsGranted:level|levels}!",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20338511168135168,
+      "m_Localized": "Requires {collectionLevel:N0} Collection Level",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20339213860855808,
+      "m_Localized": "+{credits:N0} Max {credits:Credit|Credits}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20339301265956864,
+      "m_Localized": "Increases the maximum number of Credits you can have at one time.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20339639633043456,
+      "m_Localized": "Unlocks at {rankLevel}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20453328725991424,
+      "m_Localized": "Mystery Variant",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20453810081095680,
+      "m_Localized": "An alternate art Variant of a card you own.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20453897314230272,
+      "m_Localized": "Card Art Variant",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20454011210555392,
+      "m_Localized": "Contains an alternate art variant of a card in your Collection.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20454282749796352,
+      "m_Localized": "Collector's Reserve",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20454406699868160,
+      "m_Localized": "Contains a reward!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20454648455356416,
+      "m_Localized": "Gold Mystery Variant",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20454779133091840,
+      "m_Localized": "Contains a gold foil variant of a card in your Collection.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20454834191720448,
+      "m_Localized": "Mystery Variant",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20455009215832064,
+      "m_Localized": "Contains a modded variant of a card in your Collection.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20455065029435392,
+      "m_Localized": "Mystery Card",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20455606342115328,
+      "m_Localized": "Contains a random character",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20455713397530624,
+      "m_Localized": "Mystery Card",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20455836303220736,
+      "m_Localized": "Contains a random character",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20455997301579776,
+      "m_Localized": "Mystery Card",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20456156257312768,
+      "m_Localized": "Mystery Card",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20456056051195904,
+      "m_Localized": "Contains a random character",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20456281037856768,
+      "m_Localized": "Contains a random character",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20458274397609984,
+      "m_Localized": "Battle Mode",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20473337623863296,
+      "m_Localized": "Battle Pass",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20473394465071104,
+      "m_Localized": "Conquest",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20473468838469632,
+      "m_Localized": "Daily Offers",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20473514615103488,
+      "m_Localized": "New premium cards for sale daily in the Shop.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20473620026351616,
+      "m_Localized": "Special Deals",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20473682060107776,
+      "m_Localized": "Starter Avatar Set",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20474325885771776,
+      "m_Localized": "Select your avatar in the Main Menu!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20473754235691008,
+      "m_Localized": "Practice",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20473816072314880,
+      "m_Localized": "Ranked Mode",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20473867314126848,
+      "m_Localized": "Access to Card Backs",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20473915129192448,
+      "m_Localized": "Unlocked Agent Rank",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20473967973228544,
+      "m_Localized": "Localization Selection",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20583485663076352,
+      "m_Localized": "Collector's Cache",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20583630190403584,
+      "m_Localized": "Contains mystery cards or currency.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20583764450074624,
+      "m_Localized": "Collector's Reserve",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20584047037112320,
+      "m_Localized": "Contains mystery cards, cosmetics, or currency.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20584082835496960,
+      "m_Localized": "Season Cache",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20584188397740032,
+      "m_Localized": "Contains mystery variants or currency.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20586399748055040,
+      "m_Localized": "Rank Reward\\n{rewardTitle}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20586721614749696,
+      "m_Localized": "{rewardDescription}\\n\\nEarn more rewards by ranking up!",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20586868960649216,
+      "m_Localized": "{rankTier} Rank Reward\\n{rewardTitle}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20672687683657728,
+      "m_Localized": "Claim!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 21083834471669760,
+      "m_Localized": "Next",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20752301567238144,
+      "m_Localized": "On Reveal",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20752638600536064,
+      "m_Localized": "Ongoing",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20752679817961472,
+      "m_Localized": "No Ability",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 1
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 20752729897951232,
+      "m_Localized": "Discard",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20752816665518080,
+      "m_Localized": "Move",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20752839931322368,
+      "m_Localized": "Destroy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23971854690541568,
+      "m_Localized": "quality increased",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23972070353264640,
+      "m_Localized": "frame break!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23973023483682816,
+      "m_Localized": "Uncommon!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23977978307272704,
+      "m_Localized": "Legendary!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23978370403393536,
+      "m_Localized": "Shiny Logo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23979301136228352,
+      "m_Localized": "Ultra!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23979444216520704,
+      "m_Localized": "Animated Frame!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23979888720470016,
+      "m_Localized": "Epic!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23979970396151808,
+      "m_Localized": "Animated!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23980470805979136,
+      "m_Localized": "Max Quality",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23980569816719360,
+      "m_Localized": "Infinity!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23980969609388032,
+      "m_Localized": "3D!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23981146063757312,
+      "m_Localized": "Rare!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 23981362435317760,
+      "m_Localized": "Nice!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 25402847829942272,
+      "m_Localized": "Unable to confirm purchase limits. If this persists, please contact support.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 25404469192679424,
+      "m_Localized": "You have reached your monthly limit and are unable to complete this purchase. If you think this is an error, please contact support.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 25408284809748480,
+      "m_Localized": "Confirm",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 25411081043173376,
+      "m_Localized": "年齢確認",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2738380043623858189
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 25411394101829632,
+      "m_Localized": "あなたの年齢によって\\n1か月に購入できる金額が決まっています。\\n正しい生年月を入力してください。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2738380043623858188
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 25412094185693184,
+      "m_Localized": "{age}歳未満",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 2738380043623858187
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 25412359831937024,
+      "m_Localized": "{age}歳～{endAge}歳",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 2738380043623858186
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 25412604334694400,
+      "m_Localized": "{age}歳以上",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 2738380043623858185
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 25412803169869824,
+      "m_Localized": "年齢は誕⽣⽉の翌⽉1⽇に1歳加算されます。\\n未成年の⽅は購⼊に法定代理⼈ (両親等)\\nの同意が必要です。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2738380043623858184
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 25412916588044288,
+      "m_Localized": "! ⽣年⽉は後から変更することはできません",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2738380043623858183
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 25413162567196672,
+      "m_Localized": "１か月/{purchaseLimit:N0}円まで",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          },
+          {
+            "rid": 2738380043623858182
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 25413494730907648,
+      "m_Localized": "制限なし",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2738380043623858181
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 25740182224363520,
+      "m_Localized": "特定商取引法に基づく表記",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2738380043623858180
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 25740704285188096,
+      "m_Localized": "資金決済法に関する情報提供",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2738380043623858179
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 25743411234463744,
+      "m_Localized": "Unable to confirm purchase limits.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 25748782757961728,
+      "m_Localized": "{year}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 25757820333842432,
+      "m_Localized": "{day}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 26146821909766144,
+      "m_Localized": "Gold Balance",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26087005531136000,
+      "m_Localized": "この設定でよろしいでしょうか？",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2738380043623858178
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 26094675025715200,
+      "m_Localized": "■ご注意■\\nこのアプリは基本無料で遊べますが、\\n一部有料アイテムがございます。\\n\\n■未成年（18歳未満）の方へ■\\nお客様が未成年（18歳未満）の場合、\\nあらかじめ法定代理人（ご両親等）の同意を\\n得てから、このアプリをご利用ください。\\n\\nまた、有料でアイテムを購入する際は、\\n必ず法定代理人（ご両親等）に許可をもらうか、\\n一緒に購入するようにしてください。",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2738380043623858190
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 26125049139290112,
+      "m_Localized": "Unable to set purchase limits. If this persists, please contact support.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26125135202213888,
+      "m_Localized": "Unable to set purchase limits.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 26146929363640320,
+      "m_Localized": "Paid amount: {paidGold:N0}\\nFree amount: {freeGold:N0}\\nTotal amount: {totalGold:N0}\\n\\nPaid Gold is used first when making purchases using Gold.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 28264032255389696,
+      "m_Localized": "out of time!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 28988914579529728,
+      "m_Localized": "Deck {number}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 28891500766027776,
+      "m_Localized": "Something went wrong. Try again in a few minutes.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 28935952301809664,
+      "m_Localized": "<sprite=3 tint=1>{battlePassXpQuantity:N0}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 29051638059622400,
+      "m_Localized": "Syncing account...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20275968244441088,
+      "m_Localized": "New Title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 30375458229968896,
+      "m_Localized": "{month}/{day}/{year}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 30384162677448704,
+      "m_Localized": "{timeString} Ago",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 30390490707779584,
+      "m_Localized": "Expires:",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 30417113746235392,
+      "m_Localized": "From:",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 30439811943751680,
+      "m_Localized": "Nice!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 30168531491348480,
+      "m_Localized": "Equip a title to your deck to show it off to your opponents.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 30498844738314240,
+      "m_Localized": "A new challenger awaits!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 30818559012626432,
+      "m_Localized": "Base Card",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33708215465525248,
+      "m_Localized": "Master Volume",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33709127261077504,
+      "m_Localized": "Music",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33709403351138304,
+      "m_Localized": "Graphics Quality",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33709558854959104,
+      "m_Localized": "Sound FX",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33713256561754112,
+      "m_Localized": "Music Volume",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33713498761838592,
+      "m_Localized": "Graphics Quality",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33713597680304128,
+      "m_Localized": "Sound FX Volume",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33713923867131904,
+      "m_Localized": "Master Volume",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33626455278608384,
+      "m_Localized": "Cancel Asset Download",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33626874281189376,
+      "m_Localized": "Redownload All Assets",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33350923139932160,
+      "m_Localized": "Please enter some info describing your problem...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33352000509829120,
+      "m_Localized": "Submit",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33352100548173824,
+      "m_Localized": "Cancel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33352472750710784,
+      "m_Localized": "Input Required!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33352577469898752,
+      "m_Localized": "Please type in a message, to provide some info for your bug report.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33352741748203520,
+      "m_Localized": "Dismiss",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33352875898822656,
+      "m_Localized": "Bug Report Saved!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33353007683854336,
+      "m_Localized": "Here is your report fingerprint:",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33353617128808448,
+      "m_Localized": "Copy & Dismiss",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33622863452823552,
+      "m_Localized": "Bug Report",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33717441969786880,
+      "m_Localized": "I agree to the <link=\"tos\"><color=#2785E2>Terms of Service</color></link> and have read the Privacy Notices for <link=\"pubprivacy\"><color=#2785E2>{publisher}</color></link> and <color=#2785E2><link=\"sdprivacy\">Second Dinner</color></link>.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 33717831171837952,
+      "m_Localized": "This is required to play.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33750897786871808,
+      "m_Localized": "Retry",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33742651281891328,
+      "m_Localized": "Credits Full",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33743096985411584,
+      "m_Localized": "You are full on Credits and can't collect anymore.\\n\\nSpend Credits on upgrading cards.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33733723378671616,
+      "m_Localized": "Invalid Name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33733834393509888,
+      "m_Localized": "<color=#ff6a6a>Your name exceeded the max length of {maxLength} characters. Please try a different name.</color>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 33734112488448000,
+      "m_Localized": "<color=#ff6a6a>Your name is not available. Please try a different name.</color>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33734220420472832,
+      "m_Localized": "<color=#ff6a6a>Your name could not be saved. Please try a different name.</color>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 31100660358307840,
+      "m_Localized": "Claim All",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 31102121989365760,
+      "m_Localized": "Claimed",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 31496458833223680,
+      "m_Localized": "Inbox",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 31847665472888832,
+      "m_Localized": "Gifts",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 34449689427304448,
+      "m_Localized": "EARLY ACCESS",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36252839742267392,
+      "m_Localized": "Credits",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36889770993901568,
+      "m_Localized": "Unmute",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36957865859080192,
+      "m_Localized": "New Daily Challenge Available!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36958012588417024,
+      "m_Localized": "Come complete missions for rewards.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36958383566217216,
+      "m_Localized": "New Battle Pass Chapter Available!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36959359308128256,
+      "m_Localized": "Come complete missions for rewards.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36960007785275392,
+      "m_Localized": "New Missions Available!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36960100089323520,
+      "m_Localized": "Come complete missions for rewards.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36965194847477760,
+      "m_Localized": "Battle Pass",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36965329803403264,
+      "m_Localized": "Notifies you about Battle Pass Updates",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36965599069331456,
+      "m_Localized": "New Daily Challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36965724684541952,
+      "m_Localized": "Notifies you when you unlock a new daily challenge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36965854108180480,
+      "m_Localized": "New Missions Notifications",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36965914216751104,
+      "m_Localized": "Notifies you when you unlock new missions",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37027991987937280,
+      "m_Localized": "Open Season Pass",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36979056795705344,
+      "m_Localized": "Next",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 34039600247644160,
+      "m_Localized": "Welcome Bundle",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36694481024573440,
+      "m_Localized": "{bundleTitle} Rewards",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 39118505772179456,
+      "m_Localized": "Looks like Steam initialization failed. Please launch the game from Steam!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38450768183812096,
+      "m_Localized": "Your deck is invalid. Review your deck and try again.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38451037961445376,
+      "m_Localized": "Incomplete Deck",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38451396599603200,
+      "m_Localized": "Your deck is missing some cards! Add them to the deck to play with it.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38449609784156160,
+      "m_Localized": "Invalid Deck",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39478505660997632,
+      "m_Localized": "Connect to Account",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39479016028102656,
+      "m_Localized": "Select an account to connect to:",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39479506015084544,
+      "m_Localized": "Login",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39479772382748672,
+      "m_Localized": "Already have an account?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 39545669172584448,
+      "m_Localized": "Our Terms have been updated\\nPlease review again",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40600213491015680,
+      "m_Localized": "No Deck",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40600410103209984,
+      "m_Localized": "You have no decks. Go to your collection and create a deck!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40599418980786176,
+      "m_Localized": "No Deck",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 41346822139011072,
+      "m_Localized": "Nuverse",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 41347033771008000,
+      "m_Localized": "Ariel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40907115294875648,
+      "m_Localized": "Received unhandled notification from the game service.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40916268620963840,
+      "m_Localized": "Unable to complete a previous purchase. If this persists, please contact support.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40917602199920640,
+      "m_Localized": "New Season!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40917782563381248,
+      "m_Localized": "At the start of each season, all players have their Rank reduced.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40919497895305216,
+      "m_Localized": "Recruit Pass Complete",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40920611516571648,
+      "m_Localized": "You've unlocked this Season's Pass!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40925223518724096,
+      "m_Localized": "Temporarily Disabled Card(s)",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40925581712285696,
+      "m_Localized": "Your deck has some cards we had to\\ndisable for now:\\n\\n{0:list:{Name}|, }\\n\\nPlease remove them from your\\ndeck to continue.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 40928697618784256,
+      "m_Localized": "Matchmaking has been interrupted. Please try again.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40928870952591360,
+      "m_Localized": "Your deck is invalid. Please change your deck and try again.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40930414104141824,
+      "m_Localized": "Your league choice is invalid. Please try again.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40932048775405568,
+      "m_Localized": "Unable to load game content. Please make sure you're online.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40571254107791360,
+      "m_Localized": "New Title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43466943368257536,
+      "m_Localized": "Accept & Play!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 44121078753124352,
+      "m_Localized": "The Season Pass has already been unlocked, please try restarting",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48117404960546816,
+      "m_Localized": "I agree to the <link=\"tos\"><color=#2785E2>Terms of Service</color></link>, have read the Privacy Notices for <link=\"pubprivacy\"><color=#2785E2>{publisher}</color></link> and <color=#2785E2><link=\"sdprivacy\">Second Dinner</color></link>, and confirm that I am at least {ageRequirement} years old.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 48117561873653760,
+      "m_Localized": "I agree to the <link=\"tos\"><color=#2785E2>Terms of Service</color></link>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48117654286753792,
+      "m_Localized": "I have read the Privacy Notices for <link=\"pubprivacy\"><color=#2785E2>{publisher}</color></link> and <color=#2785E2><link=\"sdprivacy\">Second Dinner</color></link>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 56884217823354880,
+      "m_Localized": "Used to buy new Cards and Variants\\nin the Token Shop.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56883901535084544,
+      "m_Localized": "{tokens:N0} Collector's {tokens:Token|Tokens}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 46334388380540928,
+      "m_Localized": "{boostersEarned}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 46334846251737088,
+      "m_Localized": "Turns Played:",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46335001701031936,
+      "m_Localized": "<sprite=6 tint=1>Boosters Earned:",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 49183296981032960,
+      "m_Localized": "Card pinned!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 49183478808305664,
+      "m_Localized": "New card in:",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 41621170886189056,
+      "m_Localized": "8x <size=80%>value!</size>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 52246725950169088,
+      "m_Localized": "Every 8 hours, a new Card is available\\n for purchase with Tokens.\n\nTokens can be earned from Collector's Caches and Collector's Reserves found by increasing your Collection Level.\n\nIf you don't have enough Tokens yet,\\n you can Pin the Card so new Cards\\n won't appear.\n\nThe Collector provides <color=Red>NO REFUNDS</color>. And if a purchased card is changed, there will be \\nno compensation.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53281022521892864,
+      "m_Localized": "Landscape",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53281188746354688,
+      "m_Localized": "Gyroscope",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54317321735364608,
+      "m_Localized": "Token Shop",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54341717254463488,
+      "m_Localized": "Are you sure? The Collector provides \\n<color=Red>NO REFUNDS</color>.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54341873777500160,
+      "m_Localized": "Let's Do It!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 50531608225112064,
+      "m_Localized": "Cyber Holiday",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 50532452798554112,
+      "m_Localized": "Winter Wonderland",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 50532617026527232,
+      "m_Localized": "Hearts Wild",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 50533275016355840,
+      "m_Localized": "Shielded Heart",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 50533408420388864,
+      "m_Localized": "Line In the Sand",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 50533589496881152,
+      "m_Localized": "Starlit Connection",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 51120583493554176,
+      "m_Localized": "Purchase bundle?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 57184656926171136,
+      "m_Localized": "Purchase Card",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 57188651958788096,
+      "m_Localized": "Purchase Variant",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56472669528305664,
+      "m_Localized": "Fast Forwarding..",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54678584067874816,
+      "m_Localized": "Do It!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54678789978841088,
+      "m_Localized": "Not Now",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54678982640001024,
+      "m_Localized": "Swap this variant into all decks?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54679162156212224,
+      "m_Localized": "Set As Favorite",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59433097299484672,
+      "m_Localized": "Let's get on with it!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59433392121307136,
+      "m_Localized": "You're a MENACE!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59433308415582208,
+      "m_Localized": "Put your Cubes where your mouth is!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59433458550693888,
+      "m_Localized": "Fake News!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59433499646484480,
+      "m_Localized": "*Thumbs down!*",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59433529803530240,
+      "m_Localized": "Crap! Crap! MEGACRAP!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59433420743237632,
+      "m_Localized": "You play like a bot! I can't lose!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59433553388101632,
+      "m_Localized": "PARKER! You better have gotten a photo of that!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60950259159785472,
+      "m_Localized": "{cardRevealEffect.Name}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 61265780151328768,
+      "m_Localized": "Dino Sized",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61265888670556160,
+      "m_Localized": "Festival Fireworks",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61265288314658816,
+      "m_Localized": "Primal Masterpiece",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61284311758790656,
+      "m_Localized": "Pro Bundle",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63372103062118400,
+      "m_Localized": "Hand Empty!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63372186184835072,
+      "m_Localized": "Nothing discarded!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 66306429117009920,
+      "m_Localized": "~250 Collection Level Value!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63799975203561472,
+      "m_Localized": "Enter A Name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63800074726006784,
+      "m_Localized": "You can only change your name\\nonce every {nameChangeTimerDays} days.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 63800132439629824,
+      "m_Localized": "Make Me One",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63800203600191488,
+      "m_Localized": "Confirm",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63800284395069440,
+      "m_Localized": "Can't Rename Yet!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63800352892248064,
+      "m_Localized": "You need to wait <color=#ff6a6a>{timeCountdown:{timeCountdown}|--h --m}</color> to change \\nyour name again.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 63800398157176832,
+      "m_Localized": "I'll Come Back",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64101059654574080,
+      "m_Localized": "No Title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64909857352835072,
+      "m_Localized": "<color=#ff6a6a>Your name is already set to that!</color>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 69180527759171584,
+      "m_Localized": "Positively Charged",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 69181130564542464,
+      "m_Localized": "Westview Story",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 69181321082413056,
+      "m_Localized": "Steamy Hell's Kitchen",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 69199368895700992,
+      "m_Localized": "Deadpool Day",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 69244671946121216,
+      "m_Localized": "Voice Over Volume",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63443205111357440,
+      "m_Localized": "Retreat \\n <size=80%>Round {battleRound}</size>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 63785204024516608,
+      "m_Localized": "Game\\nModes",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63875318279036928,
+      "m_Localized": "{gameRoundCount} Rounds",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 64071224626503680,
+      "m_Localized": "Retreat \\n <size=80%>Round {battleRound}</size>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 64142867688316928,
+      "m_Localized": "Concede the Battle?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64144311673937920,
+      "m_Localized": "Concede",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64181761876156416,
+      "m_Localized": "Battle Again?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64803195195482112,
+      "m_Localized": "Create",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64803417678143488,
+      "m_Localized": "Join",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64805239658635264,
+      "m_Localized": "Rules",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64805867785019392,
+      "m_Localized": "Friendly Battle",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64805999767183360,
+      "m_Localized": "Ask your friend for the Code",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64806149000519680,
+      "m_Localized": "Create or Join a Match",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64893438342979584,
+      "m_Localized": "Invalid Match Code!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 65938090152157184,
+      "m_Localized": "<size=120%><b>HOW TO WIN</b>\r</size=>\\nEach player starts with 10 health. Defeat your opponent by dealing 10 damage over a series of rounds.\r\\n Winning a round deals damage to the opposing player equal to the Cube value.\\n<size=120%><b><color=red>HIGHER STAKES\r</color></b>\r</size=>\\nAt Round 5 and on, the Cube starts snapped! Only one player needs to SNAP to reach the full 8 Cubes.\r\\nThis mode does not offer Booster or Rank rewards.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 65938284138717184,
+      "m_Localized": "Battle Mode Rules",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 66718599719411712,
+      "m_Localized": "Generating Code...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67002119297687552,
+      "m_Localized": "ENTER CODE HERE",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67048530357772288,
+      "m_Localized": "Match Code: {code}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 67061020365938688,
+      "m_Localized": "Region - {region}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 67075523227422720,
+      "m_Localized": "Copy Code",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67075645680128000,
+      "m_Localized": "Share this code with your opponent!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67099681543413760,
+      "m_Localized": "Unable to join match. The host is on a different version of the game.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84799244894986240,
+      "m_Localized": "Could not find a match with that code!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 68484163072679936,
+      "m_Localized": "Matchmaking has timed out. Please try again.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 68510046248493056,
+      "m_Localized": "Invalid Match Code in clipboard.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 68521818678353920,
+      "m_Localized": "Code Copied!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 68620205058678784,
+      "m_Localized": "Round {gameRoundCount} Victory",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 68621418168836096,
+      "m_Localized": "Round {gameRoundCount} Defeat",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 68621719928037376,
+      "m_Localized": "Round {gameRoundCount} Tie",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 68871319440056320,
+      "m_Localized": "Got It!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 68871733539495936,
+      "m_Localized": "Got It!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 69535582705934336,
+      "m_Localized": "Searching for Game...",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 69559539253747712,
+      "m_Localized": "Your code will be generated",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 69626280633425920,
+      "m_Localized": "LOCKED",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 69626839339884544,
+      "m_Localized": "Keep playing\\nto unlock this mode",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 69629052502138880,
+      "m_Localized": "MARVEL SNAP Friendly Battle Code: {code}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 70014587087347712,
+      "m_Localized": "Next",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77240171991392256,
+      "m_Localized": "Round",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77240580579516416,
+      "m_Localized": "High Stakes",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77241579926970368,
+      "m_Localized": "Modes",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77664184727232512,
+      "m_Localized": "Rewind Turn",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 81537633426448384,
+      "m_Localized": "Momoko Magic",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 81538194058092544,
+      "m_Localized": "Rivalry Week",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 81538358604832768,
+      "m_Localized": "Mutant Masterpiece",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 82537340726140928,
+      "m_Localized": "Purchase Levels?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 82538039312637952,
+      "m_Localized": "Would you like to immediately unlock the Season Pass to this level?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 83982302034894848,
+      "m_Localized": "Weekend Bundle #1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 83982529122902016,
+      "m_Localized": "Weekend Bundle #2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 83982775810891776,
+      "m_Localized": "A Hand Full of Rocks",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 83983055868764160,
+      "m_Localized": "Daily Bundle",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 83983303139762176,
+      "m_Localized": "Daily Bundle Finale",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84392992964599808,
+      "m_Localized": "Sorry, this item is no longer available for purchase.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84417737114624000,
+      "m_Localized": "Token Tuesday",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84418232499675136,
+      "m_Localized": "More Magic",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84418384266371072,
+      "m_Localized": "Special Offer",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 90239699875373056,
+      "m_Localized": "Throg, Frog of Thunder",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 90239934752202752,
+      "m_Localized": "Aww-vengers",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 90240144622592000,
+      "m_Localized": "Artist Showcase: Dan Hipp",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 90240525175988224,
+      "m_Localized": "Earth-616 Day",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 90240308103979008,
+      "m_Localized": "The Tokens Bundle",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89900471290945536,
+      "m_Localized": "Choose Your Card",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 90275136760963072,
+      "m_Localized": "Get one Series 3 card of your choice each season!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 90290936276312064,
+      "m_Localized": "Seasonal Series 3 Card Claimed! Come back next season for another card !",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 91729182004862976,
+      "m_Localized": "Claim Reward",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 91729489002749952,
+      "m_Localized": "Claim Variant",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 91730023973642240,
+      "m_Localized": "Are you sure?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 91742679199637504,
+      "m_Localized": "Claim one free Series 3 card per season! \\n\\nA new Series 3 card will be available every 8 hours until a Series 3 card is claimed \\nfor the season. \\n\\nThe Collector provides <color=Red>NO REFUNDS</color>, and if a claimed card is changed, there will \\nbe no compensation",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 95007261510852608,
+      "m_Localized": "Your payment has completed, but delivery is pending and will complete soon. Do not make another purchase of this product. Please restart MARVEL SNAP in a few minutes to receive the item.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 95015493809725440,
+      "m_Localized": "There is already another payment in progress. Do not make another purchase yet. Please restart MARVEL SNAP in a few minutes to receive the item.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99218048521969664,
+      "m_Localized": "Team Cat",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99218315128709120,
+      "m_Localized": "Team Dog",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99218476705882112,
+      "m_Localized": "Beautiful Beyond Compare",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99221444389871616,
+      "m_Localized": "Booster Pack",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99222458530635776,
+      "m_Localized": "I Am Groot",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99222761929809920,
+      "m_Localized": "A Spoonful of Sugar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99222962987966464,
+      "m_Localized": "Chibis of the Galaxy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99223151886835712,
+      "m_Localized": "Artist Showcase: Ivan Tao",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99223456925982720,
+      "m_Localized": "Trash Panda",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99229229638852608,
+      "m_Localized": "Get a Leg Up",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99325389821026304,
+      "m_Localized": "Marvel's Voices: Pride",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99665332078485504,
+      "m_Localized": "Ooga Chaka Ooga Ooga",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99673433871589376,
+      "m_Localized": "Itsy Bitsy Spider",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99955842982715392,
+      "m_Localized": "Hard Eight",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99991027505799168,
+      "m_Localized": "Mech-urt Connors",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100042914527551488,
+      "m_Localized": "Bring the Pain",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100357316145422336,
+      "m_Localized": "I Don't Like Sandman",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100367329039589376,
+      "m_Localized": "Artist Showcase: Fiona Hsieh",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100377295943213056,
+      "m_Localized": "Spandexcellent",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100473283026083840,
+      "m_Localized": "Daily Season XP Limit Reached",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100473573175451648,
+      "m_Localized": " <color=#FF0000FF>{currentXp}/{maxAllowedXp}</color>\\nYou will not receive Season XP for this game.\\n\\nPlay anyway?",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 100474145349820416,
+      "m_Localized": "Yes",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 101843232739024896,
+      "m_Localized": "Already linked your account?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 101851126154911744,
+      "m_Localized": "Play as Guest",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 101851208090640384,
+      "m_Localized": "Resume as Guest",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100019445614194688,
+      "m_Localized": "More cards \\ncoming soon!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100197195541065728,
+      "m_Localized": "This card can't be pinned",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100203761598148608,
+      "m_Localized": "Weekly Spotlight",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100204030255902720,
+      "m_Localized": "Series 4/5",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100204169829756928,
+      "m_Localized": "Ultimate Variant",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 104971009650581504,
+      "m_Localized": "Player Name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107633511442145280,
+      "m_Localized": "Can't Do!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 87634758998073344,
+      "m_Localized": "Conquest",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 87635475125149696,
+      "m_Localized": "<size=70%><sprite=5></size>Medal Shop",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89179273603047424,
+      "m_Localized": "{conquest.Title}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 89179836998737920,
+      "m_Localized": "Bronze Conquest",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89179891092676608,
+      "m_Localized": "Silver Conquest",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89179924793909248,
+      "m_Localized": "Gold Conquest",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89179954867068928,
+      "m_Localized": "Proving Grounds",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 90267914374995968,
+      "m_Localized": "Vibranium Conquest",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89179997946765312,
+      "m_Localized": "Infinity Conquest",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89487860124606464,
+      "m_Localized": "Win Battles with zero losses to\\nearn a ticket to the next Conquest.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110510282051526656,
+      "m_Localized": "Festival of Flight",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110036949694144512,
+      "m_Localized": "Select Deck",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109366321001521152,
+      "m_Localized": "<color=#07CCFC>{deckName}</color> style",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 112289147778342912,
+      "m_Localized": "Atlantis Beach Club",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112320260936671232,
+      "m_Localized": "Beta Rewind",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107614497793892352,
+      "m_Localized": "Hold To Confirm",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109694812968820736,
+      "m_Localized": "Wakanda Combo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109754318973149184,
+      "m_Localized": "Series 3 Sneak Peek!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109755060559650816,
+      "m_Localized": "The Deckmaker",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109755375732236288,
+      "m_Localized": "Beef Up Your Team",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109755768721743872,
+      "m_Localized": "Higher, Further, Faster!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109755972858519552,
+      "m_Localized": "Slam Dunk",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109756543933980672,
+      "m_Localized": "Into the Venomverse",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109785533352615936,
+      "m_Localized": "Wakanda Combo!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109786034580332544,
+      "m_Localized": "Sneak Peek!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109786170689691648,
+      "m_Localized": "Try a New Deck!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109786294023200768,
+      "m_Localized": "Beef Up Your Team!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109786414089347072,
+      "m_Localized": "Higher, Further, Faster!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109786510101159936,
+      "m_Localized": "Slam Dunk",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109786662350200832,
+      "m_Localized": "Into the Venomverse",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110480575625011200,
+      "m_Localized": "Unlock this card super early, and use these Credits and Boosters to get a TON more cards!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110480890420109312,
+      "m_Localized": "Unlock Black Panther early! Pairs well with Odin!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110481058104188928,
+      "m_Localized": "Build an awesome Patriot deck now!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110481248831774720,
+      "m_Localized": "Discover new cards with this Super Rare variant!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110481418524925952,
+      "m_Localized": "Early access to this stellar card!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110481575870046208,
+      "m_Localized": "Build an awesome Move deck with early access to this super rare card!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110481725715750912,
+      "m_Localized": "Use these Credits to unlock TONS of new cards!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110500193466949632,
+      "m_Localized": "5X Value",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110500433855094784,
+      "m_Localized": "3X Value",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110501511820582912,
+      "m_Localized": "2X Value",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 117734982578184192,
+      "m_Localized": "Power To Move You",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 117745615562448896,
+      "m_Localized": "Patriots",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 117771116913991680,
+      "m_Localized": "Don't Touch the Ocean!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 117776006650372096,
+      "m_Localized": "Cosmic Wildfire",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 117788769623842816,
+      "m_Localized": "Ring of Fire",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 117792147728867328,
+      "m_Localized": "Artist Showcase: Rian Gonzales",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 118042579374022656,
+      "m_Localized": "Love & Thunder",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 118072943983304704,
+      "m_Localized": "Stegronosaurus Wrecks",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 118115774437367808,
+      "m_Localized": "The Doctor is Tin",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 118125449698451456,
+      "m_Localized": "Death Becomes Her",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 118129633520885760,
+      "m_Localized": "My Hero Arachnia",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 118133237212356608,
+      "m_Localized": "Full Charge",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 119133059134365696,
+      "m_Localized": "One-Punch Women",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 119136522606059520,
+      "m_Localized": "Heroes for Hire",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 119139765323145216,
+      "m_Localized": "Hail Hydraulics",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 119144460284436480,
+      "m_Localized": "2 Cute 2 Furious",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 119151992004517888,
+      "m_Localized": "Mystery Pack",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 119152976604798976,
+      "m_Localized": "Mystery Pack",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 119153259015675904,
+      "m_Localized": "Mystery Pack",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 119153476507115520,
+      "m_Localized": "Mystery Pack",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 119165591720665088,
+      "m_Localized": "Pro Bundle Mk. II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122865382354575360,
+      "m_Localized": "No Results",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107319954364641280,
+      "m_Localized": "Mystery Series 3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107320047406886912,
+      "m_Localized": "Acquire one unowned Series 3 base card",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89789751836532736,
+      "m_Localized": "{conquest.CurrentTickets}/<size=133%>{conquest.TicketCost}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 89790373579186176,
+      "m_Localized": "{conquest.GoldCost:N0}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 89892879336464384,
+      "m_Localized": "Conquest state out of sync. Please try again.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89908019071016960,
+      "m_Localized": "You don't have enough tickets!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94978733591486464,
+      "m_Localized": "{conquest.WinsRequired} {conquest.WinsRequired:WIN|WINS}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 95232965469003776,
+      "m_Localized": "{ticket.Count:N0} {ticket.Title}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 95233136596606976,
+      "m_Localized": "{medals:N0} {medals:Medal|Medals}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 97169945056501760,
+      "m_Localized": "Used to purchase items in the Conquest Shop.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97173965473046528,
+      "m_Localized": "Spend Tickets to start Conquests.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97536372984766464,
+      "m_Localized": "{medals:N0}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 104767386710695936,
+      "m_Localized": "{currency:N0}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 104774642588180480,
+      "m_Localized": "{collectionLevel:N0}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 104788680919474176,
+      "m_Localized": "{xp:N0}/{totalXp:N0}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 104790204466847744,
+      "m_Localized": "<sprite=0 tint=1>{credits:N0}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 105013042503213056,
+      "m_Localized": "{conquest.CurrentTickets}/<size=133%>{conquest.TicketCost} <sprite={conquest.SpriteIndex}> Owned",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 107593931636596736,
+      "m_Localized": "{gold:N0}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 107594895189860352,
+      "m_Localized": "{tokens:N0}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 107651706706190336,
+      "m_Localized": "Earn Up To:",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107683653968977920,
+      "m_Localized": "BATTLE {battle:cond:<10?0|}{battle}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 107687865322823680,
+      "m_Localized": "ENTRY",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109457728517169152,
+      "m_Localized": "Forfeit Conquest?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109458134282526720,
+      "m_Localized": "Do you wish to forfeit this Conquest immediately?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109799102730985472,
+      "m_Localized": "{winCount}/{conquest.WinsRequired} Wins",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 109799756627173376,
+      "m_Localized": "You beat the\\n{conquest.Title}!",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 109800032276832256,
+      "m_Localized": "Conquest Incomplete",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109811245471752192,
+      "m_Localized": "Enter\\n{conquest.Title}?",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 109858367365701632,
+      "m_Localized": "Enter",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110181924419395584,
+      "m_Localized": "<size=120%>Win Battles to earn <sprite=5 tint=1><color=#F5C359>Medals</color> and a ticket to the next Conquest!</size><br><br><size=130%><color=white><b>BATTLE RULES</b></color>\r</size=><br>Each player starts with 10 health. Run out of health, and you're out!\r\\n<br>Winning a round damages your opponent based on the Cube's value.<br><br>At Round 5 and beyond, the Cube starts doubled.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110202120739741696,
+      "m_Localized": "Earn <sprite=5 tint=1><color=#F5C359>Medals</color> in Conquest Battles.\\nNew items unlock every week.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 114915442638708736,
+      "m_Localized": "{conquest.ShortTitle} in Progress",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 114974027401912320,
+      "m_Localized": "Entrance Fee",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 115209585088782336,
+      "m_Localized": "Choose Your Conquest",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 115209877364662272,
+      "m_Localized": "Choose a Conquest and win consecutive Battles to earn prizes.\\nWinning a Conquest earns you a ticket to the next Conquest.\\nWin an Infinity Conquest to earn an exclusive Infinity Avatar!\\nSpend Medals earned in the Medal Shop. All leftover Medals and Tickets convert to Boosters at the end of each season!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 115210418060779520,
+      "m_Localized": "Okay!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 115225945168666624,
+      "m_Localized": "Forfeit",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 115595240906153984,
+      "m_Localized": "Heads Up!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 115595369725812736,
+      "m_Localized": "This Conquest season will end in {timeCountdown:{timeCountdown}|--h --m}, after which all Conquest runs will automatically end.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 116757050799677440,
+      "m_Localized": "Let's Go!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 117013493616467968,
+      "m_Localized": "Unlocks in:",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 117099064544190464,
+      "m_Localized": "Use <sprite=5 tint=1><color=#F5C359>Medals</color> earned from Conquests to make purchases. Each week, new items will unlock.\\nLeftover Medals and Tickets will convert to Boosters at the end of the Season. \\nMake enough purchases to get an exclusive reward!\\nEach season will have a fresh inventory of items.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 117360779890515968,
+      "m_Localized": "Exclusive Card",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 117360968139268096,
+      "m_Localized": "{purchasesMade}/{purchasesRequired} purchases below to earn:",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 118140876553707520,
+      "m_Localized": "Convert",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 118167403873951744,
+      "m_Localized": "At the end of each season, extra <color=#F5C359><sprite=5 tint=1>Medals</color> and Tickets are converted to Boosters.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 118169049928556544,
+      "m_Localized": "Season End",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 119590254090903552,
+      "m_Localized": "Available",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 119590740349149184,
+      "m_Localized": "Week {week}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 120686311164076032,
+      "m_Localized": "Bronze Ticket",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120244902183297024,
+      "m_Localized": "Enter Conquest?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120330231800127488,
+      "m_Localized": "Estimated Wait Time: {timeCountdown:{timeCountdown}|--h --m}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 120331389906182144,
+      "m_Localized": "Current Wait Time: {timeCountdown:{timeCountdown}|--h --m}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 120592662929596416,
+      "m_Localized": "Change",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120598322811494400,
+      "m_Localized": "Confirm Your Deck",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120598559919693824,
+      "m_Localized": "Is this the deck you want to use for your next Battle?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120657507255312384,
+      "m_Localized": "Not Ready",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120658694436282368,
+      "m_Localized": "Final Battle!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120658892399042560,
+      "m_Localized": "If you win this Battle, you will earn a copy of your <color=#ED90FF>CURRENT Avatar with the Infinity Frame.</color>\\nGood luck!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120663043463962624,
+      "m_Localized": "Hold On!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120663262444380160,
+      "m_Localized": "This Avatar already has an Infinity Frame!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120663666859171840,
+      "m_Localized": "If you win this Battle, you will earn the <color=#ED90FF>Infinity Frame for a random Avatar</color> in your collection.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120668964806189056,
+      "m_Localized": "You already have all Infinity Avatars available to obtain!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120669073820344320,
+      "m_Localized": "If you win this Battle, you will <color=#FF6666>NOT</color> earn a new <color=#ED90FF>Infinity Avatar</color>.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120686251265220608,
+      "m_Localized": "Proving Grounds Ticket",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120686361617358848,
+      "m_Localized": "Silver Ticket",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120686398871166976,
+      "m_Localized": "Gold Ticket",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120686440042455040,
+      "m_Localized": "Platinum Ticket",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120686482379759616,
+      "m_Localized": "Vibranium Ticket",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120686532250034176,
+      "m_Localized": "Infinity Ticket",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 121678382066819072,
+      "m_Localized": "Infinity Avatar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 121705296366133248,
+      "m_Localized": "Purchase Entry?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 121705930901413888,
+      "m_Localized": "Enter {conquest.Title}?",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 122464280253554688,
+      "m_Localized": "COMING SOON!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 124197963889106944,
+      "m_Localized": "MAX!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 125292900395245568,
+      "m_Localized": "{PunchCount}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 125296791027441664,
+      "m_Localized": "Purchase Daily Offers",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 125291576215724032,
+      "m_Localized": "Let's Go!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127098485356879872,
+      "m_Localized": "Bonus Rewards:",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122469788523945984,
+      "m_Localized": "Estimated Wait Time: Unknown",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122482302905212928,
+      "m_Localized": "Proving Grounds",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122482381682630656,
+      "m_Localized": "Bronze",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122482414482087936,
+      "m_Localized": "Silver",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122482444009988096,
+      "m_Localized": "Gold",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122482467854606336,
+      "m_Localized": "Vibranium",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122482581990006784,
+      "m_Localized": "Infinity",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122482635031175168,
+      "m_Localized": "{conquest.ShortTitle}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 122516214075351040,
+      "m_Localized": "Unlocks when you finish the Recruit Season Pass",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 124301273992257536,
+      "m_Localized": "You Defeated",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 124667726255874048,
+      "m_Localized": "<sprite=8 tint=0>{tokens:N0}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 124671993167470592,
+      "m_Localized": "<sprite=1 tint=1>{gold:N0}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 125329478622633984,
+      "m_Localized": "You made it to Rank {rank}!",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 125421371264065536,
+      "m_Localized": "Time to start a new season!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 125680059501502464,
+      "m_Localized": "Redeem",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127145926831628288,
+      "m_Localized": "Premium Mystery Variant",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127511600590479360,
+      "m_Localized": "An alternate art Variant of a card you own.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127800671850192896,
+      "m_Localized": "Available In:",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127823560733351936,
+      "m_Localized": "Available In:",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 129637006152032256,
+      "m_Localized": "{PunchCount}/{RequiredPunchCount} daily offer purchases earn:",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 130036336809730048,
+      "m_Localized": "{PunchCountRequired}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 127520159566913536,
+      "m_Localized": "Not Quite A Bird",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 131803947633467392,
+      "m_Localized": "Aspect of Heimdall",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 131804249552052224,
+      "m_Localized": "Emergency Pirate Outfit",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 131804542398357504,
+      "m_Localized": "Avast Ye, Admiral!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 131804817741832192,
+      "m_Localized": "Sword & Shield",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 131805039549210624,
+      "m_Localized": "Artist Showcase: Kim Jacinto",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 131805243522408448,
+      "m_Localized": "Festival of Unity",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 131850586227412992,
+      "m_Localized": "Days of Summer Past",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 131964065814876160,
+      "m_Localized": "Beach Bums",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 131964810396110848,
+      "m_Localized": "Cannonball Run",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 132500866827542528,
+      "m_Localized": "{shortQuantity}",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 128253606434430976,
+      "m_Localized": "Daily Offer Shop",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 128253914124378112,
+      "m_Localized": "Once per day, eight variants for cards \u2028in your collection are offered here.\r\n\u2028<color=#ffa34f>Premium Mystery Variants</color> can also be\u2028purchased here up to <color=#ffa34f>{PremiumMysteryVariantPurchaseLimit}</color> times per week.\u2028These contain either a rare or super-rare \u2028variant (excluding any pixel variants).\r\n\r\nAfter making <color=#ffa34f>{PunchCardRequiredPurchases}</color> purchases in the shop, \u2028you can claim a bonus reward \u2028(up to once per week).\u2028",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 133274839949500416,
+      "m_Localized": "{PunchCount}/{RequiredPunchCount} daily offer purchases",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 134399100529401856,
+      "m_Localized": "{PunchCount}/{RequiredPunchCount} purchases towards next reward:",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 128329214665416704,
+      "m_Localized": "Spotlight Cache",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 128336490075774976,
+      "m_Localized": "Contains featured Series 4 or 5 cards and time exclusive variants.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130203940614561792,
+      "m_Localized": "Spotlight Cache",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130204454370664448,
+      "m_Localized": "When you open a Super Cache, you’re guaranteed one of following cards. As you earn cards, the odds to earn the remaining cards get better and better!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130205403449384960,
+      "m_Localized": "New content in:",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 133087397690728448,
+      "m_Localized": "Already Owned!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 133091177303891968,
+      "m_Localized": "Convert!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 134191557198733312,
+      "m_Localized": "<color=#90FE38><sprite=7 tint=1>{nextSpotlightCacheCollectionScore}</color>",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 3
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 134193053311164416,
+      "m_Localized": "Next Spotlight Cache:",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 134218371719749632,
+      "m_Localized": "Random Series 4 or 5 Card",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 134218687408234496,
+      "m_Localized": "Get one of the rarest cards in the game! If you already own the card, you can convert it to a Premium Variant.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 134223923703177216,
+      "m_Localized": "New Cards In:",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 0,
+        "type": {
+          "class": "SmartFormatTag",
+          "ns": "UnityEngine.Localization.Metadata",
+          "asm": "Unity.Localization"
+        },
+        "data": {}
+      },
+      {
+        "rid": -3048972132101914499,
+        "type": {
+          "class": "\u0000�o5",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": -5264743148766940542,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 7560007397662720,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 283691592154106555,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 8020686755848192,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 3093937759633369272,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 11170288955863040,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 5345737573319228055,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 12699754562576384,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": -1481719461774025009,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 15526756491452416,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 2211232232669395524,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 19142651814076416,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": -9209896422341566436,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": 20276527500353536,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      },
+      {
+        "rid": -8183075707299545633,
+        "type": {
+          "class": "",
+          "ns": "",
+          "asm": ""
+        },
+        "data": {}
+      }
+    ]
+  }
+}
